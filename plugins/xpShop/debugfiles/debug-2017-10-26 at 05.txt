@@ -1,0 +1,32 @@
+[Thu Oct 26 05:11:33 CEST 2017] Debug: Shops stats file contains 0 values!
+[Thu Oct 26 05:11:43 CEST 2017] Debug: Searching update for xpShop!
+[Thu Oct 26 05:22:36 CEST 2017] Debug: Player 26 XP: 26 Level: 2
+[Thu Oct 26 05:22:37 CEST 2017] Debug: Player 27 XP: 27 Level: 3
+[Thu Oct 26 05:22:37 CEST 2017] Debug: Player 28 XP: 28 Level: 3
+[Thu Oct 26 05:22:37 CEST 2017] Debug: Player 28 XP: 28 Level: 3
+[Thu Oct 26 05:22:37 CEST 2017] Debug: Player 28 XP: 28 Level: 3
+[Thu Oct 26 05:22:37 CEST 2017] Debug: Player 28 XP: 28 Level: 3
+[Thu Oct 26 05:22:37 CEST 2017] Debug: Player 28 XP: 28 Level: 3
+[Thu Oct 26 05:32:37 CEST 2017] Debug: Shops stats file contains 0 values!
+[Thu Oct 26 05:32:37 CEST 2017] Debug: Safe stats file contains 0 values!
+[Thu Oct 26 05:32:37 CEST 2017] disabled in 60 ms
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Config file found!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: check-for-updates: true!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Version: 12.2
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Creaeting table!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Table created!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Created in 38 ms!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Shops stats file contains 0 values!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Stats loaded!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Safe stats file contains 0 values!
+[Thu Oct 26 05:32:48 CEST 2017] Debug: Stats loaded!
+[Thu Oct 26 05:32:48 CEST 2017] Enabled in 387ms
+[Thu Oct 26 05:33:01 CEST 2017] Debug: Shops stats file contains 0 values!
+[Thu Oct 26 05:33:11 CEST 2017] Debug: Searching update for xpShop!
+[Thu Oct 26 05:34:57 CEST 2017] Debug: Player 34 XP: 34 Level: 3
+[Thu Oct 26 05:34:57 CEST 2017] Debug: Player 34 XP: 34 Level: 3
+[Thu Oct 26 05:37:32 CEST 2017] Debug: Player 41 XP: 41 Level: 4
+[Thu Oct 26 05:37:32 CEST 2017] Debug: Player 41 XP: 41 Level: 4
+[Thu Oct 26 05:40:51 CEST 2017] Debug: Shops stats file contains 0 values!
+[Thu Oct 26 05:40:51 CEST 2017] Debug: Safe stats file contains 0 values!
+[Thu Oct 26 05:40:51 CEST 2017] disabled in 18 ms

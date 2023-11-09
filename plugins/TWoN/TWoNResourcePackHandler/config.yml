@@ -1,0 +1,7 @@
+Method: CHAT
+reloadPerm: TWoNRPH.reload
+sendPerm: TWoNRPH.send
+addPerm: TWoNRPH.add
+viewUpdate: TWoNRPH.updates
+URL:
+  Default: https://www.dropbox.com/s/wu5psei4yca6st4/0.9.1.zip?dl=0

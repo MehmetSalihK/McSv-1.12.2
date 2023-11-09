@@ -1,0 +1,5 @@
+on rightclick with minecraft:mushroom_stew:
+    if tool's display name is "Chips":
+        send "Chips."
+        add 2 to player's hunger bar
+        remove 1 minecraft:mushroom_stew named "Chips" from player

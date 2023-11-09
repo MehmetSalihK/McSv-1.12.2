@@ -1,0 +1,273 @@
+Name: LuckyChest
+RedeemDelay: -1
+'1':
+  type: RED_ROSE
+  amount: 1
+  durability: 4
+  meta: true
+  name: §7§4Essaye Encore :(
+'2':
+  type: WOOD_PICKAXE
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'3':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€6
+'4':
+  type: WOOD_SPADE
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'5':
+  type: INK_SACK
+  amount: 1
+  durability: 13
+  meta: true
+  name: §7§4Essaye Encore :(
+'6':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€40
+'7':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€8
+'8':
+  type: DEAD_BUSH
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'9':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€30
+'10':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€2
+'11':
+  type: TRIPWIRE_HOOK
+  amount: 1
+  meta: true
+  name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+  lore:
+  - ''
+  enchants:
+  - LUCK:1
+'12':
+  type: NAME_TAG
+  amount: 1
+'13':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€10
+'14':
+  type: INK_SACK
+  amount: 1
+  durability: 10
+  meta: true
+  name: §7§4 Essaye Encore :(
+'15':
+  type: RED_ROSE
+  amount: 1
+  durability: 2
+  meta: true
+  name: §7§4Essaye Encore :(
+'16':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€1
+'17':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §7§40€
+  - §7§4Essaye Encore :(
+'18':
+  type: RED_ROSE
+  amount: 1
+  durability: 7
+  meta: true
+  name: §7§4Essaye Encore :(
+'19':
+  type: DIAMOND_LEGGINGS
+  amount: 1
+'20':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€5
+'21':
+  type: INK_SACK
+  amount: 1
+  durability: 11
+  meta: true
+  name: §7§4Essaye Encore :(
+'22':
+  type: DIAMOND_BOOTS
+  amount: 1
+'23':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€4
+'24':
+  type: DIAMOND_CHESTPLATE
+  amount: 1
+'25':
+  type: INK_SACK
+  amount: 1
+  durability: 12
+  meta: true
+  name: §7§4Essaye Encore :(
+'26':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€50
+'27':
+  type: DIAMOND_HELMET
+  amount: 1
+'28':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€100
+'29':
+  type: INK_SACK
+  amount: 1
+  durability: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'30':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §f§b LuckyChest §b
+  lore:
+  - ''
+  - §7§4 Bonne Chance :) §4
+  - §b48§7x §b?-_-?
+'31':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€7
+'32':
+  type: INK_SACK
+  amount: 1
+  durability: 8
+  meta: true
+  name: §7§4Essaye Encore :(
+'33':
+  type: YELLOW_FLOWER
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'34':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€250
+'35':
+  type: WOOD_AXE
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'36':
+  type: RED_ROSE
+  amount: 1
+  durability: 3
+  meta: true
+  name: §7§4Essaye Encore :(
+'37':
+  type: WOOD_BUTTON
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'38':
+  type: INK_SACK
+  amount: 1
+  durability: 9
+  meta: true
+  name: §7§4Essaye Encore :(
+'39':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€9
+'40':
+  type: STICK
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'41':
+  type: RED_ROSE
+  amount: 1
+  durability: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'42':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€3
+'43':
+  type: INK_SACK
+  amount: 1
+  durability: 14
+  meta: true
+  name: §7§4Essaye Encore :(
+'44':
+  type: DOUBLE_PLANT
+  amount: 1
+  meta: true
+  name: §7§4Essaye Encore :(
+'45':
+  type: PAPER
+  amount: 1
+  meta: true
+  name: §8§l[§6§lBillet§8§l]
+  lore:
+  - §a€20

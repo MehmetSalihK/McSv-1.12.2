@@ -1,0 +1,5 @@
+on rightclick with diamond_hoe:
+    if tool's display name is "pizza":
+        send "Pizza Yedin."        
+        add 3 to player's hunger bar
+        remove 1 diamond_hoe named "Pizza" from player

@@ -1,0 +1,13 @@
+Version: 1.32
+Date: 01-12-2017
+Sunny:
+  'Yes': 0
+  'No': 0
+  Won: 0
+  Lost: 0
+Rainy:
+  'Yes': 0
+  'No': 0
+  Won: 0
+  Lost: 0
+MoneySpent: 0.0

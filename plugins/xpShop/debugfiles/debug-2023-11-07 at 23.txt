@@ -1,0 +1,30 @@
+[Tue Nov 07 23:45:33 CET 2023] Debug: Config file found!
+[Tue Nov 07 23:45:33 CET 2023] Debug: check-for-updates: true!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Version: 12.2
+[Tue Nov 07 23:45:33 CET 2023] Debug: Creaeting table!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Table created!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Created in 0 ms!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Shops stats file contains 0 values!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Stats loaded!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Safe stats file contains 0 values!
+[Tue Nov 07 23:45:33 CET 2023] Debug: Stats loaded!
+[Tue Nov 07 23:45:33 CET 2023] Enabled in 162ms
+[Tue Nov 07 23:45:48 CET 2023] Debug: Shops stats file contains 0 values!
+[Tue Nov 07 23:45:58 CET 2023] Debug: Searching update for xpShop!
+[Tue Nov 07 23:47:33 CET 2023] Debug: Player 14 XP: 14 Level: 1
+[Tue Nov 07 23:48:43 CET 2023] Debug: Shops stats file contains 0 values!
+[Tue Nov 07 23:48:43 CET 2023] Debug: Safe stats file contains 0 values!
+[Tue Nov 07 23:48:43 CET 2023] disabled in 1 ms
+[Tue Nov 07 23:48:54 CET 2023] Debug: Config file found!
+[Tue Nov 07 23:48:54 CET 2023] Debug: check-for-updates: true!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Version: 12.2
+[Tue Nov 07 23:48:54 CET 2023] Debug: Creaeting table!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Table created!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Created in 0 ms!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Shops stats file contains 0 values!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Stats loaded!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Safe stats file contains 0 values!
+[Tue Nov 07 23:48:54 CET 2023] Debug: Stats loaded!
+[Tue Nov 07 23:48:54 CET 2023] Enabled in 87ms
+[Tue Nov 07 23:49:08 CET 2023] Debug: Shops stats file contains 0 values!
+[Tue Nov 07 23:49:18 CET 2023] Debug: Searching update for xpShop!

@@ -1,0 +1,59 @@
+Crafts:
+  elytra:
+    output: 443 1 name:elytra
+    shapelessRecipe: false
+    usePermission: true
+    recipe:
+    - xcx
+    - cdc
+    - cec
+    ingredients:
+      c: '334'
+      d: '264'
+      e: '368'
+  Cuir:
+    output: '334'
+    shapelessRecipe: false
+    usePermission: true
+    recipe:
+    - xxx
+    - ccx
+    - ccx
+    ingredients:
+      c: '367'
+  Chips:
+    output: 282 1 name:Chips
+    shapelessRecipe: false
+    usePermission: false
+    recipe:
+    - PPP
+    - SSS
+    - PPP
+    ingredients:
+      S: '295'
+      P: '392'
+  grass:
+    output: '2'
+    shapelessRecipe: true
+    usePermission: true
+    noPermission: '&cVous ne pouvez pas créer cette block.'
+    ingredients:
+    - '3'
+    - '295'
+  redcreep76:
+    output: 397:3 1 player:redcreep76 name:&4&lRedcreep76_Head
+    shapelessRecipe: false
+    usePermission: false
+    recipe:
+    - aaa
+    - abc
+    - ddd
+    ingredients:
+      a: '35:12'
+      b: '159:0'
+      c: '35:11'
+      d: '87'
+Smelts:
+  leather:
+    output: '367'
+    ingredient: '334'

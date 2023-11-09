@@ -1,0 +1,9 @@
+[Thu Feb 08 21:02:03 CET 2018] Debug: Checking if block is valid!
+[Thu Feb 08 21:12:14 CET 2018] Debug: Checking if block is valid!
+[Thu Feb 08 21:22:17 CET 2018] Debug: Checking if block is valid!
+[Thu Feb 08 21:27:28 CET 2018] Debug: Checking if block is valid!
+[Thu Feb 08 21:31:42 CET 2018] Debug: Shops stats file contains 0 values!
+[Thu Feb 08 21:31:52 CET 2018] Debug: Searching update for xpShop!
+[Thu Feb 08 21:48:59 CET 2018] Debug: Checking if block is valid!
+[Thu Feb 08 21:50:42 CET 2018] Debug: Checking if block is valid!
+[Thu Feb 08 21:59:30 CET 2018] Debug: Checking if block is valid!

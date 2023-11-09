@@ -1,0 +1,18 @@
+{
+  "CustomSkull": {
+    "TextureURL": "Insert Base64URL Here",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [
+    "&7Get the skull",
+    "&7of a certain player."
+  ],
+  "DisplayLoreEnabled": "true",
+  "DisplayName": "&ePlayer Skull Search",
+  "FakeEnchanted": "true",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "ANVIL",
+  "Slot-Number": "4"
+}

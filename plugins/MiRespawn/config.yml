@@ -1,0 +1,15 @@
+message:
+  enabled: false
+  message:
+
+# This function will only work above Minecraft 1.8
+title:
+  enabled: true
+  title:
+  subtitle:
+  # The duration is given in seconds.
+  duration: 3
+
+# Do not touch this.
+# Removing this value will regenerate your config.
+plugin-version: 1.5

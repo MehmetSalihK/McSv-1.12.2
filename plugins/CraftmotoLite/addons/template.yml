@@ -1,0 +1,369 @@
+## IMPORTANT NOTE: When making adding, keep in mind that all combining values (ie. specified in more than one file) will use the following priorities:
+## chestplate > boots > left arm > helmet > right arm > leggings
+
+## All true/false values are combined using OR (order irrelevant).
+## All string values are combined using the first found (ie. highest priority).
+## All item values are combined using the first found (ie. highest priority).
+## All list values are combined in order of priority.
+## All multiplier (number) values are multiplied together (order irrelevant).
+## All other number values are added together (order irrelevant).
+
+## —————————— ##
+
+## What item will go on the armour stand. This should be your resource pack model. Ops can use the inspect command to determine the values for this setting.
+
+## The default is used when no matches can be found in the other models. If a model specified is a close match (same locked/unlocked seats but different data) and no exact match can be found, it will be used before the default.
+
+## To add new models, simply add a new block section with any name you’d like. See the section “car_locked” for an example.
+
+## If both ‘locked’ and ‘unlocked’ are empty lists (ie. []), door lock states will be ignored. If either one is specified, both must match to be use this model.
+## ‘data’ is a property of the spacebar action. If it is -1, it will be ignored.
+
+display:
+  default:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Unbreakable: true
+  car_locked: ## The name of the model.
+    locked: ## A list of seats that must be locked.
+    - seat0
+    - seat1
+    unlocked: [] ## A list of seats that must be unlocked.
+    data: -1
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SPADE
+      damage: 6
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Unbreakable: true
+
+## The name of this part.
+name: Craftmoto Add-on
+
+## The cost to add this part to a vehicle.
+build_cost: 0
+
+## The cost to buy this vehicle for the first time. If the player has the permission Craftmoto.spawn.(NAME), spawn_cost is used instead.
+buy_cost: 50
+
+## The cost to spawn this vehicle once the player has the permission Craftmoto.spawn.(NAME). Defaults to buy_cost.
+spawn_cost: 10
+
+## Garage settings for this vehicle.
+garage:
+  can_be_stored:
+    on_right_click: true ## Whether or not this vehicle can be sent to the garage. If false, despawns instead.
+
+## What seat to attach this add-on to. Defaults to the main (seat0). All helmets will always attach to seat0.
+glue_to: 
+
+## The static display angle in degrees. This will be overridden if tracking is on.
+angle:
+  x: 0
+  y: 0
+  z: 0
+
+## Information for how to aim this add-on relative to a passenger in a specific seat (if this is a legs, arm or body item).
+tracks:
+  seat: ## What seat this accessory’s vector should follow.
+  yaw: y ## How to track the yaw (x, y, z or a combination). Add a negative to reverse an axis (ie. -xy will track on the y-axis and reverse the x-axis).
+  pitch: x ## How to track the pitch (x, y, z or a combination). Add a negative to reverse an axis (ie. -x-y will track on the x and y-axes, both reversed).
+
+## How this part looks in the inspect view. All properties can be referenced as {path.to.property} in this file. {seat} will be replaced with the seat index of the viewer.
+inspect:
+- '&6{name}:'
+- '  &eHealth:&r {shield.health}'
+- '  &eRegen Speed:&r {shield.regen_speed}'
+- '  &eSeats:&r {seats.amount}'
+- '  &eSpacebar Action:&r {seats.spacebar.seat{seat}.action}'
+- '  &eTurn Sensitivity:&r {move.turn.sensitivity}'
+- '  &eAcceleration:&r {move.normal.max_acceleration}'
+
+## The item a player must interact with to add this add-on to an existing vehicle.
+upgrade:
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND_SPADE
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Unbreakable: true
+  message:
+    success: Vroom vroom.
+    failure: Unable to install add-on.
+
+## How this vehicle will look.
+appearance:
+  small: false ## Whether or not to make this vehicle small.
+  show_health: true ## Whether or not to show this vehicle health.
+
+## Information about seats.
+## Note: seat0 is the drivers seat. Everything else is a passenger seat.
+seats:
+  amount: 3 ## How many (in addition to the driver’s seat).
+  offset: ## The offset in blocks from the centre of the drivers seat.
+    seat1:
+      x: 0
+      y: -1.55
+      z: -1.15
+    seat2:
+      x: -1.15
+      y: -1.55
+      z: 0
+    seat3:
+      x: -1.15
+      y: -1.55
+      z: -1.15
+  steers: ## Which seats will be able to steer this vehicle.
+    seat0: true
+    seat1: true
+    seat2: false
+    seat3: false
+  dummy: ## Dummy seats cannot be driven.
+    seat3: true
+  pickup_mobs: ## What seats will pickup nearby mobs.
+    seat0: true
+  spacebar: ## What happens when the spacebar is pressed. Action can be any of fly, horn, shoot, data, inventory. Cooldown is in ticks. If cooldown is negative, player must release spacebar before action can happen again. If action is data, you must define a list of integers, ‘cycle’ for data to cycle through.
+    seat0:
+      action: inventory
+      cooldown: 5
+    seat1:
+      action: data
+      cooldown: -1
+      cycle:
+      - 0
+      - 1
+      - 5
+      - 3
+    seat2:
+      action: shoot
+      cooldown: 5
+  gun: ## Hooks into CrackShot.
+    seat1:
+      gun: Deagle ## The name of the CrackShot weapon.
+      click: left ## How to shoot this gun. Can be left or right.
+      sneak: true ## Whether or not to shoot this gun as if the player is sneaking.
+      infinite_ammo: true ## Whether or not this gun has infinite ammo. If false, uses ammo from the player/vehicle inventory.
+  clamp: ## Limit the ability of a passenger to turn in their seat. Only works if the passenger cannot steer the vehicle from this seat. Must be > 0 if you wish to use this.
+    seat1:
+      yaw:
+        left: 0
+        right: 0
+      pitch:
+        up: 0
+        down: 0
+  inventory: ## Per-seat inventories. Size must be a multiple of 9. Delete to remove the inventory. Only accessible if the spacebar action for the given seat is inventory.
+    seat0:
+      size: 9
+      title: Craftmoto Inventory  
+
+## Sounds produced by this add-on. All sounds should be formatted as
+## NAME~CATEGORY~VOLUME~PITCH
+## If the specified name is a Minecraft sound, it will be loaded. Otherwise, a custom sound (ie. from a resource pack) will attempt to be loaded.
+## CATEGORY can be any of AMBIENT, HOSTILE, MASTER, MUSIC, NEUTRAL, PLAYERS, RECORDS, VOICE, WEATHER and reflects what sound setting the client will hear it as.
+## Built-in NAME values can be found online by Googling Spigot Sound.
+sound:
+  drive: ## When the car is driving.
+    frequency: 20 ## How frequently to make this sound (in ticks).
+    sound: 
+  horn: ## When the horn action is activated.
+  lock: ## When the vehicle lock is interacted with.
+    toggle: ## When a player locks/unlocks a door.
+      to_locked: BLOCK_IRON_TRAPDOOR_CLOSE
+      to_unlocked: BLOCK_IRON_TRAPDOOR_OPEN
+    locked: BLOCK_WOOD_BUTTON_CLICK_OFF ## When a player tries to open a locked door.
+
+## Effects produced by this vehicle.
+## Types can be found by googling Spigot ParticleEffect.
+## All offsets are in blocks relative to seat0 (same as seat offsets).
+## Data is typically used to change the colour of a particle if supported.
+effect:
+  type: CLOUD
+  offset:
+    x: -2.9
+    y: -0.8
+    z: -1.3
+  amount: 30 ## How many particles to produce.
+  extra: 0.1 ## Speed data.
+  data: ## Extra data.
+  frequency: 10 ## How frequently to spawn these particles (in ticks).
+  hurt: ## An effect to display when this part is damaged.
+    type: SMOKE_LARGE
+    offset:
+      x: 1.4
+      y: 0.9
+      z: -0.8
+    health_cutoff: 10 ## The maximum health to display this effect at.
+    amount_multiplier: 90 ## The scale of the particles to display (amount = multiplier/health)
+    extra: 0.04
+    frequency: 9
+  lock: ## An effect to display when this part is locked or unlocked.
+    toggle:
+      to_locked:
+        type: VILLAGER_ANGRY
+        offset:
+          x: 0
+          y: 0.9
+          z: 0
+        amount: 5
+        extra: 0.1
+        data:
+      to_unlocked:
+        type: VILLAGER_HAPPY
+        offset:
+          x: 0
+          y: 0.9
+          z: 0
+        amount: 5
+        extra: 0.1
+        data:
+
+## Fuel is required to control a vehicle. Fuel will not be required if none of the vehicle seats have an inventory or the fuel item is blank.
+fuel:
+  item: ## The item to use as fuel. Leave empty or delete to not use fuel.
+    ==: org.bukkit.inventory.ItemStack
+    type: COAL
+  burn_time: 1200 ## Burn time in ticks.
+  gas_station:
+    rate: 0.5 ## How fast fuel is restored (in percent per tick).
+    offset: -0.8 ## The y-offset to search for the gas station block.
+    block: ## The block that works as a gas station. If this block is found at any seat’s location (plus the offset, above), refuelling will begin.
+      ==: org.bukkit.inventory.ItemStack
+      type: COAL_BLOCK
+
+## The item a player will use to lock/unlock doors by right clicking on a seat with it.
+key:
+  ==: org.bukkit.inventory.ItemStack
+  type: TRIPWIRE_HOOK
+
+## How much to damage entities upon colliding with them at speed (in half-hearts).
+damage: 6
+
+## Damage sources that this add-on is invulnerable to. This will make the vehicle resistant to all damage of these types.
+invulnerable:
+  inFire: false
+  lightningBolt: false
+  onFire: false
+  lava: false
+  hotFloor: false
+  inWall: false
+  cramming: false
+  drown: false
+  cactus: false
+  fall: false
+  flyIntoWall: false
+  generic: false
+  magic: false
+  wither: false
+  anvil: false
+  fallingBlock: false
+  dragonBreath: false
+  fireworks: false
+  mob: false
+  player: false
+  arrow: false
+  thrown: false
+  indirectMagic: false
+  thorns: false
+  explosion: false
+
+## The helmet add-on will take damage from all damage sources unless shielded by other accessory add-ons.
+## Add-ons will take damage evenly until breaking, then the add-on will be removed from the vehicle.
+shield:
+  health: 20 ## The health of this add-on.
+  regen_speed: 0.01 ## How fast (in half-hearts per tick) this add-on regenerates health.
+  from: ## Damage sources this add-on shields from (unless add-on type is helmet).
+    inFire: false
+    lightningBolt: false
+    onFire: false
+    lava: false
+    hotFloor: false
+    inWall: false
+    cramming: false
+    drown: false
+    cactus: false
+    fall: false
+    flyIntoWall: false
+    generic: false
+    magic: false
+    wither: false
+    anvil: false
+    fallingBlock: false
+    dragonBreath: false
+    fireworks: false
+    mob: false
+    player: false
+    arrow: false
+    thrown: false
+    indirectMagic: false
+    thorns: false
+    explosion: false
+
+## How this add-on contributes to vehicle movement.
+move:
+  gravity:
+    use_custom: false ## Whether or not to use this custom gravity value.
+    custom: 0.0 ## The value of gravity. Negative values are downwards. Default is roughly 0.04.
+  turn:
+    sensitivity: 1 ## Higher values will require longer to turn.
+    pitch:
+      enabled: false ## Whether or not this vehicle will pitch forward/backward with the player.
+      enabled_gravity: true ## Whether or not to use pitch when falling.
+      offset: 0 ## How much to offset the vehicle pitch from the player pitch.
+      gravity_cutoff: 80 ## Similar to turn sensitivity.
+      clamp:
+        lower: -90 ## The furthest down it can pitch.
+        upper: 90 ## The furthest up it can pitch.
+        gravity: 90 ## The furthest down it can pitch from gravity.
+    yaw_offset: 0 ## How much to offset the vehicle yaw from the player’s yaw.
+  climb: 1 ## How many blocks this vehicle can move vertically while driving.
+  float:
+    enabled: true ## Whether or not this vehicle can float.
+    offset: 0.0 ## How submerged to be while floating.
+  normal:
+    reverse_directions: false ## Whether or not to reverse W/S controls.
+    max_acceleration: 0.28 ## The maximum acceleration.
+  vertical:
+    reverse_directions: false ## Whether or not to reverse pitched W/S y-controls.
+    max_acceleration: 0.17 ## The maximum acceleration (applies to fly).
+  strafe:
+    enabled: false ## Whether or not to allow the A/D strafe movement.
+    reverse_directions: false ## Whether or not to reverse A/D controls.
+    max_acceleration: 0.28 ## The maximum acceleration.
+  multipliers: ## How much to multiply the acceleration by in certain cases.
+    backwards: 1
+    in_air: 1
+    in_water: 1
+    on_land: 1
+    underwater: 1
+  fly_multipliers: ## How much to multiply the vertical acceleration by when flying.
+    in_air: 1
+    in_water: 1
+    on_land: 1
+    underwater: 1
+  friction: ## The percentage of speed to maintain each tick in certain cases from 0.0 to 1.0 (0% to 100%).
+    in_air: 0.4
+    in_water: 0.9
+    underwater: 0.9
+
+underwater:
+  allowed: false ## Whether or not this vehicle can be ridden while submerged.
+  breathing: false ## Whether or not players will be able to breathe while underwater in this vehicle.
+  night_vision: false ## Whether or not players will get night vision as long as they’re underwater in this vehicle.
+
+## Here you can specify a list of items to use as a custom inventory. If you specify any items, any player joining the vehicle will have their inventory cleared and loaded with these items (in order) for as long as they’re on the vehicle. WARNING: IF THE SERVER CRASHES WHILE A PLAYER IS RIDING THE VEHICLE, THEIR ORIGINAL INVENTORY WILL BE LOST.
+custom_inventory:
+- ==: org.bukkit.inventory.ItemStack
+  type: DIRT
+- 
+- 
+- 
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE

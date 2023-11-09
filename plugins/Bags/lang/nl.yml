@@ -1,0 +1,19 @@
+not_allowed: '&4Je hebt geen bevoegdheid om dit te doen!'
+bag: Rugzak
+bag_big: Grote Rugzak
+bag_enc: Magische Rugzak
+bag_craft: Crafting Rugzak
+bag_ender: Ender Rugzak
+bag_anvil: Aambeeld Rugzak
+bag_inventory: Rugzak
+bag_credits1: '&6benfah | Voor het programeren van de plugin :3'
+bag_credits2: '&6Halbzwilling | Voor het ontdekken van de texture trick :3'
+bag_credits3: '&6Eydamos | Voor de inspiratie :3'
+bag_give_syntax: '&4Voorbeeld: /bags give <normal:big:craft:enchant:ender:anvil>'
+bag_cmdhelp1: '&6/bags credits | Bekijk de credits van de plugin :3'
+bag_cmdhelp2: '&6/bags resource | Stuur een resourcepack verzoek'
+bag_cmdhelp3: '&6/bags give <Bag> [Player] | Geeft je de Rugzak die je wilt'
+bag_cmdhelp4: '&6/bags edit <BagID> | Laat je de Rugzak bewerken met een specifiek BagID'
+p_not_found: '&cSpeler niet gevonden'
+update_found: '&eEen update voor Bags is gevonden!'
+click_here: '&6Klik hier'

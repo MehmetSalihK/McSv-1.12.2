@@ -1,0 +1,30 @@
+[Mon Nov 20 21:09:29 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 21:16:41 CET 2017] Debug: Player 107 XP: 107 Level: 7
+[Mon Nov 20 21:16:41 CET 2017] Debug: Player 107 XP: 107 Level: 7
+[Mon Nov 20 21:16:42 CET 2017] Debug: Player 108 XP: 108 Level: 7
+[Mon Nov 20 21:20:36 CET 2017] Debug: Player 109 XP: 109 Level: 7
+[Mon Nov 20 21:20:37 CET 2017] Debug: Player 113 XP: 113 Level: 8
+[Mon Nov 20 21:20:37 CET 2017] Debug: Player 117 XP: 117 Level: 8
+[Mon Nov 20 21:20:37 CET 2017] Debug: Player 117 XP: 117 Level: 8
+[Mon Nov 20 21:20:37 CET 2017] Debug: Player 118 XP: 118 Level: 8
+[Mon Nov 20 21:20:37 CET 2017] Debug: Player 118 XP: 118 Level: 8
+[Mon Nov 20 21:20:38 CET 2017] Debug: Player 118 XP: 118 Level: 8
+[Mon Nov 20 21:20:46 CET 2017] Debug: Player 123 XP: 123 Level: 8
+[Mon Nov 20 21:20:46 CET 2017] Debug: Player 123 XP: 123 Level: 8
+[Mon Nov 20 21:20:46 CET 2017] Debug: Player 123 XP: 123 Level: 8
+[Mon Nov 20 21:20:58 CET 2017] Debug: Player 124 XP: 124 Level: 8
+[Mon Nov 20 21:21:08 CET 2017] Debug: Player 126 XP: 126 Level: 8
+[Mon Nov 20 21:21:08 CET 2017] Debug: Player 126 XP: 126 Level: 8
+[Mon Nov 20 21:21:09 CET 2017] Debug: Player 129 XP: 129 Level: 8
+[Mon Nov 20 21:21:40 CET 2017] Debug: Player 132 XP: 132 Level: 8
+[Mon Nov 20 21:21:48 CET 2017] Debug: Player 134 XP: 134 Level: 8
+[Mon Nov 20 21:21:48 CET 2017] Debug: Player 134 XP: 134 Level: 8
+[Mon Nov 20 21:30:36 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 20 21:30:46 CET 2017] Debug: Searching update for xpShop!
+[Mon Nov 20 21:58:56 CET 2017] Debug: Player 139 XP: 139 Level: 9
+[Mon Nov 20 21:58:56 CET 2017] Debug: Player 139 XP: 139 Level: 9
+[Mon Nov 20 21:58:56 CET 2017] Debug: Player 139 XP: 139 Level: 9
+[Mon Nov 20 21:58:56 CET 2017] Debug: Player 139 XP: 139 Level: 9
+[Mon Nov 20 21:59:13 CET 2017] Debug: Player 144 XP: 144 Level: 9
+[Mon Nov 20 21:59:13 CET 2017] Debug: Player 144 XP: 144 Level: 9
+[Mon Nov 20 21:59:13 CET 2017] Debug: Player 144 XP: 144 Level: 9

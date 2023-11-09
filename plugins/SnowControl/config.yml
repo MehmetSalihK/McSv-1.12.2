@@ -1,0 +1,60 @@
+# 
+#  SnowControl configuration
+#  Last updated with version: 1.1.1
+SnowFall:
+  CheckEvery: 10
+  AccumulationEnabled: true
+  AccumulationChance: 1
+  MaxAccumulationDefault: 7
+  MaxAccumulationOverride:
+    LEAVES: 3
+  MeltingEnabled: true
+  MeltingChance: 0.5
+  MeltDownCompletely: false
+  MinLightLevelToMelt: 11
+  ChanceToFallThrough: 80
+  CanFallThrough:
+  - LEAVES
+  CanReplace:
+  - null
+  CanAccumulateOn:
+  - BEDROCK
+  - BRICK
+  - CACTUS
+  - CLAY
+  - CLAY_BRICK
+  - DIAMOND
+  - DIAMOND_BLOCK
+  - DIAMOND_ORE
+  - DIRT
+  - EMERALD
+  - EMERALD_BLOCK
+  - EMERALD_ORE
+  - ENDER_STONE
+  - GOLD_BLOCK
+  - GOLD_ORE
+  - GRASS
+  - HUGE_MUSHROOM_1
+  - HUGE_MUSHROOM_2
+  - IRON_BLOCK
+  - IRON_ORE
+  - LAPIS_BLOCK
+  - LAPIS_ORE
+  - LEAVES
+  - LOG
+  - MELON_BLOCK
+  - MOSSY_COBBLESTONE
+  - NETHER_BRICK
+  - NETHERRACK
+  - OBSIDIAN
+  - PUMPKIN
+  - SAND
+  - SANDSTONE
+  - SMOOTH_BRICK
+  - SOIL
+  - STONE
+  - WOOD
+  - WOOL
+  EnabledWorlds:
+  - world
+Metrics: true

@@ -1,0 +1,21 @@
+users:
+  b70ee121-ae4c-4801-88ed-e6ef7cbedee3:
+    lastname: MehmetSalihK
+    group: Joueur
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

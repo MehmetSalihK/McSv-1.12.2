@@ -1,0 +1,11 @@
+debug: false
+worlds:
+  world:
+    growthRateModifier: 1.0
+    crops: true
+    netherwarts: false
+    melons: true
+    pumpkins: true
+    cacti: true
+    sugarcanes: true
+    saplings: true

@@ -1,0 +1,15 @@
+{
+  "CustomSkull": {
+    "TextureURL": "",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [],
+  "DisplayLoreEnabled": "false",
+  "DisplayName": "&e&lToggle Pet as Hat",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "DIAMOND_HELMET",
+  "Slot-Number": "51"
+}

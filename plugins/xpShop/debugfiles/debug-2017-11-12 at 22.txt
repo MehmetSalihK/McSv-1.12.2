@@ -1,0 +1,275 @@
+[Sun Nov 12 22:02:51 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:02:51 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:02:51 CET 2017] disabled in 16 ms
+[Sun Nov 12 22:21:56 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:21:56 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:21:56 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Table created!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Created in 4 ms!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:21:56 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:21:56 CET 2017] Enabled in 219ms
+[Sun Nov 12 22:22:09 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:22:19 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:22:25 CET 2017] Debug: Player 26 XP: 26 Level: 2
+[Sun Nov 12 22:26:54 CET 2017] Debug: Player 26 XP: 26 Level: 2
+[Sun Nov 12 22:31:29 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:31:29 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:31:29 CET 2017] disabled in 22 ms
+[Sun Nov 12 22:31:42 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:31:42 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:31:42 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Table created!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Created in 4 ms!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:31:42 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:31:42 CET 2017] Enabled in 115ms
+[Sun Nov 12 22:31:52 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:31:57 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:31:57 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:31:57 CET 2017] disabled in 13 ms
+[Sun Nov 12 22:32:08 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:32:08 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:32:08 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Table created!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Created in 5 ms!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:32:08 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:32:08 CET 2017] Enabled in 196ms
+[Sun Nov 12 22:32:18 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:32:28 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:37:02 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:37:02 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:37:02 CET 2017] disabled in 31 ms
+[Sun Nov 12 22:37:10 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:37:10 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:37:10 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Table created!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Created in 4 ms!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:37:10 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:37:11 CET 2017] Enabled in 207ms
+[Sun Nov 12 22:37:21 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:37:31 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:38:02 CET 2017] Debug: Player 26 XP: 26 Level: 2
+[Sun Nov 12 22:40:20 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:40:20 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:40:20 CET 2017] disabled in 45 ms
+[Sun Nov 12 22:40:29 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:40:29 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:40:29 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Table created!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:40:29 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:40:29 CET 2017] Enabled in 200ms
+[Sun Nov 12 22:40:41 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:40:51 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:41:28 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:41:28 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:41:29 CET 2017] disabled in 16 ms
+[Sun Nov 12 22:41:35 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:41:35 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:41:35 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Table created!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:41:35 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:41:35 CET 2017] Enabled in 165ms
+[Sun Nov 12 22:41:47 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:41:57 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:42:58 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:42:58 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:42:58 CET 2017] disabled in 17 ms
+[Sun Nov 12 22:43:06 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:43:06 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:43:06 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:43:06 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:43:06 CET 2017] Debug: Table created!
+[Sun Nov 12 22:43:06 CET 2017] Debug: Created in 5 ms!
+[Sun Nov 12 22:43:07 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:43:07 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:43:07 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:43:07 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:43:07 CET 2017] Enabled in 140ms
+[Sun Nov 12 22:43:18 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:43:28 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:44:30 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:44:30 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:44:30 CET 2017] disabled in 91 ms
+[Sun Nov 12 22:44:39 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:44:39 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:44:39 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Table created!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:44:39 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:44:39 CET 2017] Enabled in 166ms
+[Sun Nov 12 22:44:51 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:45:01 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:46:31 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:46:31 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:46:31 CET 2017] disabled in 22 ms
+[Sun Nov 12 22:46:39 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:46:39 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:46:39 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Table created!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Created in 7 ms!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:46:39 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:46:39 CET 2017] Enabled in 170ms
+[Sun Nov 12 22:46:50 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:47:00 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:47:32 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:47:32 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:47:32 CET 2017] disabled in 19 ms
+[Sun Nov 12 22:47:41 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:47:41 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:47:41 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Table created!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:47:41 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:47:41 CET 2017] Enabled in 136ms
+[Sun Nov 12 22:47:52 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:48:02 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:49:39 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:49:39 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:49:39 CET 2017] disabled in 15 ms
+[Sun Nov 12 22:49:46 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:49:46 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:49:46 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Table created!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Created in 5 ms!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:49:46 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:49:46 CET 2017] Enabled in 118ms
+[Sun Nov 12 22:49:56 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:50:06 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:50:58 CET 2017] Debug: Player 26 XP: 26 Level: 2
+[Sun Nov 12 22:52:23 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:52:23 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:52:23 CET 2017] disabled in 18 ms
+[Sun Nov 12 22:52:34 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:52:34 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:52:34 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Table created!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Created in 7 ms!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:52:34 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:52:34 CET 2017] Enabled in 130ms
+[Sun Nov 12 22:52:45 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:52:55 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:53:35 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:53:35 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:53:35 CET 2017] disabled in 14 ms
+[Sun Nov 12 22:53:42 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:53:42 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:53:42 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Table created!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:53:42 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:53:42 CET 2017] Enabled in 140ms
+[Sun Nov 12 22:53:53 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:54:03 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:54:20 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:54:20 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:54:20 CET 2017] disabled in 17 ms
+[Sun Nov 12 22:54:30 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:54:30 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:54:30 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Table created!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Created in 7 ms!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:54:30 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:54:30 CET 2017] Enabled in 286ms
+[Sun Nov 12 22:54:41 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:54:51 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:56:20 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:56:20 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:56:20 CET 2017] disabled in 15 ms
+[Sun Nov 12 22:56:27 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:56:27 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:56:27 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:56:27 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:56:28 CET 2017] Debug: Table created!
+[Sun Nov 12 22:56:28 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 22:56:28 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:56:28 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:56:28 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:56:28 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:56:28 CET 2017] Enabled in 129ms
+[Sun Nov 12 22:56:38 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:56:48 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:57:50 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:57:50 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:57:50 CET 2017] disabled in 17 ms
+[Sun Nov 12 22:57:57 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:57:57 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:57:57 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Table created!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Created in 5 ms!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:57:57 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:57:57 CET 2017] Enabled in 119ms
+[Sun Nov 12 22:58:07 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:58:17 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 22:59:16 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:59:16 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:59:16 CET 2017] disabled in 16 ms
+[Sun Nov 12 22:59:23 CET 2017] Debug: Config file found!
+[Sun Nov 12 22:59:23 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 22:59:23 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Table created!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Created in 5 ms!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 22:59:23 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 22:59:23 CET 2017] Enabled in 118ms
+[Sun Nov 12 22:59:34 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 22:59:44 CET 2017] Debug: Searching update for xpShop!

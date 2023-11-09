@@ -1,0 +1,34 @@
+useUUIDs: false
+useregexperms: false
+grouppermission: true
+backendtype: YAML
+uuidplayerdb: YAML
+tablePrefix: bungeeperms_
+uuidfetcher:
+  cooldown: 3000
+saveAllUsers: true
+deleteUsersOnCleanup: false
+notify:
+  promote: false
+  demote: false
+tabcomplete: false
+locale: en-GB
+terminate:
+  prefix:
+    reset: true
+    space: true
+  suffix:
+    reset: true
+    space: true
+cleanup:
+  interval: 1800
+  threshold: 600
+async-commands: true
+servername: servername
+allowops: true
+superpermscompat: false
+standalone: false
+debug:
+  path: F:\Jeux\Minecraft\serveur\Nouveau dossier (3)\plugins\BungeePerms/debug.log
+  showexceptions: true
+  showlogs: false

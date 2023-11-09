@@ -1,0 +1,13 @@
+[Wed Dec 13 17:01:12 CET 2017] Debug: Player 305 XP: 305 Level: 14
+[Wed Dec 13 17:03:11 CET 2017] Debug: Player 310 XP: 310 Level: 14
+[Wed Dec 13 17:03:11 CET 2017] Debug: Player 310 XP: 310 Level: 14
+[Wed Dec 13 17:03:11 CET 2017] Debug: Player 310 XP: 310 Level: 14
+[Wed Dec 13 17:06:23 CET 2017] Debug: Player 325 XP: 325 Level: 15
+[Wed Dec 13 17:06:23 CET 2017] Debug: Player 325 XP: 325 Level: 15
+[Wed Dec 13 17:06:23 CET 2017] Debug: Player 325 XP: 325 Level: 15
+[Wed Dec 13 17:06:24 CET 2017] Debug: Player 325 XP: 325 Level: 15
+[Wed Dec 13 17:12:53 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 17:13:03 CET 2017] Debug: Searching update for xpShop!
+[Wed Dec 13 17:14:34 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 17:14:34 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Dec 13 17:14:34 CET 2017] disabled in 11 ms

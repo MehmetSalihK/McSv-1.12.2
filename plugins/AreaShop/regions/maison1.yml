@@ -1,0 +1,10 @@
+general:
+  name: maison1
+  world: world
+  type: buy
+  signs: {}
+  lastActive: 1699560321493
+buy:
+  price: 0.0
+  buyer: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+  buyerName: MehmetSalihK

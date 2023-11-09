@@ -1,0 +1,628 @@
+language: en
+autodownload: true
+installondownload: false
+check-for-updates: true
+senderrorreport: true
+senddebugfile: true
+debug: false
+debugfile: true
+UsePrefix: true
+newXPSystemof13: false
+PrefixColor: b
+TextColor: 6
+XPperBottle: 14
+CooldownofBottleFilling: 15
+Cooldownoftp: 15
+firstRun: false
+moneytoxp: 1.0
+xptomoney: 1.0
+keepxpondeath: false
+ConnectionofSafetoShop: false
+optionalconnectionofSafetoShop: true
+onlysendxptoonlineplayers: false
+usedbtomanageXP: false
+TaskRepeat: 30
+DelayTimeTask: 30
+SQL: false
+dbPath: localhost:3306/xpShop
+dbUser: nulll
+dbPassword: nulll
+buydeactivated: false
+selldeactivated: false
+senddeactivated: false
+buyleveldeactivated: false
+sellleveldeactivated: false
+infodeactivated: false
+helpdeactivated: false
+infoxpdeactivated: false
+infoleveldeactivated: false
+Signscreatedeactivated: false
+Signsusedeactivated: false
+Signsdestroydeactivated: false
+BottleFilling:
+  ConfirmTimeOut:
+    de: Du hast den Befehl nicht innerhalb von %1$s Sekunden bestaetigt.
+    en: You havent confirmed the command within %1$s sec.
+  Info:
+    de: Willst Du %1$d XP in %2$d Flaschen mit je %3$d XP fuellen? Es koennen beim
+      ausschuetten weniger XP herauskommen!
+    en: Do you want to fill %1$d XP into %2$d bottles with %3$d XP each? You may get
+      fewer XP if you trow the bottle.
+  NotEnoughXP:
+    de: Du hast keine %1$d XP um %2$d Flaschen mit je %3$d XP zu fuellen.
+    en: You havent got %1$d XP to fill %2$d bottles with %3$d XP each.
+  PleaseConfirm1:
+    de: Bitte bestaetige deine Eingabe mit /xpShop bottleconfirm
+    en: Please confirm your command with /xpShop bottleconfirm
+  PleaseConfirm2:
+    de: Um deine Eingabe abzubrechen tippe /xpShop bottlecancel
+    en: To cancel your command do /xpShop bottlecancel
+  canceled:
+    de: Erfolgreich abgebrochen.
+    en: Successfully canceled command.
+  confirmed:
+    de: Bestaetigt.
+    en: Confirmed.
+  executed:
+    de: Du hast %1$d XP in %2$d Flaschen mit je %3$d XP gefuellt.
+    en: You filled %1$d XP in %2$d bottles with %3$d XP each.
+  nocommand:
+    de: Kein Auftrag gefunden.
+    en: nothing to confirm.
+  notenoughbottles:
+    de: Du hast keine %1$d Flaschen!
+    en: You havent got %1$d bottles!
+Repair:
+  RegisterRepair1:
+    de: Willst Du wirklich das Item %1$s fuer %2$d %3$s reparieren?
+    en: Do you want to repair the item %1$s with %2$d %3$s?
+  RegisterRepair2:
+    de: Bestaetige mit /xpShop repairconfirm oder lehne mit /xpShop repaircancel ab.
+    en: Confirm with /xpShop repairconfirm or cancel with /xpShop repaircancel.
+  RegisterRepair3:
+    de: Die Anfrage laeuft in %1$d Sekunden aus.
+    en: The command times out in %1$d seconds.
+  TimedOut:
+    de: Die Anfrage ist abgelaufen.
+    en: The command timed out.
+  NotEnoughXP:
+    de: Du hast nicht genuegend %2$s um dieses Item fuer %1$d %2$s zu reparieren.
+    en: You havent got enough %2$s to repair this item for %1$d %2$s.
+  CommandConfirmed:
+    de: Bestaetigt.
+    en: Confirmed.
+  CommandCanceled:
+    de: Abgebrochen.
+    en: Canceled.
+  NoCommand:
+    de: Kein Befehl vorhanden.
+    en: no command registered.
+  WrongAmount:
+    de: Falscher Reperaturwert, da er die maximale Haltbarkeit ueberschreitet.
+    en: Wrong Amount because its exeeded the maximal durability.
+  alreadyCommandRegistered:
+    de: Du fuehrst bereits einen Befehl aus.
+    en: You have already registered a command.
+  executed:
+    de: Item repariert.
+    en: The items had been repaired.
+  damage:
+    de: Das Tool hat %1$d/%2$d Schaden.
+    en: The tool has %1$d/%2$d damage.
+  notool:
+    de: Dies ist kein Tool!
+    en: That is no tool!
+teleport:
+  xpperblock: 1
+  teleportstopped:
+    de: Teleport gestoppt.
+    en: Teleport stopped.
+  teleportrequest1:
+    de: Du willst bereits zu einem Player geportet werden!
+    en: You already wanted to teleport to a player!
+  teleportmustbeaccepted:
+    de: Der Teleport von %1$s muss innerhalb von %2$d Sekunden akzeptiert werden.
+    en: The teleport of %1$s must be accepted within %2$d sec.
+  teleportrequesttome:
+    de: Bitte bestaetige den Teleport von Dir zu %1$s in %2$d Sekunden.
+    en: Please accept the teleport of you to %1$s within %2$d sec.
+  teleportrequesttoplayer:
+    de: Bitte bestaetige den Teleport von %1$s zu Dir in %2$d Sekunden.
+    en: Please accept the teleport of %1$s to you within %2$d sec.
+  teleportrequest:
+    de: .%1$s wurde nun geportet.
+    en: .%1$s have been successfully ported.
+  teleportrequesttimeoutaccept:
+    de: Du hast den Teleport nicht in %1$d Sekunden bestaetigt.
+    en: You havent accepted the teleport within %1$d sec.
+  teleportrequesttimeout:
+    de: Der andere Player hat den Teleport nicht in %1$d Sekunden bestaetigt.
+    en: The other player hasnt accepted the teleport within %1$d sec.
+  teleportdenied:
+    de: Teleport wurde abgelehnt.
+    en: Teleport denied.
+  noteleport:
+    de: Kein Teleport vorhanden.
+    en: No teleport exist.
+  infoconfirmto:
+    de: Teleport von %1$s zu Dir in Auftrag gegeben.
+    en: Teleport of %1$s sent to the plugin.
+  infoconfirmme:
+    de: Teleport von %1$s zu Dir in Auftrag gegeben.
+    en: Teleport of %1$s sent to the plugin.
+  acceptconfirmdeny:
+    de: Bitte tippe /xpShop deny zum Ablehnen des Teleports.
+    en: Please execute the command /xpShop deny to deny the teleport.
+  tpconfirmdeny:
+    de: Bitte tippe /xpShop notp um abzubrechen.
+    en: Please execute the command /xpShop notp to cancel the command.
+  acceptconfirm:
+    de: Bitte tippe /xpShop accept zum Annehmen des Teleports.
+    en: Please execute the command /xpShop accept to accept the teleport.
+  tpconfirm:
+    de: Bitte tippe /xpShop yestp zum betaetigen.
+    en: Please execute the command /xpShop yestp to confirm the teleport.
+  info1:
+    de: Du brauchst %1$d XP um Dich %2$d Bloecke zu teleportieren.
+    en: You need %1$d XP to teleport %2$d blocks.
+  info:
+    de: Du brauchst %1$d XP um dich %2$d Bloecke zu teleportieren. %2$d
+    en: You need %1$d XP to teleport %2$d blocks. %2$d
+  notenoughxp:
+    de: Du hast nicht genuegend XP um dich %1$d Bloecke zu teleportieren, Du braeuchtest
+      %2$d XP.
+    en: You havent got enoug XP to teleport %1$d blocks, you would need %2$d XP.
+command:
+  error:
+    info:
+      de: Du kannst maximal %1$d XP in %2$d Geld umwandeln.
+      en: You can change maximal %1$d XP into %2$d money.
+    buyinfo:
+      de: Du kannst maximal %1$d Geld in %2$d XP umwandeln.
+      en: You can change maximal %1$d money into %2$d XP.
+    notenoughmoney:
+      de: Du hast nicht genuegend Geld!
+      en: Not enough money!
+    notenoughxp:
+      de: Du hast nicht genuegend XP!
+      en: Not enough XP!
+    else:
+      de: Unbekannter Error!
+      en: Error!
+    noint:
+      de: Falsche Eingabe!
+      en: Wrong command!
+    noargs0:
+      de: Kein buy oder sell vorhanden!
+      en: No buy or sell found!
+    toomanyarguments:
+      de: Dieser Befehl hat eine falsche Syntax!
+      en: This command has an invalid syntax!
+    fewargs:
+      de: Zu wenig Argumente!
+      en: Few arguments!
+    noplayer:
+      de: Du bist kein Player!
+      en: You are no player!
+  success:
+    buy:
+      de: Du hast %1$d Geld in %2$d XP umgewandelt.
+      en: You changed %1$d money into %2$d XP.
+    sell:
+      de: Du hast %1$d XP in %2$d Money umgewandelt.
+      en: You changed %1$d XP into %2$d money.
+    buylevel:
+      de: Du hast %1$d Geld in %2$d XP umgewandelt.
+      en: You changed %1$d money into %2$d XP.
+    selllevel:
+      de: Du hast %1$d XP in %2$d Money umgewandelt.
+      en: You changed %1$d XP into %2$d money.
+    sentxp:
+      de: Du hast %1$d XP zu %2$s gesendet.
+      en: You sent %1$d XP to %2$s.
+    recievedxp:
+      de: Du hast %1$d XP von %2$s erhalten.
+      en: You recieved %1$d XP from %2$s.
+permissions:
+  error:
+    de: Wir haben ein Problem! Dies darfst Du nicht machen!
+    en: we have a problem! You musnt do this!
+  notfound:
+    de: PermissionsEx plugin nicht gefunden!
+    en: PermissionsEx not found!
+iConomy:
+  error:
+    de: Kein iConomy5 oder 6 oder Register gefunden!
+    en: No iConomy5 or 6 or Register found!
+info:
+  ownXP:
+    de: Du hast %1$d XP.
+    en: You have %1$d XP.
+  otherXP:
+    de: Player %1$s hat %2$d XP.
+    en: Player %1$s has %2$d XP.
+  ownLevel:
+    de: Du hast %1$d Level.
+    en: You have %1$d level.
+  otherLevel:
+    de: Player %1$s hat %2$d Level.
+    en: Player %1$s has %2$d level.
+  prefix:
+    de: Info (nicht ausgefuehrt)
+    en: Info (not performed)
+Shop:
+  success:
+    buy:
+      de: Du hast %1$s XP von %2$s fuer %3$s gekauft.
+      en: You bought %1$s XP from %2$s for %3$s.
+    sell:
+      de: Du hast %1$s XP an %2$s verkauft fuer %3$s.
+      en: You selled %1$s XP to %2$s for %3$s.
+    sellerselled:
+      de: Player %2$s hat an Dich %1$s XP fuer %3$s verkauft.
+      en: Player %2$s has selled %1$s XP to you for %3$s.
+    sellerbuy:
+      de: Player %2$s hat von Dir %1$s XP fuer %3$s gekauft.
+      en: Player %2$s has bought %1$s XP from you for %3$s.
+  error:
+    notenoughmoneyseller:
+      de: Der Verkaufer hat nicht genuegend Geld!
+      en: The seller hasnt enough money!
+    notenoughmoneyconsumer:
+      de: Du hast nicht genug Geld!
+      en: You havent got enough money!
+    notenoughxpseller:
+      de: Der Verkaufer hat nicht genug XP!
+      en: The seller hasnt enough XP!
+    notenoughxpconsumer:
+      de: Du hast nicht genuegend XP um an diesen Shop verkaufen zu koennen.
+      en: You havent enough XP to be able to sell at this Shop.
+    cantsellhere:
+      de: Du kannst hier nicht verkaufen!
+      en: You cant sell here!
+    cantbuyhere:
+      de: Du kannst hier nicht kaufen!
+      en: You cant buy here!
+playernotonline:
+  de: war noch nicht hier!
+  en: wasnt online before!
+playerwasntonline:
+  de: war noch nicht hier!
+  en: wasnt online before!
+onlyonlineplayer:
+  de: es ist nur das managen von XP von Onlineplayern ist erlaubt.
+  en: only managing of XP of online players allowed.
+addedxp:
+  de: Du hast %1$d XP erhalten.
+  en: You have recieved %1$d XP.
+substractedxp:
+  de: Von Dir wurden %1$d XP gekauft.
+  en: From you were %1$d XP bought.
+Playerxpset:
+  de: XP von Player %1$s wurden auf %2$d XP gesetzt.
+  en: XP from Player %1$s were set to %2$d XP.
+Playerreset:
+  de: Players %1$s XPs wurden zurueckgesetzt.
+  en: Players %1$s XPs were reseted.
+dbnotused:
+  de: Du benutzt keine Datenbank!
+  en: You dont use a DB!
+safe:
+  store:
+    de: Du has %1$d XP an das Safe uebergeben.
+    en: You stored %1$d XP in the Safe.
+  destore:
+    de: Du hast %1$d XP aus dem Safe geholt.
+    en: You took %1$d XP from the Safe.
+  notenoughxptostore:
+    de: Du hast zu wenig XP zum verwahren. Du hast %1$d XP.
+    en: You have not enough XP to store them in the Safe. You have %1$d XP.
+  notenoughinsafe:
+    de: Es sind nicht genuegend XP im Safe.
+    en: Not enough XP in the Safe.
+  notyoursafe:
+    de: Das ist nicht dein Safe.
+    en: That isnt your Safe.
+  noSafeonShop:
+    de: Es ist kein Safe mit dem Shop verknuepft.
+    en: No Safe is connected to this Shop.
+  notenoughXPinShop:
+    de: Es sind nicht genuegend XP im Shop.
+    en: Not enough XP in the Shop.
+  pleaseaddSafe:
+    de: Bitte platziere ein Safe ueber, oder unter dem Shop!
+    en: Please add a Safe under or above to the Shop!
+  canaddSafe:
+    de: Du kannst optionial ein Safe ueber, oder unter dem Shop platzieren, um mehr
+      funktionen nutzen zu koennen!
+    en: You cann add a Safe under or above to the Shop to use more funktions!
+help:
+  commands:
+    configconfirm:
+      name: configconfirm
+      permission: xpShop.config
+      description:
+        de: Bestaetigt das editieren der config.yml
+        en: Confirms the editing of the config.yml
+      usage: /xpShop configcancel
+    configcancel:
+      name: configcancel
+      permission: xpShop.config
+      description:
+        de: Bricht das Aendern der config ab.
+        en: Cancels the editing of the configfile.
+      usage: /xpShop configcancel
+    bottlecancel:
+      name: bottlecancel
+      permission: xpShop.bottle
+      description:
+        de: Bricht das Abfuellen von XP ab.
+        en: Cancels filling of bottles
+      usage: /xpShop bootlecancel
+    bottleconfirm:
+      name: bottleconfirm
+      permission: xpShop.bottle
+      description:
+        de: Bestaetigt abfuellen
+        en: Confirms filling of bottles
+      usage: /xpShop bootleconfirm
+    bottle:
+      name: bottle
+      permission: xpShop.bottle
+      description:
+        de: Fuellt Flaschen mit XP
+        en: Fills bottles with XP
+      usage: /xpShop bootle <amount of bottles>
+    reload:
+      name: reload
+      permission: xpShop.reload
+      description:
+        de: Reloaded das Plugin
+        en: Reloads plugin
+      usage: /xpShop reload
+    buy:
+      name: buy
+      permission: xpShop.buy
+      description:
+        de: Wandelt Geld in XP um.
+        en: Changes money into XP.
+      usage: /xpShop buy <amount of xp>
+    sell:
+      name: sell
+      permission: xpShop.sell
+      description:
+        de: Wandelt XP in Geld um.
+        en: Changes XP into money.
+      usage: /xpShop sell <amount of xp>
+    buylevel:
+      name: buylevel
+      permission: xpShop.buylevel
+      description:
+        de: Wandelt Geld in Level um.
+        en: Changes money into level.
+      usage: /xpShop buylevel <levels>
+    selllevel:
+      name: selllevel
+      permission: xpShop.selllevel
+      description:
+        de: Wandelt Level in Geld um.
+        en: Changes level into money.
+      usage: /xpShop selllevel <levels>
+    info:
+      name: info
+      permission: xpShop.info
+      description:
+        de: Zeigt infos zu einer Action, die nicht ausgefuehrt wurde.
+        en: Shows infos to an action, which is not performed.
+      usage: /xpShop info <action>
+    send:
+      name: send
+      permission: xpShop.send
+      description:
+        de: Sendet XP zu anderen Playern.
+        en: Send XP to other players.
+      usage: /xpShop send <player> <xp>
+    infoxpown:
+      name: infoxp
+      permission: xpShop.infoxp.own
+      description:
+        de: Zeigt aktuelle XP von Dir an.
+        en: Shows XP which you have.
+      usage: /xpShop infoxp
+    infoxpother:
+      name: infoxpother
+      permission: xpShop.infoxp.other
+      description:
+        de: Zeigt aktuelle XP von einem Player an.
+        en: Shows XP which a player have.
+      usage: /xpShop infoxp <player>
+    infolevelown:
+      name: infolevel
+      permission: xpShop.infolevel.own
+      description:
+        de: Zeigt aktuelle Level von Dir an.
+        en: Shows how many xp you have.
+      usage: /xpShop infoxp
+    infolevelother:
+      name: infolevelother
+      permission: xpShop.infolevel.other
+      description:
+        de: Zeigt aktuelle Level von einem Player an.
+        en: Shows how many level a player have.
+      usage: /xpShop infoxp <player>
+    debugfile:
+      name: debugfile
+      permission: xpShop.debugfile
+      description:
+        de: Schaltet den debugfile aus und ein.
+        en: turns debugfile on and off.
+      usage: /xpShop debugfile
+    internet:
+      name: internet
+      permission: xpShop.internet
+      description:
+        de: Schaltet die erlaubnis sich mit Internet verbinden zu duerfen ein und
+          aus.
+        en: Toggles permission to connect to the internet
+      usage: /xpShop internet
+    version:
+      name: version
+      permission: xpShop.version
+      description:
+        de: Gibt die aktuelle Version zurueck.
+        en: returns installed version.
+      usage: /xpShop version
+    update:
+      name: update
+      permission: xpShop.admin
+      description:
+        de: Updated das plugin.
+        en: Updates the plugin.
+      usage: /xpShop update
+    deletedebug:
+      name: deletedebug
+      permission: xpShop.admin
+      description:
+        de: Loescht den debuglog des plugins.
+        en: deletes the debuglog of the plugin.
+      usage: /xpShop deletedebug
+    log:
+      name: log
+      permission: xpShop.admin
+      description:
+        de: zeigt die aktuelle Groesse des debuglogs an.
+        en: returns the debuglog size.
+      usage: /xpShop log
+    toggle:
+      name: toggle
+      permission: xpShop.admin
+      description:
+        de: Schalted xpShop an und aus.
+        en: Turns xpShop on and off.
+      usage: /xpShop toggle
+    deletetable:
+      name: deletetable
+      permission: xpShop.admin
+      description:
+        de: Loescht die Datenbank, falls aktiviert.
+        en: deletes the db if exist.
+      usage: /xpShop deletetable
+    language:
+      name: language
+      permission: xpShop.admin
+      description:
+        de: Setzt die Sprache des Plugins
+        en: sets the language of the plugin
+      usage: /xpShop language <language>
+    resetplayer:
+      name: resetplayer
+      permission: xpShop.admin
+      description:
+        de: Setzt die XP von einem Spieler auf 0
+        en: Sets the XP of a player to 0
+      usage: /xpShop resetplayer <player>
+    setXP:
+      name: setXP
+      permission: xpShop.admin
+      description:
+        de: Setzt die XP von einem Player
+        en: Sets the XP amount of a player.
+      usage: /xpShop setXP <player> <XP>
+    grand:
+      name: grand
+      permission: xpShop.grand
+      description:
+        de: Erhoeht oder erniedrigt die XP des players.
+        en: Encrease or decrease the amount of XP of a player.
+      usage: /xpShop grand <player> <XP>
+    help:
+      name: help
+      permission: xpShop.help
+      description:
+        de: Hilfe
+        en: Help
+      usage: /xpShop help
+    tpto:
+      name: tpto
+      permission: xpShop.tpto
+      description:
+        de: Teleported Dich zu einem player fuer XP.
+        en: Teleports you to a player for XP.
+      usage: /xpShop tpto <player>
+    tpme:
+      name: tpme
+      permission: xpShop.tpme
+      description:
+        de: Teleported einen player zu Dir fuer XP.
+        en: Teleports a player to you for XP.
+      usage: /xpShop tpme <player>
+    yestp:
+      name: yestp
+      permission: xpShop.tp
+      description:
+        de: Fuehrt den Teleportauftrag aus.
+        en: Execute a teleport request.
+      usage: /xpShop yestp
+    notp:
+      name: notp
+      permission: xpShop.tp
+      description:
+        de: Stoppt den Teleportauftrag.
+        en: Stops the teleport request.
+      usage: /xpShop notp
+    accept:
+      name: accept
+      permission: xpShop.tp
+      description:
+        de: Aktzeptiert einen Teleport.
+        en: Accepts a teleport.
+      usage: /xpShop accept
+    deny:
+      name: deny
+      permission: xpShop.tp
+      description:
+        de: verhindert einen Teleport.
+        en: denies a teleport.
+      usage: /xpShop deny
+    showdebug:
+      name: showdebug
+      permission: xpShop.showdebug
+      description:
+        de: Zeigt alle xpShop meldungen
+        en: Shows every message.
+      usage: /xpShop showdebug
+    repair:
+      name: repair
+      permission: xpShop.repair
+      description:
+        de: Repariert tools
+        en: Repairs tools.
+      usage: /xpShop repair [damage]
+    repairconfirm:
+      name: repairconfirm
+      permission: xpShop.repair
+      description:
+        de: Bestaetigt den Befehl zum Reparieren
+        en: Confirms the command to reparieren.
+      usage: /xpShop repairconfirm
+    repaircancel:
+      name: repaircancel
+      permission: xpShop.repair
+      description:
+        de: Bricht den Befehl zum Reparieren ab.
+        en: Cancels the command to reparieren.
+      usage: /xpShop repaircancel
+    toolinfo:
+      name: toolinfo
+      permission: xpShop.toolinfo
+      description:
+        de: Zeigt den Schaden eines Tools.
+        en: Shows damge of a tool.
+      usage: /xpShop toolinfo
+    report:
+      name: report
+      permission: BookShop.report
+      description:
+        de: Ermoeglicht das senden eines Bug Reports.
+        en: Sends a bug report to the author.
+      usage: /BookShop report amessagewithoutanyspecialthings

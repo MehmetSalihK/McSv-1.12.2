@@ -1,0 +1,5 @@
+on rightclick with diamond_hoe:
+    if tool's display name is "Pepsi":
+        send "Pepsi Ictin."
+        add 4 to player's hunger bar
+        remove 1 diamond_hoe named "Pepsi" from player

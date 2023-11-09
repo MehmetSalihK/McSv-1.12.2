@@ -1,0 +1,14 @@
+{
+  "CustomSkull": {
+    "TextureURL": "",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [],
+  "DisplayLoreEnabled": "false",
+  "DisplayName": " ",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "8",
+  "MaterialName": "STAINED_GLASS_PANE"
+}

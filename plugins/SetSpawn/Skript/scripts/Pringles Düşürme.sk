@@ -1,0 +1,5 @@
+on death of zombie:
+	attacker is a player
+	victim is a zombie
+	chance of 15%
+	give a diamond_hoe named "Pringles" to attacker

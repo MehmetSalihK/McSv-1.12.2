@@ -1,0 +1,69 @@
+# Time strings
+hour: 'hour'
+hour_plural: 'hours'
+minute: 'minute'
+minute_plural: 'minutes'
+unlimited: 'unlimited time'
+
+# Custom Messages
+#
+# Variable substitutions:
+# %itemname%			item name as configured above
+# %playername%          Player's name
+# %playernickname%      Player's nickname
+# %playerdisplayname%   Player's display name, including prefix/suffix
+# %worldname%           World name that player is in
+# %expiretime%			Remaining time at chest deployment
+
+messages:
+  chest-success:
+    enabled: true
+    string: '&cCoffre de la mort placé avec succès. Tu as %expiretime% pour récupérer vos objets.'
+
+  doublechest-partial-success:
+    enabled: true
+    string: '&cUn seul coffre pourrait être placé à votre lieu de décès. Certains articles ont été abandonnés.'
+
+  chest-denied:
+    enabled: true
+    string: '&cImpossible de placer le coffre de la mort.'
+
+  chest-denied-plugin:
+    enabled: true
+    string: '&cDéploiement de la poitrine de la mort a été empêché par %plugin%.'
+
+  inventory-empty:
+    enabled: true
+    string: '&cVous n'aviez pas d'inventaire à placer dans un coffre de mort.'
+
+  no-room:
+    enabled: true
+    string: '&cIl n'y avait pas de place pour placer la poitrine sur votre lieu de décès.'
+
+  no-chest-in-inventory:
+    enabled: true
+    string: '&cVous n'avez pas de coffres dans votre inventaire.'
+
+  death-broadcast:
+    enabled: true
+    string: '&4%playername%&r décédés. Déployer le coffre de la mort.'
+
+  not-owner:
+    enabled: true
+    string: '&cCe coffre mortuaire ne vous appartient pas.'
+
+  chest-expired:
+    enabled: true
+    string: '&cVotre coffre de mort a expiré.'
+
+  creative-mode:
+    enabled: true
+    string: '&cL'inventaire en mode création n'est pas enregistré dans les coffres de mort.'
+  
+  no-creative-access:
+    enabled: true
+    string: '&cL'accès aux coffres de mort en mode créatif n'est pas autorisé.'
+  
+  chest-currently-open:
+    enabled: true
+    string: '&cLe coffre de la mort est actuellement accessible par un autre joueur.'

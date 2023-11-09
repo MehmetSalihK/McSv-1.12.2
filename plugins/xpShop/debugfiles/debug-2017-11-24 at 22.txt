@@ -1,0 +1,12 @@
+[Fri Nov 24 22:01:00 CET 2017] Debug: Player 270 XP: 270 Level: 13
+[Fri Nov 24 22:18:37 CET 2017] Debug: Player 276 XP: 276 Level: 13
+[Fri Nov 24 22:18:37 CET 2017] Debug: Player 276 XP: 276 Level: 13
+[Fri Nov 24 22:18:49 CET 2017] Debug: Player 281 XP: 281 Level: 14
+[Fri Nov 24 22:18:49 CET 2017] Debug: Player 281 XP: 281 Level: 14
+[Fri Nov 24 22:18:50 CET 2017] Debug: Player 281 XP: 281 Level: 14
+[Fri Nov 24 22:18:50 CET 2017] Debug: Player 281 XP: 281 Level: 14
+[Fri Nov 24 22:24:28 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 22:24:38 CET 2017] Debug: Searching update for xpShop!
+[Fri Nov 24 22:31:17 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 22:31:17 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 22:31:17 CET 2017] disabled in 11 ms

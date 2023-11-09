@@ -1,0 +1,34 @@
+# FastFood Setup File
+# 
+# Use this file to specify the MATERIAL TYPES of the items you want to allow
+# players to instant-eat, and how much each item should heal.
+#     Material types: http://jd.bukkit.org/apidocs/org/bukkit/Material.html
+# 
+# Items can be added/deleted/modified in-game with the following command.
+# Setting a material to 0 removes it from the file. Tou can use data values
+# in the command, but the material type will be used in this file.
+#     /ff sethealth <material> <value>
+# 
+apple: 0
+golden_apple: 20
+enchanted_golden_apple: 20
+carrot_item: 1
+golden_carrot: 20
+potato_item: 1
+baked_potato: 1
+poisonous_potato: -1
+pork: 3
+raw_beef: 3
+raw_fish: 2
+raw_chicken: 3
+grilled_pork: 8
+cooked_beef: 8
+cooked_fish: 5
+cooked_chicken: 6
+bread: 5
+pumpkin_pie: 2
+cookie: 1
+melon: 2
+mushroom_soup: 10
+rotten_flesh: -4
+spider_eye: -2

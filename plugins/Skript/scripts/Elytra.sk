@@ -1,0 +1,5 @@
+on rightclick with minecraft:elytra:
+    if tool's display name is "elytra":
+        send "Aci mi ?."
+        add 4 to player's hunger bar
+        remove 1 minecraft:elytra named "elytra" from player

@@ -1,0 +1,64 @@
+[Wed Oct 18 18:22:41 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:22:51 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 18 18:25:12 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:25:12 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 18:25:12 CEST 2017] disabled in 17 ms
+[Wed Oct 18 18:26:08 CEST 2017] Debug: Config file found!
+[Wed Oct 18 18:26:08 CEST 2017] Debug: check-for-updates: true!
+[Wed Oct 18 18:26:08 CEST 2017] Debug: Version: 12.2
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Creaeting table!
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Table created!
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Created in 6 ms!
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 18:26:13 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 18:26:13 CEST 2017] Enabled in 4525ms
+[Wed Oct 18 18:26:25 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:26:35 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 18 18:27:43 CEST 2017] Debug: Player 135 XP: 135 Level: 8
+[Wed Oct 18 18:37:11 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:37:11 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 18:37:11 CEST 2017] disabled in 38 ms
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Config file found!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: check-for-updates: true!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Version: 12.2
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Creaeting table!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Table created!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Created in 5 ms!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 18:37:19 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 18:37:19 CEST 2017] Enabled in 216ms
+[Wed Oct 18 18:37:29 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:37:39 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 18 18:38:31 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:38:31 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 18:38:31 CEST 2017] disabled in 18 ms
+[Wed Oct 18 18:39:53 CEST 2017] Debug: Config file found!
+[Wed Oct 18 18:39:53 CEST 2017] Debug: check-for-updates: true!
+[Wed Oct 18 18:39:53 CEST 2017] Debug: Version: 12.2
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Creaeting table!
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Table created!
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Created in 11 ms!
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 18:39:54 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 18:39:54 CEST 2017] Enabled in 1678ms
+[Wed Oct 18 18:40:08 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 18:40:17 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 18 18:43:05 CEST 2017] Debug: Player 135 XP: 135 Level: 8
+[Wed Oct 18 18:47:35 CEST 2017] Debug: Player 139 XP: 139 Level: 9
+[Wed Oct 18 18:47:35 CEST 2017] Debug: Player 139 XP: 139 Level: 9
+[Wed Oct 18 18:47:35 CEST 2017] Debug: Player 139 XP: 139 Level: 9
+[Wed Oct 18 18:47:35 CEST 2017] Debug: Player 140 XP: 140 Level: 9
+[Wed Oct 18 18:47:41 CEST 2017] Debug: Player 0 XP: 0 Level: 0
+[Wed Oct 18 18:47:55 CEST 2017] Debug: Player 19 XP: 19 Level: 2
+[Wed Oct 18 18:47:55 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 18:47:55 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 18:47:56 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 18:47:56 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 18:47:56 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 18:47:56 CEST 2017] Debug: Player 63 XP: 63 Level: 5

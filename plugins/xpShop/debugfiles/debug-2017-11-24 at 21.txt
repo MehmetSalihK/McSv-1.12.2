@@ -1,0 +1,66 @@
+[Fri Nov 24 21:05:02 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:05:02 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:05:02 CET 2017] disabled in 24 ms
+[Fri Nov 24 21:05:17 CET 2017] Debug: Config file found!
+[Fri Nov 24 21:05:17 CET 2017] Debug: check-for-updates: true!
+[Fri Nov 24 21:05:17 CET 2017] Debug: Version: 12.2
+[Fri Nov 24 21:05:17 CET 2017] Debug: Creaeting table!
+[Fri Nov 24 21:05:17 CET 2017] Debug: Table created!
+[Fri Nov 24 21:05:17 CET 2017] Debug: Created in 31 ms!
+[Fri Nov 24 21:05:18 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:05:18 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:05:18 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:05:18 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:05:18 CET 2017] Enabled in 448ms
+[Fri Nov 24 21:05:38 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:05:48 CET 2017] Debug: Searching update for xpShop!
+[Fri Nov 24 21:10:51 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:10:51 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:10:51 CET 2017] disabled in 42 ms
+[Fri Nov 24 21:12:08 CET 2017] Debug: Config file found!
+[Fri Nov 24 21:12:08 CET 2017] Debug: check-for-updates: true!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Version: 12.2
+[Fri Nov 24 21:12:08 CET 2017] Debug: Creaeting table!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Table created!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Created in 7 ms!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:12:08 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:12:08 CET 2017] Enabled in 157ms
+[Fri Nov 24 21:12:18 CET 2017] Debug: Player 0 XP: 0 Level: 0
+[Fri Nov 24 21:12:20 CET 2017] Debug: Player 263 XP: 263 Level: 13
+[Fri Nov 24 21:12:27 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:12:36 CET 2017] Debug: Searching update for xpShop!
+[Fri Nov 24 21:20:47 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:20:47 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:20:47 CET 2017] disabled in 91 ms
+[Fri Nov 24 21:21:03 CET 2017] Debug: Config file found!
+[Fri Nov 24 21:21:03 CET 2017] Debug: check-for-updates: true!
+[Fri Nov 24 21:21:03 CET 2017] Debug: Version: 12.2
+[Fri Nov 24 21:21:03 CET 2017] Debug: Creaeting table!
+[Fri Nov 24 21:21:03 CET 2017] Debug: Table created!
+[Fri Nov 24 21:21:03 CET 2017] Debug: Created in 9 ms!
+[Fri Nov 24 21:21:04 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:21:04 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:21:04 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:21:04 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:21:04 CET 2017] Enabled in 252ms
+[Fri Nov 24 21:21:24 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:21:34 CET 2017] Debug: Searching update for xpShop!
+[Fri Nov 24 21:42:16 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:42:16 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:42:16 CET 2017] disabled in 71 ms
+[Fri Nov 24 21:42:30 CET 2017] Debug: Config file found!
+[Fri Nov 24 21:42:30 CET 2017] Debug: check-for-updates: true!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Version: 12.2
+[Fri Nov 24 21:42:30 CET 2017] Debug: Creaeting table!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Table created!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Created in 8 ms!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Nov 24 21:42:30 CET 2017] Debug: Stats loaded!
+[Fri Nov 24 21:42:30 CET 2017] Enabled in 239ms
+[Fri Nov 24 21:42:48 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Nov 24 21:42:58 CET 2017] Debug: Searching update for xpShop!

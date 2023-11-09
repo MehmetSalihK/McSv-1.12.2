@@ -1,0 +1,11 @@
+[Wed Nov 08 22:01:08 CET 2017] Debug: Player 68 XP: 68 Level: 5
+[Wed Nov 08 22:01:08 CET 2017] Debug: Player 68 XP: 68 Level: 5
+[Wed Nov 08 22:01:08 CET 2017] Debug: Player 68 XP: 68 Level: 5
+[Wed Nov 08 22:03:39 CET 2017] Debug: Checking if block is valid!
+[Wed Nov 08 22:03:52 CET 2017] Debug: Line 0: §cNdngMehmet60
+[Wed Nov 08 22:03:57 CET 2017] Debug: Line 0: §cNdngMehmet60
+[Wed Nov 08 22:04:20 CET 2017] Debug: Line 0: §cNdngMehmet60
+[Wed Nov 08 22:04:33 CET 2017] Debug: Line 0: §cNdngMehmet60
+[Wed Nov 08 22:12:07 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Nov 08 22:12:07 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Nov 08 22:12:07 CET 2017] disabled in 14 ms

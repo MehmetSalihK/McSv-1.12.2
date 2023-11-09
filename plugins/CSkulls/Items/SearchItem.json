@@ -1,0 +1,19 @@
+{
+  "CustomSkull": {
+    "TextureURL": "Insert Base64URL Here",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [
+    "&7Search key phrases",
+    "&7and get a list of skulls",
+    "&7Found with those key phrases!"
+  ],
+  "DisplayLoreEnabled": "true",
+  "DisplayName": "&eSearch Skull",
+  "FakeEnchanted": "true",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "NAME_TAG",
+  "Slot-Number": "9"
+}

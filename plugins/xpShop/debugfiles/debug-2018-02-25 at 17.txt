@@ -1,0 +1,9 @@
+[Sun Feb 25 17:03:58 CET 2018] Debug: Player 182 XP: 182 Level: 9
+[Sun Feb 25 17:03:58 CET 2018] Debug: Player 182 XP: 182 Level: 9
+[Sun Feb 25 17:03:58 CET 2018] Debug: Player 182 XP: 182 Level: 9
+[Sun Feb 25 17:04:18 CET 2018] Debug: Player 186 XP: 186 Level: 9
+[Sun Feb 25 17:04:18 CET 2018] Debug: Player 186 XP: 186 Level: 9
+[Sun Feb 25 17:04:24 CET 2018] Debug: Player 187 XP: 187 Level: 9
+[Sun Feb 25 17:07:55 CET 2018] Debug: Shops stats file contains 0 values!
+[Sun Feb 25 17:07:55 CET 2018] Debug: Safe stats file contains 0 values!
+[Sun Feb 25 17:07:55 CET 2018] disabled in 12 ms

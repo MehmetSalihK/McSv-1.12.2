@@ -1,0 +1,5 @@
+[Wed Dec 06 17:10:29 CET 2017] Debug: Line 0: §cAdminShop
+[Wed Dec 06 17:18:41 CET 2017] Debug: Player 0 XP: 0 Level: 0
+[Wed Dec 06 17:21:58 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 06 17:21:58 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Dec 06 17:21:58 CET 2017] disabled in 15 ms

@@ -1,0 +1,54 @@
+SkullsReloaded-End: '&cSkulls have been reloaded, Loaded a total of &7%amount% &cskulls.'
+SkullsReloaded-Start: '&cReloading the Skulls list...'
+SearchSkulls:
+  ResultsFound: '&cSearch results found: &7%amount%'
+  Enabled: true
+MenuNames:
+  SearchPrefix: Search Page
+  OnlineSkulls: Online Players
+  ListPrefix: Skulls
+SkullNameDesign: '&6&l[&6Skull: &e%name%&6&l]'
+CloseMenu: '&cClose Menu'
+SkullSearchText: ' '
+PlayerSkullText: ' '
+PageJumpText: ' '
+PageJump:
+  Enabled: true
+PlayerSkull:
+  Enabled: true
+OnlineSkulls:
+  Enabled: true
+DatabaseLink:
+  Enabled: true
+  UserID: '0'
+Needs-Permission: false
+Debug-Output: false
+Slots-For-Skulls:
+- '11'
+- '12'
+- '13'
+- '14'
+- '15'
+- '16'
+- '17'
+- '20'
+- '21'
+- '22'
+- '23'
+- '24'
+- '25'
+- '26'
+- '29'
+- '30'
+- '31'
+- '32'
+- '33'
+- '34'
+- '35'
+- '38'
+- '39'
+- '40'
+- '41'
+- '42'
+- '43'
+- '44'

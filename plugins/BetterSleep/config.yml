@@ -1,0 +1,12 @@
+###########################
+## BetterSleep by DomeDD ##
+###########################
+
+Command Messages:
+    No Player: '&cYou aren''t a Player!'  
+    No Permissions: '&8[&6BetterSleep&8] &4You don''t have the permissions to do this!'
+    Config Reloaded: '&8[&6BetterSleep&8] &aSuccessfully reloaded!'
+Better Sleep:
+    Broadcast:
+        Not enough Players in Bed: '&6[Player] &eis sleeping. To skip the Night, enter a Bed!'
+        Morning: '§fZzzz §cBonjour à tous!'

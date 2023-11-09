@@ -1,0 +1,22 @@
+options:
+	p: &8[&6Ping]
+	cc: &8[&bChatClear&8]
+	op: clear.chat
+	noperm: &cTu n'a pas le droit car ta pas la permission!
+	
+	command /ping [<offlineplayer>]:
+		alisses: /lag
+		trigger:
+			if arg 1 is not set:
+				send "{@p} &fPing&8: &r@player's ping &6MS&8."
+			if arg 1 is not set:
+				send "{@p} &c&arg 1%&f'ping&8: &r%arrg 1's ping% &6MS&8."
+				
+command /chatclear:
+	permission: [@op]
+	permission message: {@noperm}
+	alisses: /clr, /ss
+	trigger:
+		loop 150 times:
+			broadcast ""
+		broadcast "{@clr} &6Chat a été supprimer par &r@player's display name% &8."

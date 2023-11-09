@@ -1,0 +1,60 @@
+groups:
+  Builder:
+    rank: 1000
+    default: true
+    display: '&7[Builder]'
+    prefix: '&7[B]'
+    suffix: ''
+    inheritances: []
+    permissions: []
+    weight: 1000
+    ladder: default
+  Mod:
+    rank: 500
+    default: false
+    display: '&1[Mod]'
+    prefix: '&1[M]'
+    suffix: ''
+    inheritances:
+    - Builder
+    permissions:
+    - bungeeperms.promote
+    - bungeeperms.demote
+    - bungeeperms.user.groups
+    weight: 1000
+    ladder: default
+  Admin:
+    rank: 1
+    default: false
+    display: '&4[Admin]'
+    prefix: '&4[A]'
+    suffix: ''
+    inheritances:
+    - Builder
+    - Mod
+    permissions:
+    - bungeeperms.*
+    weight: 1000
+    ladder: default
+version: 1
+users:
+  XsPaReS:
+    groups:
+    - Builder
+    permissions: []
+  NdngMehmet60:
+    groups:
+    - Builder
+    permissions: []
+  Lawrenza:
+    groups:
+    - Builder
+    permissions: []
+  MehmetSalihK:
+    groups:
+    - Builder
+    permissions: []
+  IGSEUR:
+    groups:
+    - Builder
+    permissions: []

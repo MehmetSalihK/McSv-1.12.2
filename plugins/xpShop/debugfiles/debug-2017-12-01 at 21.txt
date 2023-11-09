@@ -1,0 +1,153 @@
+[Fri Dec 01 21:25:56 CET 2017] Debug: Config file found!
+[Fri Dec 01 21:25:56 CET 2017] Debug: check-for-updates: true!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Version: 12.2
+[Fri Dec 01 21:25:56 CET 2017] Debug: Creaeting table!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Table created!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Created in 4 ms!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Stats loaded!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Dec 01 21:25:56 CET 2017] Debug: Stats loaded!
+[Fri Dec 01 21:25:56 CET 2017] Enabled in 184ms
+[Fri Dec 01 21:26:06 CET 2017] Debug: Player 1210 XP: 1210 Level: 28
+[Fri Dec 01 21:26:09 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Dec 01 21:26:15 CET 2017] Debug: Player 1215 XP: 1215 Level: 28
+[Fri Dec 01 21:26:15 CET 2017] Debug: Player 1216 XP: 1216 Level: 28
+[Fri Dec 01 21:26:15 CET 2017] Debug: Player 1217 XP: 1217 Level: 28
+[Fri Dec 01 21:26:15 CET 2017] Debug: Player 1219 XP: 1219 Level: 28
+[Fri Dec 01 21:26:16 CET 2017] Debug: Player 1219 XP: 1219 Level: 28
+[Fri Dec 01 21:26:16 CET 2017] Debug: Player 1222 XP: 1222 Level: 28
+[Fri Dec 01 21:26:16 CET 2017] Debug: Player 1222 XP: 1222 Level: 28
+[Fri Dec 01 21:26:16 CET 2017] Debug: Player 1225 XP: 1225 Level: 28
+[Fri Dec 01 21:26:16 CET 2017] Debug: Player 1225 XP: 1225 Level: 28
+[Fri Dec 01 21:26:19 CET 2017] Debug: Searching update for xpShop!
+[Fri Dec 01 21:26:43 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Dec 01 21:26:43 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Dec 01 21:26:43 CET 2017] disabled in 306 ms
+[Fri Dec 01 21:26:56 CET 2017] Debug: Config file found!
+[Fri Dec 01 21:26:56 CET 2017] Debug: check-for-updates: true!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Version: 12.2
+[Fri Dec 01 21:26:56 CET 2017] Debug: Creaeting table!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Table created!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Created in 5 ms!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Stats loaded!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Safe stats file contains 0 values!
+[Fri Dec 01 21:26:56 CET 2017] Debug: Stats loaded!
+[Fri Dec 01 21:26:56 CET 2017] Enabled in 205ms
+[Fri Dec 01 21:27:07 CET 2017] Debug: Shops stats file contains 0 values!
+[Fri Dec 01 21:27:17 CET 2017] Debug: Searching update for xpShop!
+[Fri Dec 01 21:27:23 CET 2017] Debug: Player 1230 XP: 1230 Level: 28
+[Fri Dec 01 21:27:23 CET 2017] Debug: Player 1231 XP: 1231 Level: 28
+[Fri Dec 01 21:27:23 CET 2017] Debug: Player 1232 XP: 1232 Level: 28
+[Fri Dec 01 21:27:23 CET 2017] Debug: Player 1233 XP: 1233 Level: 28
+[Fri Dec 01 21:27:23 CET 2017] Debug: Player 1234 XP: 1234 Level: 28
+[Fri Dec 01 21:27:23 CET 2017] Debug: Player 1235 XP: 1235 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1236 XP: 1236 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1237 XP: 1237 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1238 XP: 1238 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1239 XP: 1239 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1240 XP: 1240 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1240 XP: 1240 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1241 XP: 1241 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1242 XP: 1242 Level: 28
+[Fri Dec 01 21:27:24 CET 2017] Debug: Player 1242 XP: 1242 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1243 XP: 1243 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1245 XP: 1245 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1246 XP: 1246 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1247 XP: 1247 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1247 XP: 1247 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1248 XP: 1248 Level: 28
+[Fri Dec 01 21:27:25 CET 2017] Debug: Player 1249 XP: 1249 Level: 28
+[Fri Dec 01 21:27:26 CET 2017] Debug: Player 1249 XP: 1249 Level: 28
+[Fri Dec 01 21:27:26 CET 2017] Debug: Player 1249 XP: 1249 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1252 XP: 1252 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1254 XP: 1254 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1256 XP: 1256 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1256 XP: 1256 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1256 XP: 1256 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1256 XP: 1256 Level: 28
+[Fri Dec 01 21:28:11 CET 2017] Debug: Player 1256 XP: 1256 Level: 28
+[Fri Dec 01 21:40:02 CET 2017] Debug: Player 1261 XP: 1261 Level: 28
+[Fri Dec 01 21:40:02 CET 2017] Debug: Player 1261 XP: 1261 Level: 28
+[Fri Dec 01 21:40:03 CET 2017] Debug: Player 1261 XP: 1261 Level: 28
+[Fri Dec 01 21:40:35 CET 2017] Debug: Player 1268 XP: 1268 Level: 28
+[Fri Dec 01 21:40:38 CET 2017] Debug: Player 1272 XP: 1272 Level: 28
+[Fri Dec 01 21:40:38 CET 2017] Debug: Player 1272 XP: 1272 Level: 28
+[Fri Dec 01 21:40:39 CET 2017] Debug: Player 1276 XP: 1276 Level: 28
+[Fri Dec 01 21:40:39 CET 2017] Debug: Player 1277 XP: 1277 Level: 28
+[Fri Dec 01 21:40:39 CET 2017] Debug: Player 1278 XP: 1278 Level: 28
+[Fri Dec 01 21:40:40 CET 2017] Debug: Player 1282 XP: 1282 Level: 28
+[Fri Dec 01 21:40:40 CET 2017] Debug: Player 1282 XP: 1282 Level: 28
+[Fri Dec 01 21:40:40 CET 2017] Debug: Player 1282 XP: 1282 Level: 28
+[Fri Dec 01 21:40:53 CET 2017] Debug: Player 1287 XP: 1287 Level: 28
+[Fri Dec 01 21:40:53 CET 2017] Debug: Player 1287 XP: 1287 Level: 28
+[Fri Dec 01 21:40:53 CET 2017] Debug: Player 1287 XP: 1287 Level: 28
+[Fri Dec 01 21:41:06 CET 2017] Debug: Player 1292 XP: 1292 Level: 29
+[Fri Dec 01 21:41:06 CET 2017] Debug: Player 1292 XP: 1292 Level: 29
+[Fri Dec 01 21:41:06 CET 2017] Debug: Player 1292 XP: 1292 Level: 29
+[Fri Dec 01 21:41:06 CET 2017] Debug: Player 1292 XP: 1292 Level: 29
+[Fri Dec 01 21:41:08 CET 2017] Debug: Player 1299 XP: 1299 Level: 29
+[Fri Dec 01 21:43:19 CET 2017] Debug: Player 1307 XP: 1307 Level: 29
+[Fri Dec 01 21:43:19 CET 2017] Debug: Player 1307 XP: 1307 Level: 29
+[Fri Dec 01 21:43:26 CET 2017] Debug: Player 1314 XP: 1314 Level: 29
+[Fri Dec 01 21:43:29 CET 2017] Debug: Player 1322 XP: 1322 Level: 29
+[Fri Dec 01 21:43:29 CET 2017] Debug: Player 1322 XP: 1322 Level: 29
+[Fri Dec 01 21:48:07 CET 2017] Debug: Player 1323 XP: 1323 Level: 29
+[Fri Dec 01 21:48:14 CET 2017] Debug: Player 1324 XP: 1324 Level: 29
+[Fri Dec 01 21:49:17 CET 2017] Debug: Player 1330 XP: 1330 Level: 29
+[Fri Dec 01 21:49:17 CET 2017] Debug: Player 1330 XP: 1330 Level: 29
+[Fri Dec 01 21:49:19 CET 2017] Debug: Player 1334 XP: 1334 Level: 29
+[Fri Dec 01 21:49:20 CET 2017] Debug: Player 1334 XP: 1334 Level: 29
+[Fri Dec 01 21:49:21 CET 2017] Debug: Player 1340 XP: 1340 Level: 29
+[Fri Dec 01 21:49:21 CET 2017] Debug: Player 1340 XP: 1340 Level: 29
+[Fri Dec 01 21:49:44 CET 2017] Debug: Player 1343 XP: 1343 Level: 29
+[Fri Dec 01 21:49:46 CET 2017] Debug: Player 1344 XP: 1344 Level: 29
+[Fri Dec 01 21:49:47 CET 2017] Debug: Player 1345 XP: 1345 Level: 29
+[Fri Dec 01 21:49:51 CET 2017] Debug: Player 1346 XP: 1346 Level: 29
+[Fri Dec 01 21:50:08 CET 2017] Debug: Player 1348 XP: 1348 Level: 29
+[Fri Dec 01 21:50:09 CET 2017] Debug: Player 1348 XP: 1348 Level: 29
+[Fri Dec 01 21:50:11 CET 2017] Debug: Player 1350 XP: 1350 Level: 29
+[Fri Dec 01 21:50:11 CET 2017] Debug: Player 1350 XP: 1350 Level: 29
+[Fri Dec 01 21:50:12 CET 2017] Debug: Player 1351 XP: 1351 Level: 29
+[Fri Dec 01 21:50:26 CET 2017] Debug: Player 1352 XP: 1352 Level: 29
+[Fri Dec 01 21:50:27 CET 2017] Debug: Player 1353 XP: 1353 Level: 29
+[Fri Dec 01 21:50:32 CET 2017] Debug: Player 1354 XP: 1354 Level: 29
+[Fri Dec 01 21:52:41 CET 2017] Debug: Player 1363 XP: 1363 Level: 29
+[Fri Dec 01 21:52:41 CET 2017] Debug: Player 1363 XP: 1363 Level: 29
+[Fri Dec 01 21:52:41 CET 2017] Debug: Player 1363 XP: 1363 Level: 29
+[Fri Dec 01 21:52:42 CET 2017] Debug: Player 1372 XP: 1372 Level: 29
+[Fri Dec 01 21:52:42 CET 2017] Debug: Player 1372 XP: 1372 Level: 29
+[Fri Dec 01 21:52:42 CET 2017] Debug: Player 1372 XP: 1372 Level: 29
+[Fri Dec 01 21:52:44 CET 2017] Debug: Player 1382 XP: 1382 Level: 29
+[Fri Dec 01 21:52:44 CET 2017] Debug: Player 1382 XP: 1382 Level: 29
+[Fri Dec 01 21:52:53 CET 2017] Debug: Player 1383 XP: 1383 Level: 29
+[Fri Dec 01 21:52:59 CET 2017] Debug: Player 1384 XP: 1384 Level: 29
+[Fri Dec 01 21:53:02 CET 2017] Debug: Player 1385 XP: 1385 Level: 29
+[Fri Dec 01 21:53:17 CET 2017] Debug: Player 1386 XP: 1386 Level: 29
+[Fri Dec 01 21:53:18 CET 2017] Debug: Player 1388 XP: 1388 Level: 29
+[Fri Dec 01 21:53:18 CET 2017] Debug: Player 1388 XP: 1388 Level: 29
+[Fri Dec 01 21:53:20 CET 2017] Debug: Player 1389 XP: 1389 Level: 29
+[Fri Dec 01 21:53:36 CET 2017] Debug: Player 1390 XP: 1390 Level: 29
+[Fri Dec 01 21:53:43 CET 2017] Debug: Player 1391 XP: 1391 Level: 29
+[Fri Dec 01 21:53:45 CET 2017] Debug: Player 1393 XP: 1393 Level: 29
+[Fri Dec 01 21:53:45 CET 2017] Debug: Player 1393 XP: 1393 Level: 29
+[Fri Dec 01 21:53:46 CET 2017] Debug: Player 1394 XP: 1394 Level: 29
+[Fri Dec 01 21:53:59 CET 2017] Debug: Player 1395 XP: 1395 Level: 30
+[Fri Dec 01 21:53:59 CET 2017] Debug: Player 1395 XP: 1395 Level: 30
+[Fri Dec 01 21:54:00 CET 2017] Debug: Player 1397 XP: 1397 Level: 30
+[Fri Dec 01 21:54:00 CET 2017] Debug: Player 1397 XP: 1397 Level: 30
+[Fri Dec 01 21:54:01 CET 2017] Debug: Player 1399 XP: 1399 Level: 30
+[Fri Dec 01 21:54:01 CET 2017] Debug: Player 1399 XP: 1399 Level: 30
+[Fri Dec 01 21:54:09 CET 2017] Debug: Player 1400 XP: 1400 Level: 30
+[Fri Dec 01 21:54:10 CET 2017] Debug: Player 1401 XP: 1401 Level: 30
+[Fri Dec 01 21:54:11 CET 2017] Debug: Player 1402 XP: 1402 Level: 30
+[Fri Dec 01 21:54:13 CET 2017] Debug: Player 1403 XP: 1403 Level: 30
+[Fri Dec 01 21:54:24 CET 2017] Debug: Player 1404 XP: 1404 Level: 30
+[Fri Dec 01 21:54:28 CET 2017] Debug: Player 1405 XP: 1405 Level: 30
+[Fri Dec 01 21:54:54 CET 2017] Debug: Player 1406 XP: 1406 Level: 30
+[Fri Dec 01 21:55:19 CET 2017] Debug: Player 1408 XP: 1408 Level: 30
+[Fri Dec 01 21:55:19 CET 2017] Debug: Player 1408 XP: 1408 Level: 30
+[Fri Dec 01 21:55:40 CET 2017] Debug: Player 1410 XP: 1410 Level: 30
+[Fri Dec 01 21:55:40 CET 2017] Debug: Player 1410 XP: 1410 Level: 30
+[Fri Dec 01 21:55:53 CET 2017] Debug: Player 1411 XP: 1411 Level: 30

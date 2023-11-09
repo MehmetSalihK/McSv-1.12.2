@@ -1,0 +1,42 @@
+[Mon Nov 27 20:00:12 CET 2017] Debug: Player 604 XP: 604 Level: 20
+[Mon Nov 27 20:00:12 CET 2017] Debug: Player 604 XP: 604 Level: 20
+[Mon Nov 27 20:00:15 CET 2017] Debug: Player 606 XP: 606 Level: 20
+[Mon Nov 27 20:00:15 CET 2017] Debug: Player 606 XP: 606 Level: 20
+[Mon Nov 27 20:00:18 CET 2017] Debug: Player 607 XP: 607 Level: 20
+[Mon Nov 27 20:00:47 CET 2017] Debug: Player 608 XP: 608 Level: 20
+[Mon Nov 27 20:00:58 CET 2017] Debug: Player 609 XP: 609 Level: 20
+[Mon Nov 27 20:01:02 CET 2017] Debug: Player 611 XP: 611 Level: 20
+[Mon Nov 27 20:01:02 CET 2017] Debug: Player 611 XP: 611 Level: 20
+[Mon Nov 27 20:01:10 CET 2017] Debug: Player 612 XP: 612 Level: 20
+[Mon Nov 27 20:01:12 CET 2017] Debug: Player 614 XP: 614 Level: 21
+[Mon Nov 27 20:01:12 CET 2017] Debug: Player 614 XP: 614 Level: 21
+[Mon Nov 27 20:01:12 CET 2017] Debug: Player 614 XP: 614 Level: 21
+[Mon Nov 27 20:05:17 CET 2017] Debug: Player 615 XP: 615 Level: 21
+[Mon Nov 27 20:05:34 CET 2017] Debug: Player 616 XP: 616 Level: 21
+[Mon Nov 27 20:06:04 CET 2017] Debug: Player 617 XP: 617 Level: 21
+[Mon Nov 27 20:07:50 CET 2017] Debug: Player 618 XP: 618 Level: 21
+[Mon Nov 27 20:07:52 CET 2017] Debug: Player 619 XP: 619 Level: 21
+[Mon Nov 27 20:07:53 CET 2017] Debug: Player 621 XP: 621 Level: 21
+[Mon Nov 27 20:07:53 CET 2017] Debug: Player 621 XP: 621 Level: 21
+[Mon Nov 27 20:16:18 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 27 20:16:28 CET 2017] Debug: Searching update for xpShop!
+[Mon Nov 27 20:16:29 CET 2017] Debug: Player 626 XP: 626 Level: 21
+[Mon Nov 27 20:16:29 CET 2017] Debug: Player 626 XP: 626 Level: 21
+[Mon Nov 27 20:16:29 CET 2017] Debug: Player 626 XP: 626 Level: 21
+[Mon Nov 27 20:16:32 CET 2017] Debug: Player 632 XP: 632 Level: 21
+[Mon Nov 27 20:16:32 CET 2017] Debug: Player 632 XP: 632 Level: 21
+[Mon Nov 27 20:36:03 CET 2017] Debug: Player 633 XP: 633 Level: 21
+[Mon Nov 27 20:36:05 CET 2017] Debug: Player 634 XP: 634 Level: 21
+[Mon Nov 27 20:36:06 CET 2017] Debug: Player 637 XP: 637 Level: 21
+[Mon Nov 27 20:38:17 CET 2017] Debug: Player 638 XP: 638 Level: 21
+[Mon Nov 27 20:52:06 CET 2017] Debug: Player 643 XP: 643 Level: 21
+[Mon Nov 27 20:52:06 CET 2017] Debug: Player 643 XP: 643 Level: 21
+[Mon Nov 27 20:52:06 CET 2017] Debug: Player 643 XP: 643 Level: 21
+[Mon Nov 27 20:57:00 CET 2017] Debug: Player 647 XP: 647 Level: 21
+[Mon Nov 27 20:57:00 CET 2017] Debug: Player 647 XP: 647 Level: 21
+[Mon Nov 27 20:57:08 CET 2017] Debug: Player 648 XP: 648 Level: 21
+[Mon Nov 27 20:57:58 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 27 20:58:08 CET 2017] Debug: Searching update for xpShop!
+[Mon Nov 27 20:58:12 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 27 20:58:12 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Nov 27 20:58:12 CET 2017] disabled in 15 ms

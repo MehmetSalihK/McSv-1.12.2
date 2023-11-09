@@ -1,0 +1,17 @@
+[Wed Sep 19 20:00:00 CEST 2018] Debug: Searching update for xpShop!
+[Wed Sep 19 20:00:38 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 19 20:00:38 CEST 2018] Debug: Safe stats file contains 0 values!
+[Wed Sep 19 20:00:38 CEST 2018] disabled in 13 ms
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Config file found!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: check-for-updates: true!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Version: 12.2
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Creaeting table!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Table created!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Created in 4 ms!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Stats loaded!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Safe stats file contains 0 values!
+[Wed Sep 19 20:00:46 CEST 2018] Debug: Stats loaded!
+[Wed Sep 19 20:00:46 CEST 2018] Enabled in 143ms
+[Wed Sep 19 20:01:00 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 19 20:01:10 CEST 2018] Debug: Searching update for xpShop!

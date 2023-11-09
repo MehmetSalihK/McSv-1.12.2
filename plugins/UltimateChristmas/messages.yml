@@ -1,0 +1,32 @@
+ENABLE_PLUGIN:
+    - '&5&lUltimate Christmas'
+    - '&6&l============================='
+    - '&c&lPlugin Created By: &1&lDeiAlexTVT'
+    - '&a&lPlugin Enabled CORRECTLY'
+    - '&6&l============================='
+    
+DISABLE_PLUGIN:
+    - '&5&lUltimate Christmas'
+    - '&6&l============================='
+    - '&c&lPlugin Created By: &1&lDeiAlexTVT'
+    - '&4&lPlugin Disabled CORRECTLY'
+    - '&6&l============================='
+    
+COMMANDS_LIST:
+    - '&a&l...:::COMMAND LIST:::...'
+    - '&6&l/UC &a&l- &c&lMain command'
+    - '&6&l/UC RELOAD &a&l- &c&lRestart the plugin files'
+    - '&6&l/UC TIME &a&l- See how long it take to Christmas'
+    - '&6&l/UC SPAWN <SPAWN> &a&l- Spawn the christmas tree (Tree) or spawn the snowman for the event (Snowman)'
+    - '&6&l/UC HATS <HAT> &a&l- Get one of the 2 hats (Santaclaus or gift)'
+    - '&a&l...:::COMMAND LIST:::...'
+
+PLAYER_NO_PERMISSION: '&c&lYou do not have permission to do this'
+
+RELOAD_CONFIG: '&a&lYou have successfully reset all files'
+      
+REMAINING_TIME_FOR_CHRISTMAS: '&4&lLack: &a&l%days% &c&lDAYS&4&l, &a&l%hours% &c&lHOURS&4&l, &a&l%minutes% &c&lMINUTES&4&l y &a&l%seconds% &c&lSECONDS&4&l!.'
+
+WRONG_COMMAND: '&4&lIncorrect command, use: &a&l/UC &4&lfor a list of commands'
+
+INVALID_ARGUMENTS: '&4&lInvalid arguments, use: &a&l%command%'

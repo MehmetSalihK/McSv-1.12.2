@@ -1,0 +1,39 @@
+[Mon Dec 11 22:27:37 CET 2017] Debug: Config file found!
+[Mon Dec 11 22:27:37 CET 2017] Debug: check-for-updates: true!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Version: 12.2
+[Mon Dec 11 22:27:38 CET 2017] Debug: Creaeting table!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Table created!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Created in 4 ms!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 22:27:38 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 22:27:38 CET 2017] Enabled in 317ms
+[Mon Dec 11 22:27:55 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 22:28:05 CET 2017] Debug: Searching update for xpShop!
+[Mon Dec 11 22:29:50 CET 2017] Debug: Player 187 XP: 187 Level: 11
+[Mon Dec 11 22:30:45 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 22:30:45 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 22:30:45 CET 2017] disabled in 225 ms
+[Mon Dec 11 22:31:02 CET 2017] Debug: Config file found!
+[Mon Dec 11 22:31:02 CET 2017] Debug: check-for-updates: true!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Version: 12.2
+[Mon Dec 11 22:31:02 CET 2017] Debug: Creaeting table!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Table created!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Created in 5 ms!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 22:31:02 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 22:31:02 CET 2017] Enabled in 356ms
+[Mon Dec 11 22:31:17 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 22:31:28 CET 2017] Debug: Searching update for xpShop!
+[Mon Dec 11 22:53:28 CET 2017] Debug: Player 191 XP: 191 Level: 11
+[Mon Dec 11 22:54:52 CET 2017] Debug: Player 196 XP: 196 Level: 11
+[Mon Dec 11 22:55:17 CET 2017] Debug: Player 197 XP: 197 Level: 11
+[Mon Dec 11 22:55:46 CET 2017] Debug: Player 201 XP: 201 Level: 11
+[Mon Dec 11 22:56:32 CET 2017] Debug: Player 206 XP: 206 Level: 11
+[Mon Dec 11 22:56:59 CET 2017] Debug: Player 210 XP: 210 Level: 11
+[Mon Dec 11 22:57:55 CET 2017] Debug: Player 215 XP: 215 Level: 11
+[Mon Dec 11 22:58:45 CET 2017] Debug: Player 221 XP: 221 Level: 12
+[Mon Dec 11 22:58:45 CET 2017] Debug: Player 221 XP: 221 Level: 12

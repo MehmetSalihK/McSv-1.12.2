@@ -1,0 +1,5 @@
+on rightclick with diamond_hoe:
+    if tool's display name is "Doritos":
+        send "Aci mi ?."
+        add 4 to player's hunger bar
+        remove 1 diamond_hoe named "Doritos" from player

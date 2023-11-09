@@ -1,0 +1,42 @@
+[Sat Dec 09 21:16:28 CET 2017] Debug: Config file found!
+[Sat Dec 09 21:16:28 CET 2017] Debug: check-for-updates: true!
+[Sat Dec 09 21:16:28 CET 2017] Debug: Version: 12.2
+[Sat Dec 09 21:16:28 CET 2017] Debug: Creaeting table!
+[Sat Dec 09 21:16:28 CET 2017] Debug: Table created!
+[Sat Dec 09 21:16:29 CET 2017] Debug: Created in 21 ms!
+[Sat Dec 09 21:16:29 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Dec 09 21:16:29 CET 2017] Debug: Stats loaded!
+[Sat Dec 09 21:16:29 CET 2017] Debug: Safe stats file contains 0 values!
+[Sat Dec 09 21:16:29 CET 2017] Debug: Stats loaded!
+[Sat Dec 09 21:16:29 CET 2017] Enabled in 267ms
+[Sat Dec 09 21:16:45 CET 2017] Debug: Player 1745 XP: 1745 Level: 32
+[Sat Dec 09 21:16:48 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Dec 09 21:16:56 CET 2017] Debug: Searching update for xpShop!
+[Sat Dec 09 21:23:13 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Dec 09 21:23:13 CET 2017] Debug: Safe stats file contains 0 values!
+[Sat Dec 09 21:23:13 CET 2017] disabled in 41 ms
+[Sat Dec 09 21:23:25 CET 2017] Debug: Config file found!
+[Sat Dec 09 21:23:25 CET 2017] Debug: check-for-updates: true!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Version: 12.2
+[Sat Dec 09 21:23:25 CET 2017] Debug: Creaeting table!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Table created!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Created in 6 ms!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Stats loaded!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Safe stats file contains 0 values!
+[Sat Dec 09 21:23:25 CET 2017] Debug: Stats loaded!
+[Sat Dec 09 21:23:25 CET 2017] Enabled in 293ms
+[Sat Dec 09 21:23:38 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Dec 09 21:23:48 CET 2017] Debug: Searching update for xpShop!
+[Sat Dec 09 21:30:42 CET 2017] Debug: Player 0 XP: 0 Level: 0
+[Sat Dec 09 21:31:10 CET 2017] Debug: Player 6 XP: 6 Level: 0
+[Sat Dec 09 21:31:10 CET 2017] Debug: Player 6 XP: 6 Level: 0
+[Sat Dec 09 21:31:32 CET 2017] Debug: Player 0 XP: 0 Level: 0
+[Sat Dec 09 21:37:38 CET 2017] Debug: Player 20 XP: 20 Level: 2
+[Sat Dec 09 21:37:38 CET 2017] Debug: Player 20 XP: 20 Level: 2
+[Sat Dec 09 21:37:38 CET 2017] Debug: Player 20 XP: 20 Level: 2
+[Sat Dec 09 21:37:38 CET 2017] Debug: Player 20 XP: 20 Level: 2
+[Sat Dec 09 21:40:04 CET 2017] Debug: Player 33 XP: 33 Level: 3
+[Sat Dec 09 21:40:05 CET 2017] Debug: Player 33 XP: 33 Level: 3
+[Sat Dec 09 21:40:05 CET 2017] Debug: Player 33 XP: 33 Level: 3
+[Sat Dec 09 21:40:05 CET 2017] Debug: Player 33 XP: 33 Level: 3

@@ -1,0 +1,8 @@
+[Sun Nov 19 15:00:42 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 19 15:00:52 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 19 15:19:46 CET 2017] Debug: Player 0 XP: 0 Level: 0
+[Sun Nov 19 15:31:05 CET 2017] Debug: Player 5 XP: 5 Level: 0
+[Sun Nov 19 15:31:05 CET 2017] Debug: Player 5 XP: 5 Level: 0
+[Sun Nov 19 15:31:05 CET 2017] Debug: Player 5 XP: 5 Level: 0
+[Sun Nov 19 15:42:25 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 19 15:42:35 CET 2017] Debug: Searching update for xpShop!

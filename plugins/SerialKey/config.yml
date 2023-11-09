@@ -1,0 +1,34 @@
+# SerialKey configuration
+options:
+  reusable-keys: true
+  disable-hoppers: true
+  encrypt-lore: false
+  can-rename-items: false
+  enable-updater: true
+  enable-metrics: true
+key:
+  material: TRIPWIRE_HOOK
+  name: '&6Key'
+  shape:
+  - A
+  - B
+master-key:
+  material: NAME_TAG
+  name: '&5Master Key'
+  shape:
+  - C
+  - B
+bunch-of-keys:
+  material: NAME_TAG
+  name: '&9Bunch of keys'
+  shape:
+  - ' D '
+  - DBD
+  - ' D '
+padlock-finder:
+  name: '&cPadlock finder'
+shape-materials-v1:
+  A: IRON_INGOT
+  B: LEVER
+  C: COMMAND
+  D: STRING

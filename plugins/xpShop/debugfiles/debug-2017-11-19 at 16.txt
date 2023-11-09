@@ -1,0 +1,3 @@
+[Sun Nov 19 16:14:14 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 19 16:14:14 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 19 16:14:14 CET 2017] disabled in 16 ms

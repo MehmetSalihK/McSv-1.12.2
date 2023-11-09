@@ -1,0 +1,18 @@
+[Thu Feb 08 19:35:09 CET 2018] Debug: Config file found!
+[Thu Feb 08 19:35:09 CET 2018] Debug: check-for-updates: true!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Version: 12.2
+[Thu Feb 08 19:35:09 CET 2018] Debug: Creaeting table!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Table created!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Created in 4 ms!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Shops stats file contains 0 values!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Stats loaded!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Safe stats file contains 0 values!
+[Thu Feb 08 19:35:09 CET 2018] Debug: Stats loaded!
+[Thu Feb 08 19:35:09 CET 2018] Enabled in 135ms
+[Thu Feb 08 19:35:25 CET 2018] Debug: Shops stats file contains 0 values!
+[Thu Feb 08 19:35:35 CET 2018] Debug: Searching update for xpShop!
+[Thu Feb 08 19:36:44 CET 2018] Debug: Player 0 XP: 0 Level: 0
+[Thu Feb 08 19:45:13 CET 2018] Debug: Line 0: §2§l[For Sale]
+[Thu Feb 08 19:56:50 CET 2018] Debug: Line 0: §2§l[For Sale]
+[Thu Feb 08 19:57:57 CET 2018] Debug: Line 0: 
+[Thu Feb 08 19:59:28 CET 2018] Debug: Line 0: 

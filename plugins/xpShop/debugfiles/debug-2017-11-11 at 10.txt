@@ -1,0 +1,18 @@
+[Sat Nov 11 10:00:06 CET 2017] Debug: Player 176 XP: 176 Level: 10
+[Sat Nov 11 10:00:06 CET 2017] Debug: Player 176 XP: 176 Level: 10
+[Sat Nov 11 10:00:06 CET 2017] Debug: Player 176 XP: 176 Level: 10
+[Sat Nov 11 10:00:39 CET 2017] Debug: Player 177 XP: 177 Level: 10
+[Sat Nov 11 10:02:38 CET 2017] Debug: Player 183 XP: 183 Level: 10
+[Sat Nov 11 10:02:38 CET 2017] Debug: Player 183 XP: 183 Level: 10
+[Sat Nov 11 10:02:44 CET 2017] Debug: Player 188 XP: 188 Level: 11
+[Sat Nov 11 10:02:44 CET 2017] Debug: Player 188 XP: 188 Level: 11
+[Sat Nov 11 10:02:44 CET 2017] Debug: Player 188 XP: 188 Level: 11
+[Sat Nov 11 10:02:44 CET 2017] Debug: Player 188 XP: 188 Level: 11
+[Sat Nov 11 10:04:14 CET 2017] Debug: Player 195 XP: 195 Level: 11
+[Sat Nov 11 10:07:03 CET 2017] Debug: Player 198 XP: 198 Level: 11
+[Sat Nov 11 10:07:05 CET 2017] Debug: Player 201 XP: 201 Level: 11
+[Sat Nov 11 10:08:12 CET 2017] Debug: Player 205 XP: 205 Level: 11
+[Sat Nov 11 10:08:12 CET 2017] Debug: Player 205 XP: 205 Level: 11
+[Sat Nov 11 10:08:45 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Nov 11 10:08:45 CET 2017] Debug: Safe stats file contains 0 values!
+[Sat Nov 11 10:08:45 CET 2017] disabled in 23 ms

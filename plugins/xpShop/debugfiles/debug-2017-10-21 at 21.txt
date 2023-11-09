@@ -1,0 +1,9 @@
+[Sat Oct 21 21:10:59 CEST 2017] Debug: Player 0 XP: 0 Level: 0
+[Sat Oct 21 21:16:04 CEST 2017] Debug: Player 5 XP: 5 Level: 0
+[Sat Oct 21 21:16:04 CEST 2017] Debug: Player 5 XP: 5 Level: 0
+[Sat Oct 21 21:16:04 CEST 2017] Debug: Player 5 XP: 5 Level: 0
+[Sat Oct 21 21:16:44 CEST 2017] Debug: Player 298 XP: 298 Level: 14
+[Sat Oct 21 21:16:45 CEST 2017] Debug: Player 298 XP: 298 Level: 14
+[Sat Oct 21 21:18:12 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sat Oct 21 21:18:12 CEST 2017] Debug: Safe stats file contains 0 values!
+[Sat Oct 21 21:18:12 CEST 2017] disabled in 13 ms

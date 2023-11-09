@@ -1,0 +1,8 @@
+[Thu Nov 23 21:03:10 CET 2017] Debug: Player 232 XP: 232 Level: 12
+[Thu Nov 23 21:03:10 CET 2017] Debug: Player 232 XP: 232 Level: 12
+[Thu Nov 23 21:03:11 CET 2017] Debug: Player 232 XP: 232 Level: 12
+[Thu Nov 23 21:06:55 CET 2017] Debug: Player 237 XP: 237 Level: 12
+[Thu Nov 23 21:06:55 CET 2017] Debug: Player 237 XP: 237 Level: 12
+[Thu Nov 23 21:06:56 CET 2017] Debug: Player 237 XP: 237 Level: 12
+[Thu Nov 23 21:39:29 CET 2017] Debug: Shops stats file contains 0 values!
+[Thu Nov 23 21:39:39 CET 2017] Debug: Searching update for xpShop!

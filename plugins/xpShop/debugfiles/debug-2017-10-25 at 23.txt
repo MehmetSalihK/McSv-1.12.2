@@ -1,0 +1,22 @@
+[Wed Oct 25 23:00:08 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 25 23:00:18 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 25 23:03:24 CEST 2017] Debug: Player 405 XP: 405 Level: 17
+[Wed Oct 25 23:05:19 CEST 2017] Debug: Checking if block is valid!
+[Wed Oct 25 23:05:22 CEST 2017] Debug: Checking if block is valid!
+[Wed Oct 25 23:41:48 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 25 23:41:58 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 25 23:42:53 CEST 2017] Debug: Player 411 XP: 411 Level: 17
+[Wed Oct 25 23:43:00 CEST 2017] Debug: Player 412 XP: 412 Level: 17
+[Wed Oct 25 23:44:38 CEST 2017] Debug: Player 415 XP: 415 Level: 17
+[Wed Oct 25 23:48:16 CEST 2017] Debug: Player 420 XP: 420 Level: 17
+[Wed Oct 25 23:48:16 CEST 2017] Debug: Player 420 XP: 420 Level: 17
+[Wed Oct 25 23:48:16 CEST 2017] Debug: Player 420 XP: 420 Level: 17
+[Wed Oct 25 23:48:30 CEST 2017] Debug: Player 425 XP: 425 Level: 17
+[Wed Oct 25 23:48:30 CEST 2017] Debug: Player 425 XP: 425 Level: 17
+[Wed Oct 25 23:48:30 CEST 2017] Debug: Player 425 XP: 425 Level: 17
+[Wed Oct 25 23:49:30 CEST 2017] Debug: Player 430 XP: 430 Level: 17
+[Wed Oct 25 23:49:30 CEST 2017] Debug: Player 430 XP: 430 Level: 17
+[Wed Oct 25 23:49:30 CEST 2017] Debug: Player 430 XP: 430 Level: 17
+[Wed Oct 25 23:59:41 CEST 2017] Debug: Player 5 XP: 5 Level: 0
+[Wed Oct 25 23:59:54 CEST 2017] Debug: Player 434 XP: 434 Level: 17
+[Wed Oct 25 23:59:54 CEST 2017] Debug: Player 434 XP: 434 Level: 17

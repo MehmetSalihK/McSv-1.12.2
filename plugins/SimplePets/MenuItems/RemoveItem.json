@@ -1,0 +1,15 @@
+{
+  "CustomSkull": {
+    "TextureURL": "",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [],
+  "DisplayLoreEnabled": "false",
+  "DisplayName": "&4Remove Pet",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "BARRIER",
+  "Slot-Number": "50"
+}

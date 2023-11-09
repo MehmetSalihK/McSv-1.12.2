@@ -1,0 +1,68 @@
+#############################
+## MCCaseOpening by DomeDD ##
+#############################
+# If you don't know the Minecraft Sound names, take a look on this page: https://www.spigotmc.org/wiki/cc-sounds-list/
+
+Prices:
+     # '1' == Minecraft; '2' == Vault
+     Currency Mode: '1'
+     # Only important if 'Prices.Currency Mode' == 1
+     Case Currency Item: 263
+     # Only important if 'Prices.Currency Mode' == 1
+     Key Currency Item: 388
+Inventories:
+     Pre Case:
+         Possible Items Item Name: '&3Possible Items'
+         Cancel Item Name: '&3Cancel'
+         Open Item Name: '&3Open'
+         Possible Items Lore: '&3Chance: &e[CHANCE]%'
+Messages:
+     Opening Case: '&8[&6MCCaseOpening&8] &7&oOpening case...'
+     No Keys: '&8[&6MCCaseOpening&8] &cYou are out of Keys. &3/mcco shop &cto buy one.'
+     Not Enough Money: '&8[&6MCCaseOpening&8] &cYou don''t have enough resources to buy this item.'
+     # Only enabled if 'Prices.Currency Mode' == 2
+     Item Bought: '&8[&6MCCaseOpening&8] &e[AMOUNT]$ &7has been removed from your balance!'
+     # Only enabled if 'Prices.Currency Mode' == 2
+     Money Added: '&8[&6MCCaseOpening&8] &e[AMOUNT]$ &7has been added to your balance!'
+     Item Found Announce: '&8[&6MCCaseOpening&8] &3[PLAYER] &8found &e[AMOUNT] [ITEM] &8in a [CASE]'
+Sounds:
+     Open A Case: BLOCK_ENDERCHEST_OPEN
+     Close A Case: BLOCK_ENDERCHEST_CLOSE
+     Item Roll: ENTITY_EXPERIENCE_ORB_PICKUP
+     Item Win: ENTITY_PLAYER_LEVELUP
+Item Roll:
+     Rolls: 20
+     # Delay in ticks (20 ticks == 1 second)
+     Delay: 2
+Names:
+     Shop Inventory: '&6MCCaseOpening Shop'
+     Tier 1 Case:
+         Name: '&1Mil-Spec Case'
+         Lore: '&3Price: &e[PRICE] Coal'
+     Tier 2 Case:
+         Name: '&5Restricted Case'
+         Lore: '&3Price: &e[PRICE] Coal'
+     Tier 3 Case:
+         Name: '&dClassified Case'
+         Lore: '&3Price: &e[PRICE] Coal'
+     Tier 4 Case:
+         Name: '&4Covert Case'
+         Lore: '&3Price: &e[PRICE] Coal'
+     Tier 5 Case:
+         Name: '&6Premium Case'
+         Lore: '&3Price: &e[PRICE] Coal'
+     Tier 1 Key:
+         Name: '&1Mil-Spec Key'
+         Lore: '&3Price: &e[PRICE] Emerald'
+     Tier 2 Key:
+         Name: '&5Restricted Key'
+         Lore: '&3Price: &e[PRICE] Emeralds'
+     Tier 3 Key:
+         Name: '&dClassified Key'
+         Lore: '&3Price: &e[PRICE] Emeralds'
+     Tier 4 Key:
+         Name: '&4Covert Key'
+         Lore: '&3Price: &e[PRICE] Emeralds'
+     Tier 5 Key:
+         Name: '&6Premium Key'
+         Lore: '&3Price: &e[PRICE] Emeralds'

@@ -1,0 +1,7 @@
+[Sun Jul 16 17:25:30 CEST 2017] Debug: Line 0: §cNdngMehmet60
+[Sun Jul 16 17:28:20 CEST 2017] Debug: Player 6 XP: 6 Level: 0
+[Sun Jul 16 17:28:20 CEST 2017] Debug: Player 6 XP: 6 Level: 0
+[Sun Jul 16 17:28:39 CEST 2017] Debug: Checking if block is valid!
+[Sun Jul 16 17:33:21 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sun Jul 16 17:33:21 CEST 2017] Debug: Safe stats file contains 0 values!
+[Sun Jul 16 17:33:21 CEST 2017] disabled in 107 ms

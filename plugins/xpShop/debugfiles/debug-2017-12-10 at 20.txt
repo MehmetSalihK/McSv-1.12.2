@@ -1,0 +1,36 @@
+[Sun Dec 10 20:48:01 CET 2017] Debug: Config file found!
+[Sun Dec 10 20:48:01 CET 2017] Debug: check-for-updates: true!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Version: 12.2
+[Sun Dec 10 20:48:01 CET 2017] Debug: Creaeting table!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Table created!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Created in 5 ms!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Stats loaded!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Dec 10 20:48:01 CET 2017] Debug: Stats loaded!
+[Sun Dec 10 20:48:01 CET 2017] Enabled in 305ms
+[Sun Dec 10 20:48:18 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Dec 10 20:48:28 CET 2017] Debug: Searching update for xpShop!
+[Sun Dec 10 20:52:34 CET 2017] Debug: Player 2132 XP: 2132 Level: 35
+[Sun Dec 10 20:53:37 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Dec 10 20:53:37 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Dec 10 20:53:37 CET 2017] disabled in 70 ms
+[Sun Dec 10 20:53:48 CET 2017] Debug: Config file found!
+[Sun Dec 10 20:53:48 CET 2017] Debug: check-for-updates: true!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Version: 12.2
+[Sun Dec 10 20:53:48 CET 2017] Debug: Creaeting table!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Table created!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Created in 5 ms!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Stats loaded!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Dec 10 20:53:48 CET 2017] Debug: Stats loaded!
+[Sun Dec 10 20:53:48 CET 2017] Enabled in 230ms
+[Sun Dec 10 20:54:00 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Dec 10 20:54:10 CET 2017] Debug: Searching update for xpShop!
+[Sun Dec 10 20:57:54 CET 2017] Debug: Player 2134 XP: 2134 Level: 35
+[Sun Dec 10 20:57:55 CET 2017] Debug: Player 2134 XP: 2134 Level: 35
+[Sun Dec 10 20:57:56 CET 2017] Debug: Player 2136 XP: 2136 Level: 35
+[Sun Dec 10 20:57:56 CET 2017] Debug: Player 2136 XP: 2136 Level: 35
+[Sun Dec 10 20:58:39 CET 2017] Debug: Player 2137 XP: 2137 Level: 35
+[Sun Dec 10 20:59:07 CET 2017] Debug: Player 2138 XP: 2138 Level: 35

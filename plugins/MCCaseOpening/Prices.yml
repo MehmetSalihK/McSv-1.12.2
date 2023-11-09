@@ -1,0 +1,26 @@
+Prices:
+  Tier 1:
+    Case: 5
+    VIP Case: 1
+    Key: 5
+    VIP Key: 1
+  Tier 2:
+    Case: 10
+    VIP Case: 5
+    Key: 10
+    VIP Key: 5
+  Tier 3:
+    Case: 20
+    VIP Case: 10
+    Key: 20
+    VIP Key: 10
+  Tier 4:
+    Case: 30
+    VIP Case: 20
+    Key: 30
+    VIP Key: 20
+  Tier 5:
+    Case: 60
+    VIP Case: 50
+    Key: 60
+    VIP Key: 50

@@ -1,0 +1,23 @@
+[Mon Nov 20 20:48:41 CET 2017] Debug: Config file found!
+[Mon Nov 20 20:48:41 CET 2017] Debug: check-for-updates: true!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Version: 12.2
+[Mon Nov 20 20:48:41 CET 2017] Debug: Creaeting table!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Table created!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Created in 4 ms!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Stats loaded!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Nov 20 20:48:41 CET 2017] Debug: Stats loaded!
+[Mon Nov 20 20:48:41 CET 2017] Enabled in 286ms
+[Mon Nov 20 20:48:52 CET 2017] Debug: Player 85 XP: 85 Level: 6
+[Mon Nov 20 20:48:56 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 20 20:49:06 CET 2017] Debug: Searching update for xpShop!
+[Mon Nov 20 20:50:01 CET 2017] Debug: Player 89 XP: 89 Level: 6
+[Mon Nov 20 20:50:01 CET 2017] Debug: Player 89 XP: 89 Level: 6
+[Mon Nov 20 20:50:06 CET 2017] Debug: Player 90 XP: 90 Level: 6
+[Mon Nov 20 20:52:44 CET 2017] Debug: Player 98 XP: 98 Level: 7
+[Mon Nov 20 20:52:44 CET 2017] Debug: Player 98 XP: 98 Level: 7
+[Mon Nov 20 20:52:44 CET 2017] Debug: Player 98 XP: 98 Level: 7
+[Mon Nov 20 20:54:08 CET 2017] Debug: Player 103 XP: 103 Level: 7
+[Mon Nov 20 20:54:09 CET 2017] Debug: Player 103 XP: 103 Level: 7
+[Mon Nov 20 20:54:09 CET 2017] Debug: Player 103 XP: 103 Level: 7

@@ -1,0 +1,18 @@
+{
+  "CustomSkull": {
+    "TextureURL": "Insert Base64URL Here",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [
+    "&7Click Here to",
+    "&7Close the Menu"
+  ],
+  "DisplayLoreEnabled": "true",
+  "DisplayName": "&cClose Menu",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "BARRIER",
+  "Slot-Number": "50"
+}

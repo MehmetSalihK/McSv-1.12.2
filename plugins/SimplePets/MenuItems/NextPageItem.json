@@ -1,0 +1,18 @@
+{
+  "CustomSkull": {
+    "TextureURL": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "true"
+  },
+  "DisplayLore": [
+    "&7Click Here to go",
+    "&7the next page"
+  ],
+  "DisplayLoreEnabled": "true",
+  "DisplayName": "&6&l&m----&6&l>",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "ARROW",
+  "Slot-Number": "54"
+}

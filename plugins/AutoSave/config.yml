@@ -1,0 +1,10 @@
+Config:
+  SendMessage: true
+  NotifyAdmins: true
+  BeginAdmin: '&fTous les mondes seront sauvés maintenant!'
+  EndAdmin: '&fTous les mondes ont été sauvés!'
+  BeginMessage: '&fTous les mondes seront sauvés maintenant!'
+  EndMessage: '&fTous les mondes ont été sauvés!'
+  SaveMinutes: 15
+  Worlds:
+  - world

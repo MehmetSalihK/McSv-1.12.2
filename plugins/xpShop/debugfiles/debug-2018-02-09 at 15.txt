@@ -1,0 +1,42 @@
+[Fri Feb 09 15:25:08 CET 2018] Debug: Config file found!
+[Fri Feb 09 15:25:08 CET 2018] Debug: check-for-updates: true!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Version: 12.2
+[Fri Feb 09 15:25:08 CET 2018] Debug: Creaeting table!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Table created!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Created in 4 ms!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Shops stats file contains 0 values!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Stats loaded!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Safe stats file contains 0 values!
+[Fri Feb 09 15:25:08 CET 2018] Debug: Stats loaded!
+[Fri Feb 09 15:25:08 CET 2018] Enabled in 331ms
+[Fri Feb 09 15:25:29 CET 2018] Debug: Shops stats file contains 0 values!
+[Fri Feb 09 15:25:39 CET 2018] Debug: Searching update for xpShop!
+[Fri Feb 09 15:26:50 CET 2018] Debug: Player 0 XP: 0 Level: 0
+[Fri Feb 09 15:34:35 CET 2018] Debug: Checking if block is valid!
+[Fri Feb 09 15:40:38 CET 2018] Debug: Shops stats file contains 0 values!
+[Fri Feb 09 15:40:38 CET 2018] Debug: Safe stats file contains 0 values!
+[Fri Feb 09 15:40:38 CET 2018] disabled in 128 ms
+[Fri Feb 09 15:40:49 CET 2018] Debug: Config file found!
+[Fri Feb 09 15:40:49 CET 2018] Debug: check-for-updates: true!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Version: 12.2
+[Fri Feb 09 15:40:49 CET 2018] Debug: Creaeting table!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Table created!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Created in 6 ms!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Shops stats file contains 0 values!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Stats loaded!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Safe stats file contains 0 values!
+[Fri Feb 09 15:40:49 CET 2018] Debug: Stats loaded!
+[Fri Feb 09 15:40:49 CET 2018] Enabled in 202ms
+[Fri Feb 09 15:41:07 CET 2018] Debug: Shops stats file contains 0 values!
+[Fri Feb 09 15:41:17 CET 2018] Debug: Searching update for xpShop!
+[Fri Feb 09 15:52:28 CET 2018] Debug: Player 7 XP: 7 Level: 1
+[Fri Feb 09 15:52:28 CET 2018] Debug: Player 7 XP: 7 Level: 1
+[Fri Feb 09 15:53:34 CET 2018] Debug: Player 12 XP: 12 Level: 1
+[Fri Feb 09 15:53:34 CET 2018] Debug: Player 12 XP: 12 Level: 1
+[Fri Feb 09 15:53:35 CET 2018] Debug: Player 12 XP: 12 Level: 1
+[Fri Feb 09 15:55:34 CET 2018] Debug: Player 0 XP: 0 Level: 0
+[Fri Feb 09 15:58:46 CET 2018] Debug: Player 5 XP: 5 Level: 0
+[Fri Feb 09 15:58:46 CET 2018] Debug: Player 5 XP: 5 Level: 0
+[Fri Feb 09 15:58:46 CET 2018] Debug: Player 5 XP: 5 Level: 0
+[Fri Feb 09 15:58:54 CET 2018] Debug: Player 12 XP: 12 Level: 1
+[Fri Feb 09 15:58:54 CET 2018] Debug: Player 12 XP: 12 Level: 1

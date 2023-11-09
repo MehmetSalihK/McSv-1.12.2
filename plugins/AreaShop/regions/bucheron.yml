@@ -1,0 +1,15 @@
+general:
+  name: bucheron
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: -205.0
+        y: 66.0
+        z: 164.0
+      facing: SOUTH
+      signType: WALL_SIGN
+buy:
+  price: 132.15

@@ -1,0 +1,76 @@
+PlayerPetNaming: true
+Needs-Permission: true
+Remove-Item-If-No-Permission: true
+RemovePetsOnWorldChange: true
+UseVaultEconomy: false
+ShowParticles: true
+Complete-Mobspawning-Deny-Bypass: true
+Use&k: false
+ColorCodes: true
+AllowPetFlight: true
+PetItemStorage:
+  Enable: true
+OldPetRegistering: false
+AvailableSlots:
+- '11'
+- '12'
+- '13'
+- '14'
+- '15'
+- '16'
+- '17'
+- '20'
+- '21'
+- '22'
+- '23'
+- '24'
+- '25'
+- '26'
+- '29'
+- '30'
+- '31'
+- '32'
+- '33'
+- '34'
+- '35'
+- '38'
+- '39'
+- '40'
+- '41'
+- '42'
+- '43'
+- '44'
+PetDataMenu-Enabled: true
+Allow-Pets-Being-Mounts: true
+Worlds:
+  Enabled: false
+  Allowed-Worlds:
+  - world
+Allow-Pets-Being-Hats: true
+Respawn-Last-Pet-On-Login: true
+WorldGuard:
+  Spawning:
+    Always-Allowed: true
+    Allowed-Regions:
+    - spawn
+  Pet-Entering:
+    Always-Allowed: true
+    Allowed-Regions:
+    - spawn
+MySQL:
+  _COMMENT_: 'MySQL support is still in beta, so if you find issues report them to:
+    http://pluginwiki.tk/issues/'
+  Enabled: false
+  Host: host
+  Port: '3306'
+  DatabaseName: insert_DatabaseName
+  Login:
+    Username: username
+    Password: password
+Debug:
+  Enabled: false
+  _COMMENT_: 'The Levels are as follows: 0 = Regular Debug, 1 = Warning, 2 = CRITICAL'
+  Levels:
+  - '0'
+  - '1'
+  - '2'

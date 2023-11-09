@@ -1,0 +1,9 @@
+[Thu Oct 26 04:27:28 CEST 2017] Debug: Player 13 XP: 13 Level: 1
+[Thu Oct 26 04:27:28 CEST 2017] Debug: Player 13 XP: 13 Level: 1
+[Thu Oct 26 04:27:28 CEST 2017] Debug: Player 13 XP: 13 Level: 1
+[Thu Oct 26 04:29:53 CEST 2017] Debug: Shops stats file contains 0 values!
+[Thu Oct 26 04:30:03 CEST 2017] Debug: Searching update for xpShop!
+[Thu Oct 26 04:58:30 CEST 2017] Debug: Player 18 XP: 18 Level: 2
+[Thu Oct 26 04:58:30 CEST 2017] Debug: Player 18 XP: 18 Level: 2
+[Thu Oct 26 04:58:31 CEST 2017] Debug: Player 18 XP: 18 Level: 2
+[Thu Oct 26 04:58:31 CEST 2017] Debug: Player 18 XP: 18 Level: 2

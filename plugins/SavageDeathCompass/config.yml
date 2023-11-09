@@ -1,0 +1,32 @@
+# Plugin configuration file for ${name} v${version}
+
+# Localization language
+language: fr-FR
+
+# Note: use only one enabled/disabled list, and comment out or remove the other list
+# enabled worlds list (use this list for a default-deny world policy)
+
+#enabled-worlds:
+#  - enabled_world1
+#  - enabled_world2
+
+# disabled worlds list (use this list for a default-allow world policy)
+
+disabled-worlds:
+  - disabled_world1
+  - disabled_world2
+
+# Destroy compass on drop
+destroy-on-drop: true
+
+# delay setting compass target after respawn (in ticks; 20 ticks = 1 second)
+target-delay: 20
+
+# Storage type ( yaml | sqlite )
+storage-type: sqlite
+
+# Time interval (in minutes) to sync file to disk (for StorageType 'yaml' only)
+file-sync-interval: 5
+
+# play sound effects
+sound-effects: true

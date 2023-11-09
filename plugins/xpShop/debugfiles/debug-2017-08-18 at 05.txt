@@ -1,0 +1,5 @@
+[Fri Aug 18 05:08:21 CEST 2017] Debug: Shops stats file contains 0 values!
+[Fri Aug 18 05:08:31 CEST 2017] Debug: Searching update for xpShop!
+[Fri Aug 18 05:10:27 CEST 2017] Debug: Shops stats file contains 0 values!
+[Fri Aug 18 05:10:27 CEST 2017] Debug: Safe stats file contains 0 values!
+[Fri Aug 18 05:10:27 CEST 2017] disabled in 19 ms

@@ -1,0 +1,56 @@
+Profits:
+  Tier 1:
+    Profits:
+    - 4:0, 64, 25, &7Cobblestone
+    - 263:0, 64, 15, &1Coal
+    - 287:0, 64, 15, &1String
+    - 351:1, 32, 10, &1Red Dye
+    - 15:0, 20, 10, &1Iron Ore
+    - 412:0, 16, 10, &5Cooked Rabbit
+    - 300:0, 1, 9, &dLeather Leggings
+    - 303:0, 1, 5, &4Chainmail Chestplate
+    - 264:0, 1, 1, &6Diamond
+  Tier 2:
+    Profits:
+    - 4:0, 64, 25, &7Cobblestone
+    - 12:0, 64, 15, &1Sand
+    - 364:0, 20, 10, &1Steak
+    - 15:0, 40, 15, &1Iron Ore
+    - 331:0, 32, 10, &1Redstone
+    - 14:0, 16, 10, &5Gold Ore
+    - 317:0, 1, 9, &dGold Boots
+    - 307:0, 1, 5, &4Iron Chestplate
+    - 276:0, 1, 1, &6Diamond Sword
+  Tier 3:
+    Profits:
+    - 338:0, 64, 25, &1Sugarcane
+    - 334:0, 64, 15, &1Leather
+    - 261:0, 1, 10, &1Bow
+    - 267:0, 1, 15, &1Iron Sword
+    - 351:4, 32, 10, &1Blue Dye
+    - 378:0, 16, 10, &5Magma Cream
+    - 130:0, 1, 9, &dEnder Chest
+    - 312:0, 1, 5, &4Diamond Leggings
+    - 278:0, 1, 1, &6Diamond Pickaxe
+  Tier 4:
+    Profits:
+    - 265:0, 64, 25, &1Iron Ingot
+    - 266:0, 64, 15, &1Gold Ingot
+    - 369:0, 20, 15, &1Blaze Rod
+    - 322:0, 20, 10, &1Golden Apple
+    - 450:0, 10, 10, &1Shulker Shell
+    - 414:0, 8, 10, &5Rabbit Foot
+    - 312:0, 1, 9, &dDiamond Leggings
+    - 311:0, 1, 5, &4Diamond Chestplate
+    - 443:0, 1, 1, &6Elytra
+  Tier 5:
+    Profits:
+    - 384:0, 64, 25, &1Experience Bottle
+    - 370:0, 64, 15, &1Ghast Tear
+    - 261:0, 1, 15, &1Bow, MENDING, 1
+    - 278:0, 1, 10, &1Diamond Pickaxe, MENDING, 1
+    - 276:0, 1, 10, &5Diamond Sword, MENDING, 1
+    - 312:0, 1, 10, &dDiamond Leggings, MENDING, 1
+    - 311:0, 1, 9, &4Diamond Chestplate, MENDING, 1
+    - 443:0, 1, 5, &6Elytra, MENDING, 1
+    - 322:1, 1, 1, &2Golden Apple

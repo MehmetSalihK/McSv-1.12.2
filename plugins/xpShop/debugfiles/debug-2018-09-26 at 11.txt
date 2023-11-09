@@ -1,0 +1,22 @@
+[Wed Sep 26 11:38:22 CEST 2018] Debug: Player 0 XP: 0 Level: 0
+[Wed Sep 26 11:38:34 CEST 2018] Debug: Player 14 XP: 14 Level: 1
+[Wed Sep 26 11:40:07 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 26 11:40:17 CEST 2018] Debug: Searching update for xpShop!
+[Wed Sep 26 11:42:09 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 26 11:42:09 CEST 2018] Debug: Safe stats file contains 0 values!
+[Wed Sep 26 11:42:09 CEST 2018] disabled in 11 ms
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Config file found!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: check-for-updates: true!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Version: 12.2
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Creaeting table!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Table created!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Created in 6 ms!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Stats loaded!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Safe stats file contains 0 values!
+[Wed Sep 26 11:42:24 CEST 2018] Debug: Stats loaded!
+[Wed Sep 26 11:42:24 CEST 2018] Enabled in 302ms
+[Wed Sep 26 11:42:49 CEST 2018] Debug: Shops stats file contains 0 values!
+[Wed Sep 26 11:42:59 CEST 2018] Debug: Searching update for xpShop!
+[Wed Sep 26 11:46:13 CEST 2018] Debug: Checking if block is valid!
+[Wed Sep 26 11:46:16 CEST 2018] Debug: Line 0: §cAdminShop

@@ -1,0 +1,142 @@
+#  Command Blocker Ultimate config file
+#  Get help at https://github.com/xxyy/commandblockerultimate/issues
+
+# Define what commands should be blocked in the following property: (without leading slash)
+# If you specify a command, its aliases will be blocked also. (Example: 'tell' will also block 'msg', 'bukkit:tell', etc.)
+target-commands:
+ - help
+ - plugins
+ - version
+ - tell
+ - minecraft:tell
+ - minecraft:trigger
+ - minecraft:w
+ - tp
+ - gift
+ - //copy
+ - /count
+ - /curve
+ - /cut
+ - /cyl
+ - /deform
+ - /desel
+ - /deselect
+ - /distr
+ - /drain
+ - /eval
+ - /evaluate
+ - /ex
+ - /expand
+ - /ext
+ - /extinguish
+ - /faces
+ - /fast
+ - /fill
+ - /fillr
+ - /fixlava
+ - /fixwater
+ - /flip
+ - /flora
+ - /forest
+ - /g
+ - /gb
+ - /gen
+ - /genbiome
+ - /generate
+ - /generatebiome
+ - /gmask
+ - /green
+ - /hcyl
+ - /help
+ - /hollow
+ - /hpos1
+ - /hpos2
+ - /hpyramid
+ - /hsphere
+ - /inset
+ - /l
+ - /limit
+ - /line
+ - /load
+ - /lrbuild
+ - /middle
+ - /move
+ - /naturalize
+ - /outline
+ - /outset
+ - /overlay
+ - /paste
+ - /pos1
+ - /pos2
+ - /pyramid
+ - /re
+ - /redo
+ - /regen
+ - /removeabove
+ - /removebelow
+ - /removenear
+ - /rep
+ - /replace
+ - /replacenear
+ - /restore
+ - /rotate
+ - /schem
+ - /schematic
+ - /search
+ - /searchitem
+ - /sel
+ - /set
+ - /setbiome
+ - /shift
+ - /size
+ - /smooth
+ - /snow
+ - /solve
+ - /sphere
+ - /stack
+ - /thaw
+ - /toggleplace
+ - /a
+
+# Define the permission that a player needs to bypass the protection:
+bypass-permission: cmdblock.bypass
+
+# Should the plugin send an error message if one is not allowed to execute a command?
+show-error-message: true
+
+# @since 1.5.1
+# Should the plugin send an error message if one is not allowed to tab-complete a command?
+show-tab-error-message: true
+
+# What should that message be? (Use & for color codes, HTML escape codes accepted)
+# <command> will be replaced with the blocked command's name
+# Example: &c&lError message &euro;&auml;&#00A7;
+error-message: 'Salut toi :)'
+
+# @since 1.02
+# Whether to prevent tab-completion for blocked commands.
+# Note: Requires ProtocolLib!
+# Default value: true
+prevent-tab: true
+
+# What strategy to use when blocking tab-complete replies from the server.
+# true: block all completions returning a targeted command (for example, if /p is typed and /pl is blocked, print error message)
+# false: just remove blocked commands from list (in the above example, other commands starting with p would still be shown without notice)
+# Default value: false
+tab-restrictive-mode: false
+
+# @since 1.4.0
+# Whether to display a message when executing an otherwise blocked command to permitted users
+# Default value: false
+notify-bypass: false
+
+# @since 1.4.0
+# The message to display when executing an otherwise blocked command (permitted users only, see notify-bypass)
+# <command> will be replaced with the blocked command's name
+# Example: '&c/<command> is blocked. Executing anyways since you have permission.'
+bypass-message: '&c[CBU] /<command> is blocked. Executing anyways since you have permission.'
+
+# @since 1.4.0
+# The message to display when somebody tries to tab-complete a command that's blocked.
+# Example: '&cI am sorry, but you cannot see completions for this.'
+tab-error-message: 'Salut toi :)'

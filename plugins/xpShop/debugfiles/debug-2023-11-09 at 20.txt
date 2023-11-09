@@ -1,0 +1,13 @@
+[Thu Nov 09 20:59:02 CET 2023] Debug: Config file found!
+[Thu Nov 09 20:59:02 CET 2023] Debug: check-for-updates: true!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Version: 12.2
+[Thu Nov 09 20:59:02 CET 2023] Debug: Creaeting table!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Table created!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Created in 0 ms!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Shops stats file contains 0 values!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Stats loaded!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Safe stats file contains 0 values!
+[Thu Nov 09 20:59:02 CET 2023] Debug: Stats loaded!
+[Thu Nov 09 20:59:02 CET 2023] Enabled in 147ms
+[Thu Nov 09 20:59:17 CET 2023] Debug: Shops stats file contains 0 values!
+[Thu Nov 09 20:59:27 CET 2023] Debug: Searching update for xpShop!

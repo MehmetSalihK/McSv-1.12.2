@@ -1,0 +1,41 @@
+ULTIMATE_CHRISTMAS:
+    SPAWNS:
+        ZOMBIE_CLAUS:
+            ACTIVATE: true
+            NAME: '&f&lZOMBIE CLAUS'
+        SNOWMAN_CLAUS_ASSISTANT:
+            NAME: '&f&lSNOWMAN ASSISTANT'
+    GIFTS:
+        NAME: '&c&lG&f&lI&c&lF&f&lT'
+        DROPS:
+            ITEMS_ENABLED:
+                - Wood
+                - Diamond
+                - Cake
+               #- Gold
+            ITEMS:
+                Wood:
+                    NAME: '&f&lULTRA &4&lWOOD'
+                    LORE:
+                        - '&4&lMERRY &f&lCHRISTMAS'
+                    ITEM: wood:0
+                Diamond:
+                    NAME: '&f&lULTRA &4&lDIAMOND'
+                    LORE:
+                        - '&4&lMERRY &f&lCHRISTMAS'
+                    ITEM: diamond:0
+                Cake:
+                    NAME: '&f&lULTRA &4&lCAKE'
+                    LORE:
+                        - '&4&lMERRY &f&lCHRISTMAS'
+                    ITEM: cake:0 
+                Gold:
+                    NAME: '&f&lULTRA &4&lGOLD'
+                    LORE:
+                        - '&4&lMERRY &f&lCHRISTMAS'
+                    ITEM: gold:0
+    HATS:
+        GIFT:
+            NAME: '&a&lHAT: &c&lGIFT'
+        SANTACLAUS:
+            NAME: '&a&lHAT: &c&lSANTACLAUS'

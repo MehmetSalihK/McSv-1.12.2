@@ -1,0 +1,14 @@
+[Thu Nov 23 22:12:02 CET 2017] Debug: Player 242 XP: 242 Level: 12
+[Thu Nov 23 22:12:02 CET 2017] Debug: Player 242 XP: 242 Level: 12
+[Thu Nov 23 22:12:02 CET 2017] Debug: Player 242 XP: 242 Level: 12
+[Thu Nov 23 22:21:09 CET 2017] Debug: Shops stats file contains 0 values!
+[Thu Nov 23 22:21:19 CET 2017] Debug: Searching update for xpShop!
+[Thu Nov 23 22:30:32 CET 2017] Debug: Player 250 XP: 250 Level: 13
+[Thu Nov 23 22:30:32 CET 2017] Debug: Player 250 XP: 250 Level: 13
+[Thu Nov 23 22:30:32 CET 2017] Debug: Player 250 XP: 250 Level: 13
+[Thu Nov 23 22:30:41 CET 2017] Debug: Player 258 XP: 258 Level: 13
+[Thu Nov 23 22:30:41 CET 2017] Debug: Player 258 XP: 258 Level: 13
+[Thu Nov 23 22:47:32 CET 2017] Debug: Player 263 XP: 263 Level: 13
+[Thu Nov 23 22:47:32 CET 2017] Debug: Player 263 XP: 263 Level: 13
+[Thu Nov 23 22:47:32 CET 2017] Debug: Player 263 XP: 263 Level: 13
+[Thu Nov 23 22:48:19 CET 2017] Debug: Player 0 XP: 0 Level: 0

@@ -1,0 +1,14 @@
+[Sat Nov 11 01:05:32 CET 2017] Debug: Player 96 XP: 96 Level: 7
+[Sat Nov 11 01:05:32 CET 2017] Debug: Player 96 XP: 96 Level: 7
+[Sat Nov 11 01:05:33 CET 2017] Debug: Player 96 XP: 96 Level: 7
+[Sat Nov 11 01:05:33 CET 2017] Debug: Player 96 XP: 96 Level: 7
+[Sat Nov 11 01:11:13 CET 2017] Debug: Player 96 XP: 96 Level: 7
+[Sat Nov 11 01:26:56 CET 2017] Debug: Shops stats file contains 0 values!
+[Sat Nov 11 01:27:06 CET 2017] Debug: Searching update for xpShop!
+[Sat Nov 11 01:59:22 CET 2017] Debug: Player 101 XP: 101 Level: 7
+[Sat Nov 11 01:59:22 CET 2017] Debug: Player 101 XP: 101 Level: 7
+[Sat Nov 11 01:59:22 CET 2017] Debug: Player 101 XP: 101 Level: 7
+[Sat Nov 11 01:59:31 CET 2017] Debug: Player 106 XP: 106 Level: 7
+[Sat Nov 11 01:59:31 CET 2017] Debug: Player 106 XP: 106 Level: 7
+[Sat Nov 11 01:59:31 CET 2017] Debug: Player 106 XP: 106 Level: 7
+[Sat Nov 11 01:59:53 CET 2017] Debug: Player 0 XP: 0 Level: 0

@@ -1,0 +1,23 @@
+[Wed Oct 25 16:03:07 CEST 2017] Debug: Player 375 XP: 375 Level: 16
+[Wed Oct 25 16:03:07 CEST 2017] Debug: Player 375 XP: 375 Level: 16
+[Wed Oct 25 16:03:07 CEST 2017] Debug: Player 375 XP: 375 Level: 16
+[Wed Oct 25 16:21:49 CEST 2017] Debug: Player 380 XP: 380 Level: 16
+[Wed Oct 25 16:21:49 CEST 2017] Debug: Player 380 XP: 380 Level: 16
+[Wed Oct 25 16:21:49 CEST 2017] Debug: Player 380 XP: 380 Level: 16
+[Wed Oct 25 16:22:03 CEST 2017] Debug: Player 384 XP: 384 Level: 16
+[Wed Oct 25 16:22:03 CEST 2017] Debug: Player 384 XP: 384 Level: 16
+[Wed Oct 25 16:22:16 CEST 2017] Debug: Player 390 XP: 390 Level: 16
+[Wed Oct 25 16:22:16 CEST 2017] Debug: Player 390 XP: 390 Level: 16
+[Wed Oct 25 16:22:16 CEST 2017] Debug: Player 390 XP: 390 Level: 16
+[Wed Oct 25 16:22:16 CEST 2017] Debug: Player 390 XP: 390 Level: 16
+[Wed Oct 25 16:28:59 CEST 2017] Debug: Player 395 XP: 395 Level: 17
+[Wed Oct 25 16:28:59 CEST 2017] Debug: Player 395 XP: 395 Level: 17
+[Wed Oct 25 16:28:59 CEST 2017] Debug: Player 395 XP: 395 Level: 17
+[Wed Oct 25 16:28:59 CEST 2017] Debug: Player 395 XP: 395 Level: 17
+[Wed Oct 25 16:35:08 CEST 2017] Debug: Player 398 XP: 398 Level: 17
+[Wed Oct 25 16:37:20 CEST 2017] Debug: Player 405 XP: 405 Level: 17
+[Wed Oct 25 16:40:32 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 25 16:40:42 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 25 16:42:35 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 25 16:42:35 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 25 16:42:35 CEST 2017] disabled in 16 ms

@@ -1,0 +1,25 @@
+# Item Display Name
+itemname: 'Boussole de la mort'
+
+# Item Lore
+itemlore:
+  - '&ePoints à votre dernier'
+  - '&eLieu de décès'
+
+
+# Custom Messages
+#
+# Variable substitutions:
+# %itemname%            Item name as configured above
+# %playername%          Player's full name
+# %playernickname%      Player's nickname
+# %playerdisplayname%   Player's display name, including prefix/suffix
+# %worldname%           World name that player is in
+
+messages:
+  respawn:
+    enabled: true
+    string: '&c%itemname% pointe vers %playernickname%''s lieu de la mort dans %worldname%.'
+  destroy:
+    enabled: true
+    string: '&c%itemname% détruit.'

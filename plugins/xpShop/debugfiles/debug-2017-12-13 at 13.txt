@@ -1,0 +1,42 @@
+[Wed Dec 13 13:23:51 CET 2017] Debug: Config file found!
+[Wed Dec 13 13:23:51 CET 2017] Debug: check-for-updates: true!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Version: 12.2
+[Wed Dec 13 13:23:51 CET 2017] Debug: Creaeting table!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Table created!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Created in 6 ms!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Stats loaded!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Dec 13 13:23:51 CET 2017] Debug: Stats loaded!
+[Wed Dec 13 13:23:51 CET 2017] Enabled in 270ms
+[Wed Dec 13 13:24:08 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 13:24:18 CET 2017] Debug: Searching update for xpShop!
+[Wed Dec 13 13:27:30 CET 2017] Debug: Player 304 XP: 304 Level: 12
+[Wed Dec 13 13:27:52 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 13:27:52 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Dec 13 13:27:52 CET 2017] disabled in 47 ms
+[Wed Dec 13 13:28:08 CET 2017] Debug: Config file found!
+[Wed Dec 13 13:28:08 CET 2017] Debug: check-for-updates: true!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Version: 12.2
+[Wed Dec 13 13:28:08 CET 2017] Debug: Creaeting table!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Table created!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Created in 6 ms!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Stats loaded!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Dec 13 13:28:08 CET 2017] Debug: Stats loaded!
+[Wed Dec 13 13:28:08 CET 2017] Enabled in 195ms
+[Wed Dec 13 13:28:22 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 13:28:32 CET 2017] Debug: Searching update for xpShop!
+[Wed Dec 13 13:33:13 CET 2017] Debug: Player 305 XP: 305 Level: 12
+[Wed Dec 13 13:33:43 CET 2017] Debug: Player 308 XP: 308 Level: 13
+[Wed Dec 13 13:33:43 CET 2017] Debug: Player 308 XP: 308 Level: 13
+[Wed Dec 13 13:34:11 CET 2017] Debug: Player 312 XP: 312 Level: 13
+[Wed Dec 13 13:34:38 CET 2017] Debug: Player 317 XP: 317 Level: 13
+[Wed Dec 13 13:34:47 CET 2017] Debug: Player 320 XP: 320 Level: 13
+[Wed Dec 13 13:35:03 CET 2017] Debug: Player 324 XP: 324 Level: 13
+[Wed Dec 13 13:35:14 CET 2017] Debug: Player 326 XP: 326 Level: 13
+[Wed Dec 13 13:35:50 CET 2017] Debug: Player 332 XP: 332 Level: 13
+[Wed Dec 13 13:40:23 CET 2017] Debug: Checking if block is valid!
+[Wed Dec 13 13:53:20 CET 2017] Debug: Player 432 XP: 432 Level: 16
+[Wed Dec 13 13:57:00 CET 2017] Debug: Player 0 XP: 0 Level: 0

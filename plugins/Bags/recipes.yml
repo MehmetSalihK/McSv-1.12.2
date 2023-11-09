@@ -1,0 +1,61 @@
+recipes:
+  nor:
+    '1': IRON_INGOT
+    '2': LEATHER
+    '3': IRON_INGOT
+    '4': LEATHER
+    '5': STRING
+    '6': LEATHER
+    '7': LEATHER
+    '8': LEATHER
+    '9': LEATHER
+  big:
+    '1': GOLD_INGOT
+    '2': LEATHER
+    '3': GOLD_INGOT
+    '4': LEATHER
+    '5': STRING
+    '6': LEATHER
+    '7': LEATHER
+    '8': LEATHER
+    '9': LEATHER
+  cra:
+    '1': IRON_INGOT
+    '2': LEATHER
+    '3': IRON_INGOT
+    '4': LEATHER
+    '5': STRING
+    '6': LEATHER
+    '7': LEATHER
+    '8': WORKBENCH
+    '9': LEATHER
+  anv:
+    '1': IRON_BLOCK
+    '2': LEATHER
+    '3': IRON_BLOCK
+    '4': LEATHER
+    '5': STRING
+    '6': LEATHER
+    '7': LEATHER
+    '8': ANVIL
+    '9': LEATHER
+  enc:
+    '1': GOLD_INGOT
+    '2': LEATHER
+    '3': GOLD_INGOT
+    '4': LEATHER
+    '5': STRING
+    '6': LEATHER
+    '7': LEATHER
+    '8': ENCHANTMENT_TABLE
+    '9': LEATHER
+  end:
+    '1': GOLD_INGOT
+    '2': DIAMOND
+    '3': GOLD_INGOT
+    '4': LEATHER
+    '5': STRING
+    '6': LEATHER
+    '7': LEATHER
+    '8': ENDER_CHEST
+    '9': LEATHER

@@ -1,0 +1,15 @@
+general:
+  name: maison3
+  world: world
+  type: buy
+  signs:
+    '0':
+      location:
+        world: world
+        x: -165.0
+        y: 65.0
+        z: 163.0
+      facing: WEST
+      signType: SIGN_POST
+buy:
+  price: 0.0

@@ -1,0 +1,11 @@
+# SerialKey messages
+messages:
+  prefix: '&b[SerialKey]'
+  permission: '&cYou do not have the permission to perform this action.'
+  '1': '&aPadlock placed ! If you want to remove it, you have to break this block.'
+  '2': '&6Padlock removed.'
+  '3': '&cThis block has a padlock.'
+  '4': '&aPadlock finder enabled ! Your compasses will now point to its location.
+    You can reset it back to the spawn by doing another right click with any padlock
+    finder.'
+  '5': '&cPadlock finder disabled.'

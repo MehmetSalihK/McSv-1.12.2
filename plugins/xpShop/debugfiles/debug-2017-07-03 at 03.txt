@@ -1,0 +1,46 @@
+[Mon Jul 03 03:03:06 CEST 2017] Debug: Line 0: §cAdminShop
+[Mon Jul 03 03:05:07 CEST 2017] Debug: Checking if block is valid!
+[Mon Jul 03 03:07:43 CEST 2017] Player: NdngMehmet60 command: /xpshop
+[Mon Jul 03 03:07:43 CEST 2017] Player: NdngMehmet60 Msg: /xpShop help
+[Mon Jul 03 03:07:49 CEST 2017] Player: NdngMehmet60 command: /xpshop help
+[Mon Jul 03 03:07:49 CEST 2017] Player: NdngMehmet60 Msg: Help
+[Mon Jul 03 03:09:11 CEST 2017] Debug: Creating xpShop with opt con!
+[Mon Jul 03 03:09:12 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:15 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:15 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:16 CEST 2017] Debug: Line 0: [xpshop]
+[Mon Jul 03 03:09:43 CEST 2017] Debug: Creating xpShop with opt con!
+[Mon Jul 03 03:09:44 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:44 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:44 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:44 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:45 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:45 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:45 CEST 2017] Debug: Checking if block is valid!
+[Mon Jul 03 03:09:45 CEST 2017] Debug: Checking if block is valid!
+[Mon Jul 03 03:09:45 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:46 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:09:48 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:10:45 CEST 2017] Debug:  not blacklisted!
+[Mon Jul 03 03:10:46 CEST 2017] Debug: Line 0: [XPShop]
+[Mon Jul 03 03:24:15 CEST 2017] Debug: Shops stats file contains 0 values!
+[Mon Jul 03 03:24:15 CEST 2017] Debug: Safe stats file contains 0 values!
+[Mon Jul 03 03:24:15 CEST 2017] disabled in 14 ms
+[Mon Jul 03 03:47:21 CEST 2017] Debug: Config file found!
+[Mon Jul 03 03:47:21 CEST 2017] Debug: check-for-updates: true!
+[Mon Jul 03 03:47:21 CEST 2017] Debug: Version: 12.2
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Creaeting table!
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Table created!
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Created in 28 ms!
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Shops stats file contains 0 values!
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Stats loaded!
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Safe stats file contains 0 values!
+[Mon Jul 03 03:47:22 CEST 2017] Debug: Stats loaded!
+[Mon Jul 03 03:47:22 CEST 2017] Enabled in 1488ms
+[Mon Jul 03 03:47:54 CEST 2017] Debug: Shops stats file contains 0 values!
+[Mon Jul 03 03:48:00 CEST 2017] Debug: Searching update for xpShop!
+[Mon Jul 03 03:48:19 CEST 2017] Debug: Player 39 XP: 39 Level: 3
+[Mon Jul 03 03:50:49 CEST 2017] Debug: Line 0: §cAdminShop
+[Mon Jul 03 03:51:47 CEST 2017] Debug: Shops stats file contains 0 values!
+[Mon Jul 03 03:51:47 CEST 2017] Debug: Safe stats file contains 0 values!
+[Mon Jul 03 03:51:47 CEST 2017] disabled in 42 ms

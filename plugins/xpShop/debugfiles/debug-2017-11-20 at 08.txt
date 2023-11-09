@@ -1,0 +1,31 @@
+[Mon Nov 20 08:10:42 CET 2017] Debug: Config file found!
+[Mon Nov 20 08:10:42 CET 2017] Debug: check-for-updates: true!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Version: 12.2
+[Mon Nov 20 08:10:42 CET 2017] Debug: Creaeting table!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Table created!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Created in 6 ms!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Stats loaded!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Nov 20 08:10:42 CET 2017] Debug: Stats loaded!
+[Mon Nov 20 08:10:42 CET 2017] Enabled in 272ms
+[Mon Nov 20 08:10:59 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 20 08:11:09 CET 2017] Debug: Searching update for xpShop!
+[Mon Nov 20 08:13:02 CET 2017] Debug: Player 80 XP: 80 Level: 6
+[Mon Nov 20 08:13:25 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 08:13:26 CET 2017] Debug: Line 0: §cAdminShop
+[Mon Nov 20 08:13:26 CET 2017] Debug: Line 0: §cAdminShop
+[Mon Nov 20 08:13:27 CET 2017] Debug: Line 0: §cAdminShop
+[Mon Nov 20 08:13:28 CET 2017] Debug: Line 0: §cAdminShop
+[Mon Nov 20 08:13:28 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 08:13:29 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 08:13:30 CET 2017] Debug: Line 0: §cAdminShop
+[Mon Nov 20 08:13:42 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 08:22:16 CET 2017] Debug: Player 85 XP: 85 Level: 6
+[Mon Nov 20 08:22:16 CET 2017] Debug: Player 85 XP: 85 Level: 6
+[Mon Nov 20 08:22:16 CET 2017] Debug: Player 85 XP: 85 Level: 6
+[Mon Nov 20 08:26:31 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 08:28:01 CET 2017] Debug: Checking if block is valid!
+[Mon Nov 20 08:34:40 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Nov 20 08:34:40 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Nov 20 08:34:40 CET 2017] disabled in 15 ms

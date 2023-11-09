@@ -1,0 +1,157 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&5'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&4'
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&2'
+      suffix: ''
+  Joueur:
+    default: false
+    permissions:
+    - areashop.buy
+    - areashop.buynormal
+    - areashop.buyresell
+    - areashop.delsign
+    - areashop.unrentown
+    - bukkit.command.stop
+    - citizens.npc.help
+    - citizens.npc.reload
+    - citizens.npc.remove
+    - citizens.npc.remove.all
+    - deathchest
+    - deathchest.chest
+    - deathchest.loot
+    - deathchest.player
+    - griefprevention.claims
+    - hermits
+    - lagg.clear
+    - quickshop.create.buy
+    - quickshop.create.sell
+    - sps.hermits
+    - treeassist.destroy.*
+    - treeassist.destroy.acacia
+    - treeassist.destroy.birch
+    - treeassist.destroy.brownshroom
+    - treeassist.destroy.darkoak
+    - treeassist.destroy.jungle
+    - treeassist.destroy.oak
+    - treeassist.destroy.redshroom
+    - treeassist.destroy.spruce
+    - worldguard.locate
+    - worldguard.region.claim
+    - worldguard.region.define
+    - worldguard.region.select
+    - worldguard.region.select.*
+    - worldguard.region.select.maison
+    - worldguard.region.select.maison1
+    - worldguard.region.select.maison2
+    - worldguard.region.select.maison3
+    - worldguard.region.select.member.*
+    - worldguard.region.select.member.boucheron
+    - worldguard.region.select.member.boulanger
+    - worldguard.region.select.member.mairie
+    - worldguard.region.select.member.maison
+    - worldguard.region.select.member.maison1
+    - worldguard.region.select.member.maison2
+    - worldguard.region.select.member.maison3
+    - worldguard.region.select.member.maison4
+    - worldguard.region.select.member.maison5
+    - worldguard.region.select.member.police
+    - worldguard.region.select.member.vehiculpolice
+    - worldguard.region.select.own.*
+    - worldguard.region.select.own.boucheron
+    - worldguard.region.select.own.boulanger
+    - worldguard.region.select.own.maire
+    - worldguard.region.select.own.mairie
+    - worldguard.region.select.own.maison
+    - worldguard.region.select.own.maison1
+    - worldguard.region.select.own.maison2
+    - worldguard.region.select.own.maison3
+    - worldguard.region.select.own.maison4
+    - worldguard.region.select.own.maison5
+    - worldguard.region.select.own.police
+    - worldguard.region.select.own.vehiculpolice
+    - sketchmap.create
+    - sketchmap.import
+    - sketchmap.get
+    - sketchmap.place
+    - sketchmap.delete
+    - sketchmap.list
+    inheritance: []
+    info:
+      build: false
+      prefix: ''
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - cmdblock.bypass
+    - lagg.admin
+    - PluginPermissionsResolver
+    - tablist.staff
+    - you.dont.have
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&c'
+      suffix: ''
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&e'
+      suffix: ''

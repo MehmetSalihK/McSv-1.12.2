@@ -1,0 +1,8 @@
+hide_stands: true ## Whether or not to hide the armor stands.
+page_size: 36 ## The number of items per page of the Craftmoto Shop. Must be a multiple of 9.
+
+command:
+  inspect:
+    no_vehicle: '&4You must be riding a Craftmoto to use this command.'
+
+garage_capacity: 9 ## The default initial garage capacity.

@@ -1,0 +1,5 @@
+on rightclick with minecraft:chest:
+    if tool's display name is "LuckyChest":
+        send "LuckyChest Yedin."
+        add 2 to player's hunger bar
+        remove 1 minecraft:chest named "LuckyChest" from player

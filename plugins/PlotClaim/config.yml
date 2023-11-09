@@ -1,0 +1,9 @@
+# PlotClaim Configuration
+#  
+#  
+#  
+#  
+# ###############################################################################
+# PDistance is how far plots must be from one another, in blocks, default 10    #
+# ###############################################################################  
+PDistance: 1

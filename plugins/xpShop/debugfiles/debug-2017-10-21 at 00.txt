@@ -1,0 +1,35 @@
+[Sat Oct 21 00:07:14 CEST 2017] Debug: Config file found!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: check-for-updates: true!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Version: 12.2
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Creaeting table!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Table created!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Created in 5 ms!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Stats loaded!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Safe stats file contains 0 values!
+[Sat Oct 21 00:07:15 CEST 2017] Debug: Stats loaded!
+[Sat Oct 21 00:07:15 CEST 2017] Enabled in 307ms
+[Sat Oct 21 00:07:27 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sat Oct 21 00:07:33 CEST 2017] Debug: Player 272 XP: 272 Level: 13
+[Sat Oct 21 00:07:37 CEST 2017] Debug: Searching update for xpShop!
+[Sat Oct 21 00:08:00 CEST 2017] Debug: Player 0 XP: 0 Level: 0
+[Sat Oct 21 00:12:27 CEST 2017] Debug: Line 0: §2§l[For Sale]
+[Sat Oct 21 00:28:45 CEST 2017] Debug: Config file found!
+[Sat Oct 21 00:28:45 CEST 2017] Debug: check-for-updates: true!
+[Sat Oct 21 00:28:45 CEST 2017] Debug: Version: 12.2
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Creaeting table!
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Table created!
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Created in 6 ms!
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Stats loaded!
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Safe stats file contains 0 values!
+[Sat Oct 21 00:28:46 CEST 2017] Debug: Stats loaded!
+[Sat Oct 21 00:28:46 CEST 2017] Enabled in 369ms
+[Sat Oct 21 00:28:58 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sat Oct 21 00:29:08 CEST 2017] Debug: Searching update for xpShop!
+[Sat Oct 21 00:30:21 CEST 2017] Debug: Player 272 XP: 272 Level: 13
+[Sat Oct 21 00:30:23 CEST 2017] Debug: Player 0 XP: 0 Level: 0
+[Sat Oct 21 00:30:40 CEST 2017] Debug: Line 0: 
+[Sat Oct 21 00:56:16 CEST 2017] Debug: Shops stats file contains 0 values!
+[Sat Oct 21 00:56:16 CEST 2017] Debug: Safe stats file contains 0 values!
+[Sat Oct 21 00:56:16 CEST 2017] disabled in 54 ms

@@ -1,0 +1,8 @@
+resourcepack-enabled: true
+langfile: en.yml
+base_item: sword
+bag_size: 27
+bag_big_size: 54
+custom-resourcepack: false
+custom-resourcepack-link: custom-resourcepack-link
+bags-in-bags: false

@@ -1,0 +1,100 @@
+[Wed Oct 18 21:02:48 CEST 2017] Debug: Checking if block is valid!
+[Wed Oct 18 21:10:54 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 21:15:47 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 21:15:47 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 21:15:47 CEST 2017] disabled in 76 ms
+[Wed Oct 18 21:24:05 CEST 2017] Debug: Config file found!
+[Wed Oct 18 21:24:05 CEST 2017] Debug: check-for-updates: true!
+[Wed Oct 18 21:24:05 CEST 2017] Debug: Version: 12.2
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Creaeting table!
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Table created!
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Created in 6 ms!
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 21:24:16 CEST 2017] Debug: Stats loaded!
+[Wed Oct 18 21:24:16 CEST 2017] Enabled in 11465ms
+[Wed Oct 18 21:24:30 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 21:24:40 CEST 2017] Debug: Searching update for xpShop!
+[Wed Oct 18 21:26:24 CEST 2017] Debug: Player 63 XP: 63 Level: 5
+[Wed Oct 18 21:29:15 CEST 2017] Debug: Player 64 XP: 64 Level: 5
+[Wed Oct 18 21:29:16 CEST 2017] Debug: Player 65 XP: 65 Level: 5
+[Wed Oct 18 21:29:18 CEST 2017] Debug: Player 67 XP: 67 Level: 5
+[Wed Oct 18 21:29:18 CEST 2017] Debug: Player 67 XP: 67 Level: 5
+[Wed Oct 18 21:29:19 CEST 2017] Debug: Player 69 XP: 69 Level: 5
+[Wed Oct 18 21:29:19 CEST 2017] Debug: Player 69 XP: 69 Level: 5
+[Wed Oct 18 21:29:44 CEST 2017] Debug: Player 71 XP: 71 Level: 5
+[Wed Oct 18 21:29:44 CEST 2017] Debug: Player 71 XP: 71 Level: 5
+[Wed Oct 18 21:29:46 CEST 2017] Debug: Player 72 XP: 72 Level: 5
+[Wed Oct 18 21:29:47 CEST 2017] Debug: Player 73 XP: 73 Level: 6
+[Wed Oct 18 21:29:47 CEST 2017] Debug: Player 73 XP: 73 Level: 6
+[Wed Oct 18 21:29:50 CEST 2017] Debug: Player 74 XP: 74 Level: 6
+[Wed Oct 18 21:29:55 CEST 2017] Debug: Player 75 XP: 75 Level: 6
+[Wed Oct 18 21:29:57 CEST 2017] Debug: Player 77 XP: 77 Level: 6
+[Wed Oct 18 21:29:57 CEST 2017] Debug: Player 77 XP: 77 Level: 6
+[Wed Oct 18 21:30:00 CEST 2017] Debug: Player 79 XP: 79 Level: 6
+[Wed Oct 18 21:30:00 CEST 2017] Debug: Player 79 XP: 79 Level: 6
+[Wed Oct 18 21:30:04 CEST 2017] Debug: Player 81 XP: 81 Level: 6
+[Wed Oct 18 21:30:04 CEST 2017] Debug: Player 81 XP: 81 Level: 6
+[Wed Oct 18 21:30:05 CEST 2017] Debug: Player 82 XP: 82 Level: 6
+[Wed Oct 18 21:30:13 CEST 2017] Debug: Player 83 XP: 83 Level: 6
+[Wed Oct 18 21:30:16 CEST 2017] Debug: Player 85 XP: 85 Level: 6
+[Wed Oct 18 21:30:16 CEST 2017] Debug: Player 85 XP: 85 Level: 6
+[Wed Oct 18 21:30:20 CEST 2017] Debug: Player 86 XP: 86 Level: 6
+[Wed Oct 18 21:30:22 CEST 2017] Debug: Player 87 XP: 87 Level: 6
+[Wed Oct 18 21:30:39 CEST 2017] Debug: Player 88 XP: 88 Level: 6
+[Wed Oct 18 21:30:40 CEST 2017] Debug: Player 89 XP: 89 Level: 6
+[Wed Oct 18 21:30:42 CEST 2017] Debug: Player 90 XP: 90 Level: 6
+[Wed Oct 18 21:30:43 CEST 2017] Debug: Player 91 XP: 91 Level: 6
+[Wed Oct 18 21:30:47 CEST 2017] Debug: Player 93 XP: 93 Level: 7
+[Wed Oct 18 21:30:47 CEST 2017] Debug: Player 93 XP: 93 Level: 7
+[Wed Oct 18 21:30:47 CEST 2017] Debug: Player 93 XP: 93 Level: 7
+[Wed Oct 18 21:30:49 CEST 2017] Debug: Player 95 XP: 95 Level: 7
+[Wed Oct 18 21:30:49 CEST 2017] Debug: Player 95 XP: 95 Level: 7
+[Wed Oct 18 21:30:51 CEST 2017] Debug: Player 97 XP: 97 Level: 7
+[Wed Oct 18 21:30:51 CEST 2017] Debug: Player 97 XP: 97 Level: 7
+[Wed Oct 18 21:30:53 CEST 2017] Debug: Player 98 XP: 98 Level: 7
+[Wed Oct 18 21:30:54 CEST 2017] Debug: Player 100 XP: 100 Level: 7
+[Wed Oct 18 21:30:55 CEST 2017] Debug: Player 100 XP: 100 Level: 7
+[Wed Oct 18 21:30:56 CEST 2017] Debug: Player 101 XP: 101 Level: 7
+[Wed Oct 18 21:30:59 CEST 2017] Debug: Player 103 XP: 103 Level: 7
+[Wed Oct 18 21:30:59 CEST 2017] Debug: Player 103 XP: 103 Level: 7
+[Wed Oct 18 21:31:01 CEST 2017] Debug: Player 105 XP: 105 Level: 7
+[Wed Oct 18 21:31:01 CEST 2017] Debug: Player 105 XP: 105 Level: 7
+[Wed Oct 18 21:31:04 CEST 2017] Debug: Player 107 XP: 107 Level: 7
+[Wed Oct 18 21:31:04 CEST 2017] Debug: Player 107 XP: 107 Level: 7
+[Wed Oct 18 21:31:05 CEST 2017] Debug: Player 109 XP: 109 Level: 7
+[Wed Oct 18 21:31:05 CEST 2017] Debug: Player 109 XP: 109 Level: 7
+[Wed Oct 18 21:31:08 CEST 2017] Debug: Player 110 XP: 110 Level: 7
+[Wed Oct 18 21:31:10 CEST 2017] Debug: Player 111 XP: 111 Level: 7
+[Wed Oct 18 21:31:14 CEST 2017] Debug: Player 112 XP: 112 Level: 7
+[Wed Oct 18 21:31:15 CEST 2017] Debug: Player 113 XP: 113 Level: 8
+[Wed Oct 18 21:31:15 CEST 2017] Debug: Player 113 XP: 113 Level: 8
+[Wed Oct 18 21:31:40 CEST 2017] Debug: Player 115 XP: 115 Level: 8
+[Wed Oct 18 21:31:40 CEST 2017] Debug: Player 115 XP: 115 Level: 8
+[Wed Oct 18 21:31:41 CEST 2017] Debug: Player 116 XP: 116 Level: 8
+[Wed Oct 18 21:31:46 CEST 2017] Debug: Player 117 XP: 117 Level: 8
+[Wed Oct 18 21:31:47 CEST 2017] Debug: Player 118 XP: 118 Level: 8
+[Wed Oct 18 21:31:49 CEST 2017] Debug: Player 119 XP: 119 Level: 8
+[Wed Oct 18 21:31:50 CEST 2017] Debug: Player 121 XP: 121 Level: 8
+[Wed Oct 18 21:31:51 CEST 2017] Debug: Player 121 XP: 121 Level: 8
+[Wed Oct 18 21:31:52 CEST 2017] Debug: Player 123 XP: 123 Level: 8
+[Wed Oct 18 21:31:52 CEST 2017] Debug: Player 123 XP: 123 Level: 8
+[Wed Oct 18 21:31:53 CEST 2017] Debug: Player 125 XP: 125 Level: 8
+[Wed Oct 18 21:31:53 CEST 2017] Debug: Player 125 XP: 125 Level: 8
+[Wed Oct 18 21:31:55 CEST 2017] Debug: Player 126 XP: 126 Level: 8
+[Wed Oct 18 21:31:56 CEST 2017] Debug: Player 127 XP: 127 Level: 8
+[Wed Oct 18 21:31:58 CEST 2017] Debug: Player 129 XP: 129 Level: 8
+[Wed Oct 18 21:31:58 CEST 2017] Debug: Player 129 XP: 129 Level: 8
+[Wed Oct 18 21:32:39 CEST 2017] Debug: Player 134 XP: 134 Level: 8
+[Wed Oct 18 21:32:39 CEST 2017] Debug: Player 134 XP: 134 Level: 8
+[Wed Oct 18 21:32:39 CEST 2017] Debug: Player 134 XP: 134 Level: 8
+[Wed Oct 18 21:33:31 CEST 2017] Debug: Player 135 XP: 135 Level: 8
+[Wed Oct 18 21:34:08 CEST 2017] Debug: Player 137 XP: 137 Level: 9
+[Wed Oct 18 21:34:08 CEST 2017] Debug: Player 137 XP: 137 Level: 9
+[Wed Oct 18 21:34:09 CEST 2017] Debug: Player 137 XP: 137 Level: 9
+[Wed Oct 18 21:36:00 CEST 2017] Debug: Player 141 XP: 141 Level: 9
+[Wed Oct 18 21:36:00 CEST 2017] Debug: Player 141 XP: 141 Level: 9
+[Wed Oct 18 21:40:24 CEST 2017] Debug: Shops stats file contains 0 values!
+[Wed Oct 18 21:40:24 CEST 2017] Debug: Safe stats file contains 0 values!
+[Wed Oct 18 21:40:24 CEST 2017] disabled in 47 ms

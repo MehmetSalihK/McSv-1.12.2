@@ -1,0 +1,32 @@
+Default: Joueur
+Groups:
+  Joueur:
+    permissions: []
+    interance: []
+    prefix: '[&f&2Joueur&2&f]'
+    chatColor: RESET
+    nameColor: RESET
+  YouTubeur:
+    permissions: []
+    interance: []
+    prefix: '[&fYou&4Tuber&f]'
+    chatColor: RESET
+    nameColor: RESET
+  Moderator:
+    permissions: []
+    interance: []
+    prefix: '[&5Moderator&r]'
+    chatColor: RESET
+    nameColor: RESET
+  Admin:
+    permissions: []
+    interance: []
+    prefix: '[&4Admin&r]'
+    chatColor: RESET
+    nameColor: RESET
+  Owner:
+    permissions: []
+    interance: []
+    prefix: '[&bOwner&r]'
+    chatColor: RESET
+    nameColor: RESET

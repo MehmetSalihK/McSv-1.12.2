@@ -1,0 +1,293 @@
+# Citizens NPC Storage
+
+lang: messages_fr.properties
+last-created-npc-id: 69
+npc:
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTk1NzI3OTkwNTMsInByb2ZpbGVJZCI6ImI3MGVlMTIxYWU0YzQ4MDE4OGVkZTZlZjdjYmVkZWUzIiwicHJvZmlsZU5hbWUiOiJOZG5nTWVobWV0NjAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjMWJmNjZhMTNiYjViYWJjMTFjNWQyMzI5YWI3NDgyMzQ1YjJjNTE3MWI3ZDA2MTI3MzM0OTNkNWI3YTM0YzEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: ndngmehmet60
+      cached-skin-uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+      player-skin-signature: UjOHW9UTltFNQCNN36qQlTR/FgKLjXgyUyriIvB2P76QmSgJ4sFKxPb68wCPfbtBHg0O6LYm4hNKtQL9oDEEy8sT5o7O/wg1wSlpgkyXTY7OaebKa/9zV7LeoreicLPeYCncsAJCkhodSj/UkcF00Q1hn0lBbkZIUz6dirN2xJnXBjnhXocZ8ChpEN7I4LICFpyYqOcDW6V4//lD78VVIXfPWmYyISuMe5+O0sXCvKOP6eYNcT8TZpBBwj8tsn6gBJNXQFWRKcmq6D/TTaaWUmSXN2Zeo4dEiY20dsYvl6g8VRXbpsku0W6gFT0QmHrEjV7ijOxF7IQSwFF3ODl2lBYsrI1WIy/ULpaC3CdJuhzakIcyxWg0quTMgYDXuUkGoKkrTSMGmOPd1IoNI9yqqZm7w+E0e4b5+iyic0RtD4+/ucSubOgawQrgOsbEnDOv7Ee2PDBIb1e9cP8iGny1EPxfh0uWISfcZHVqktWga510O6rznSDJTlIeJ83G8DOFB7YXHvOyXNQEqad04g/JsYaXW6yY2I43c85zRy1BX+qYpPdB0xmJvAf6fjUIaM6apAqNHvovcAizlfG82FuGEzr98+aEArlp7xB1BTK0cxI2hvxlaVI304zpu7X7MqNoXU7K/xgkjR//CLXon8O/4I9iIbWh4k9Im97YQwtR3ug=
+    name: NdngMehmet60
+    uuid: 5fa9a512-62f9-4144-846e-9af1627abfa2
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: world
+        x: '-123.5125'
+        y: '43.0'
+        z: '154.5946'
+        yaw: '60.39878845214844'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,inventory,owner,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTk1NzI3OTkwNTMsInByb2ZpbGVJZCI6ImI3MGVlMTIxYWU0YzQ4MDE4OGVkZTZlZjdjYmVkZWUzIiwicHJvZmlsZU5hbWUiOiJOZG5nTWVobWV0NjAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjMWJmNjZhMTNiYjViYWJjMTFjNWQyMzI5YWI3NDgyMzQ1YjJjNTE3MWI3ZDA2MTI3MzM0OTNkNWI3YTM0YzEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: ndngmehmet60
+      cached-skin-uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+      player-skin-signature: UjOHW9UTltFNQCNN36qQlTR/FgKLjXgyUyriIvB2P76QmSgJ4sFKxPb68wCPfbtBHg0O6LYm4hNKtQL9oDEEy8sT5o7O/wg1wSlpgkyXTY7OaebKa/9zV7LeoreicLPeYCncsAJCkhodSj/UkcF00Q1hn0lBbkZIUz6dirN2xJnXBjnhXocZ8ChpEN7I4LICFpyYqOcDW6V4//lD78VVIXfPWmYyISuMe5+O0sXCvKOP6eYNcT8TZpBBwj8tsn6gBJNXQFWRKcmq6D/TTaaWUmSXN2Zeo4dEiY20dsYvl6g8VRXbpsku0W6gFT0QmHrEjV7ijOxF7IQSwFF3ODl2lBYsrI1WIy/ULpaC3CdJuhzakIcyxWg0quTMgYDXuUkGoKkrTSMGmOPd1IoNI9yqqZm7w+E0e4b5+iyic0RtD4+/ucSubOgawQrgOsbEnDOv7Ee2PDBIb1e9cP8iGny1EPxfh0uWISfcZHVqktWga510O6rznSDJTlIeJ83G8DOFB7YXHvOyXNQEqad04g/JsYaXW6yY2I43c85zRy1BX+qYpPdB0xmJvAf6fjUIaM6apAqNHvovcAizlfG82FuGEzr98+aEArlp7xB1BTK0cxI2hvxlaVI304zpu7X7MqNoXU7K/xgkjR//CLXon8O/4I9iIbWh4k9Im97YQwtR3ug=
+    name: NdngMehmet60
+    uuid: 0d997448-8a6d-4662-a6de-f64e07899070
+    traits:
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      location:
+        world: world
+        x: '923.7323'
+        y: '71.0'
+        z: '7998.5789'
+        yaw: '-79.60516357421875'
+        pitch: '0.0'
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,type,equipment,owner,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTk1NzI3OTkwNTMsInByb2ZpbGVJZCI6ImI3MGVlMTIxYWU0YzQ4MDE4OGVkZTZlZjdjYmVkZWUzIiwicHJvZmlsZU5hbWUiOiJOZG5nTWVobWV0NjAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjMWJmNjZhMTNiYjViYWJjMTFjNWQyMzI5YWI3NDgyMzQ1YjJjNTE3MWI3ZDA2MTI3MzM0OTNkNWI3YTM0YzEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: ndngmehmet60
+      cached-skin-uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+      player-skin-signature: UjOHW9UTltFNQCNN36qQlTR/FgKLjXgyUyriIvB2P76QmSgJ4sFKxPb68wCPfbtBHg0O6LYm4hNKtQL9oDEEy8sT5o7O/wg1wSlpgkyXTY7OaebKa/9zV7LeoreicLPeYCncsAJCkhodSj/UkcF00Q1hn0lBbkZIUz6dirN2xJnXBjnhXocZ8ChpEN7I4LICFpyYqOcDW6V4//lD78VVIXfPWmYyISuMe5+O0sXCvKOP6eYNcT8TZpBBwj8tsn6gBJNXQFWRKcmq6D/TTaaWUmSXN2Zeo4dEiY20dsYvl6g8VRXbpsku0W6gFT0QmHrEjV7ijOxF7IQSwFF3ODl2lBYsrI1WIy/ULpaC3CdJuhzakIcyxWg0quTMgYDXuUkGoKkrTSMGmOPd1IoNI9yqqZm7w+E0e4b5+iyic0RtD4+/ucSubOgawQrgOsbEnDOv7Ee2PDBIb1e9cP8iGny1EPxfh0uWISfcZHVqktWga510O6rznSDJTlIeJ83G8DOFB7YXHvOyXNQEqad04g/JsYaXW6yY2I43c85zRy1BX+qYpPdB0xmJvAf6fjUIaM6apAqNHvovcAizlfG82FuGEzr98+aEArlp7xB1BTK0cxI2hvxlaVI304zpu7X7MqNoXU7K/xgkjR//CLXon8O/4I9iIbWh4k9Im97YQwtR3ug=
+    name: NdngMehmet60
+    uuid: 32fb57f1-8617-428c-9a6b-b8a9729a9a4f
+    traits:
+      gravity:
+        enabled: false
+      type: PLAYER
+      location:
+        world: world
+        x: '923.6598'
+        y: '71.0'
+        z: '8007.5555'
+        yaw: '-33.416473388671875'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,type,equipment,owner,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '41':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTY5OTU1OTk0OTk4OCwKICAicHJvZmlsZUlkIiA6ICI5YjM3YmY1YzZmZWI0MTdhODA5YzYzYmNkYmQ1OWM4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJwb2xpY2V3b21hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWNkYzMyNDNiMjE1M2FiMjhhMTU5ODYxYmU2NDNhNGZjMWUzYzE3ZDI5MWNkZDNlNTdhN2YzNzBhZDY3NmYzIgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: policewoman
+      cached-skin-uuid: 9b37bf5c-6feb-417a-809c-63bcdbd59c88
+      player-skin-signature: TMF8d44ZkCn9sBK6MOafzIup4VBybAqvkd2PUHg3AbZZKnHVQO+iVZ30ZEL4z6CqCt943YN3y4mLK0o3vG/kUSLtSEIb4Y8NJIjASuogp+tvOHQxOe2sATFrHIXDP6HIONgWoDpThjjc2/Typ710YFHdnTuV2KwPfcDmGWxIg6T+Cq3l4vxpECWadtoGsu/ZjvQH7ueqbs4lWzciyAGNULFpMtNaurhoajQ5A4A67Vp4cqb5xCPtfR2WzNfwkBe1nJBdW9gaeeFkkBgfMlkxQwf5KqlbEJrsZOMT2hcoaefFEq4Splppo3oH19JCCj3HgHSXXBbbr6/zUPS27wZS0CAk/w+D3FEfK9EMm1Fr2EbPOKBLFONeYdXfeR6vyKTjpi9+Y5ewrL0/5PAYxP870NaYkaj8WA9uz/7ZeNWVuYTKhuH38Lkz315fogEhNWC2LuX87c/vxvaK5hMZ606mbeeRLLvLuBqQpEjqlpmtlDznYFl98kMrC3jngAPrU+SwOVm8PHk+g5PRd2gJc59pDQykI80+Lh3xuWzg4LscRgxdo4tov3KTIm+XczBYBJ4jAVUnrK67VlDkfwFKFMJKxChU/lC31wyQxtiAAmhHvkH4P437vavmqFKG1al3Vw17xetsl7Sa6nXOUxLZJ2P9R5hJnTXWGK2nDg6XjszTnqY=
+    name: policewoman
+    uuid: 607f57f5-b1ee-413f-b9cf-1086dc4d1887
+    traits:
+      location:
+        world: world
+        x: '-204.4516'
+        y: '66.0'
+        z: '121.3836'
+        yaw: '-69.27217102050781'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,inventory,owner,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '17':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTk1NzI3OTkwNTMsInByb2ZpbGVJZCI6ImI3MGVlMTIxYWU0YzQ4MDE4OGVkZTZlZjdjYmVkZWUzIiwicHJvZmlsZU5hbWUiOiJOZG5nTWVobWV0NjAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjMWJmNjZhMTNiYjViYWJjMTFjNWQyMzI5YWI3NDgyMzQ1YjJjNTE3MWI3ZDA2MTI3MzM0OTNkNWI3YTM0YzEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: ndngmehmet60
+      cached-skin-uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+      player-skin-signature: UjOHW9UTltFNQCNN36qQlTR/FgKLjXgyUyriIvB2P76QmSgJ4sFKxPb68wCPfbtBHg0O6LYm4hNKtQL9oDEEy8sT5o7O/wg1wSlpgkyXTY7OaebKa/9zV7LeoreicLPeYCncsAJCkhodSj/UkcF00Q1hn0lBbkZIUz6dirN2xJnXBjnhXocZ8ChpEN7I4LICFpyYqOcDW6V4//lD78VVIXfPWmYyISuMe5+O0sXCvKOP6eYNcT8TZpBBwj8tsn6gBJNXQFWRKcmq6D/TTaaWUmSXN2Zeo4dEiY20dsYvl6g8VRXbpsku0W6gFT0QmHrEjV7ijOxF7IQSwFF3ODl2lBYsrI1WIy/ULpaC3CdJuhzakIcyxWg0quTMgYDXuUkGoKkrTSMGmOPd1IoNI9yqqZm7w+E0e4b5+iyic0RtD4+/ucSubOgawQrgOsbEnDOv7Ee2PDBIb1e9cP8iGny1EPxfh0uWISfcZHVqktWga510O6rznSDJTlIeJ83G8DOFB7YXHvOyXNQEqad04g/JsYaXW6yY2I43c85zRy1BX+qYpPdB0xmJvAf6fjUIaM6apAqNHvovcAizlfG82FuGEzr98+aEArlp7xB1BTK0cxI2hvxlaVI304zpu7X7MqNoXU7K/xgkjR//CLXon8O/4I9iIbWh4k9Im97YQwtR3ug=
+    name: NdngMehmet60
+    uuid: 1af64a1c-63d4-4968-ac86-1e02f0bd7aad
+    traits:
+      location:
+        world: world
+        x: '-122.5186'
+        y: '65.0'
+        z: '168.5155'
+        yaw: '61.380615234375'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,owner,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTk1NzI3OTkwNTMsInByb2ZpbGVJZCI6ImI3MGVlMTIxYWU0YzQ4MDE4OGVkZTZlZjdjYmVkZWUzIiwicHJvZmlsZU5hbWUiOiJOZG5nTWVobWV0NjAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjMWJmNjZhMTNiYjViYWJjMTFjNWQyMzI5YWI3NDgyMzQ1YjJjNTE3MWI3ZDA2MTI3MzM0OTNkNWI3YTM0YzEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ==
+      cached-skin-uuid-name: ndngmehmet60
+      cached-skin-uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+      player-skin-signature: UjOHW9UTltFNQCNN36qQlTR/FgKLjXgyUyriIvB2P76QmSgJ4sFKxPb68wCPfbtBHg0O6LYm4hNKtQL9oDEEy8sT5o7O/wg1wSlpgkyXTY7OaebKa/9zV7LeoreicLPeYCncsAJCkhodSj/UkcF00Q1hn0lBbkZIUz6dirN2xJnXBjnhXocZ8ChpEN7I4LICFpyYqOcDW6V4//lD78VVIXfPWmYyISuMe5+O0sXCvKOP6eYNcT8TZpBBwj8tsn6gBJNXQFWRKcmq6D/TTaaWUmSXN2Zeo4dEiY20dsYvl6g8VRXbpsku0W6gFT0QmHrEjV7ijOxF7IQSwFF3ODl2lBYsrI1WIy/ULpaC3CdJuhzakIcyxWg0quTMgYDXuUkGoKkrTSMGmOPd1IoNI9yqqZm7w+E0e4b5+iyic0RtD4+/ucSubOgawQrgOsbEnDOv7Ee2PDBIb1e9cP8iGny1EPxfh0uWISfcZHVqktWga510O6rznSDJTlIeJ83G8DOFB7YXHvOyXNQEqad04g/JsYaXW6yY2I43c85zRy1BX+qYpPdB0xmJvAf6fjUIaM6apAqNHvovcAizlfG82FuGEzr98+aEArlp7xB1BTK0cxI2hvxlaVI304zpu7X7MqNoXU7K/xgkjR//CLXon8O/4I9iIbWh4k9Im97YQwtR3ug=
+    name: NdngMehmet60
+    uuid: 1409c1e7-1b2b-402d-8cb0-c6ca34f6c988
+    traits:
+      location:
+        world: world
+        x: '-122.4817'
+        y: '65.0'
+        z: '159.616'
+        yaw: '25.475196838378906'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,owner,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTY5OTU1OTk1MDM3MSwKICAicHJvZmlsZUlkIiA6ICJhZmJhNjc3YzkyNGU0Zjc4OTg5ZmFmOTdiY2IwMmQ4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2xpY2VPZmZpY2VyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5ODEzMTgxNzU1YmJjZmY1YTZiNzZiYWJjY2Q1YWRkYjE4ZWU5ZTRjNTU3YjcxZDNiYWUyNTBiMGJhNWFlYTgiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: policeofficer
+      cached-skin-uuid: afba677c-924e-4f78-989f-af97bcb02d87
+      player-skin-signature: YOdrYNO+Zf/Sq9Fp9FQCLEHOK1Akp8ZCuzfKqUmWRuAt69B2ZIR+vxmIgVrLrsQyrLQc23qxBtgFx/ZqPpb3kxpi0V3/AqUigYVACXDpaU/1yLHUqMDacS0Xu3QsAg+qPfG+xV5zyf39BzsEpBPhKt5bFUDVdQTINBc/9LFO5EDWMlywf9j/JTu4ZpyL05dK8BVJmTk30mJbnC2zUQeNyB+F7wRPxpzvHn5SD5nqiuQAUg/bGV+HW4WWtlQkjZtpRAdIeqNQgW0GKr7Bajabk2D23vXQSi2tV67qu2SHnsM7vizGJc/ZIW/yK5exNEECH5kgryhLNJftqRqWD7tEIxyVm9HAifOPA4Q5PcF0mJeSiZjfbdS7OX9TP4ipjo0LvwQx9GqptFbVya2/HQ7HLepcLoYmWfh/oeQxbWGCniydJl+FVvp18z7ju8wIMOpndaKWLLr7xuln1NusqcqghMpml2VIyZhk+OPdN4HO5Ja3tmVNl/NQWpSwiGnTLM3HonohSUHlrkfZbjQmLETD0H4GjLER8zlNsXTK4RZKtdRuSG+bTLMw1S6KIzTFp/YRDqguRiBFpaJWNdP7eyDQswzj+O0ygAhJMVHONfdh9PO8mgHLpJz9rDw7IVy1I5QU8sBNfCSE74kCT+nihWU/94Cte4TlrtyQRV3yksW1/lk=
+    name: policeofficer
+    uuid: 1b2c02e5-fc3e-4725-94ce-b81746e94836
+    traits:
+      location:
+        world: world
+        x: '-203.512'
+        y: '65.0'
+        z: '106.5541'
+        yaw: '-23.499053955078125'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,inventory,owner,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '32':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTY5OTU1OTk0OTc4NywKICAicHJvZmlsZUlkIiA6ICI4ODE3OGU1ZmY2Mzg0NGVlODhlMDExNzljODAwNDk3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2xpY2UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M3ZGI1MTFhYWMxODI2NDI3YTU0ZTNiOTcxMzI5MDdlODRjZWNlMjA5OGI3YmQ3MGJiZmU1NTJjZGY5YjgzNSIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: police
+      cached-skin-uuid: 88178e5f-f638-44ee-88e0-1179c8004973
+      player-skin-signature: S4YQtm9enI9hhHsdYi6zAaOFFH8cOvuVArmUrPz9psWIHNKU3vk/wjAyzOyGE/Bo4veLxlyPqgXkgm6VjAx3kmLf8/WeQ9qbtd08EYHa9colqkYuj2qwBEBF7S28u1zohZlpPEq0XjmjhCwv2CCEOrtOvlDd1sc5/ChytitHgUW9r9+Ivbkw7gFpN20GT4Pn1JflqzxNg00K34QbikpyfW/9+FkZtZS75YhaIKO4xRJXWO6/yqs7v9CGZGAU+ZahqeBLVrqG4Y4t4kCQMY/xzbxWQLUNNE8YcXWL0TegrLZwXccsAFeUxoqakLrdxNYDlcWhNvgeH3cV5hw31t6dq0GTt6MWKbBhuz/IerlUwHzzTJiHiaoxjHJ524asKH1uuoLHDTc2B0pFqMf4FQ2vcqYohLifm3I2qXih7e5NnqMDXVGuzgYfFXk3OAxKxS/l4AJNOlchKIeyLiX3RrPECHsTNXkzCClNwcE9nqE0BR5SxiKfeqEIyxN/MI5iS6khlAZUdm81yfoB4pqsSVTGnaxIKSHewdW3AeB9UpKgQ76Wf2MKGYQhoQ39cYqh9zOxyDWazOOjF3IWcdquyGxqNrWvH+r4LmqW/2q5mePCtwZJC4iGE2ka4i/Icstg6vYwebkvipMwtfLyySjmIBRZ0/Aw91qziPQJIBs15DE4Djw=
+    name: police
+    uuid: 47591df7-4ccc-4392-91bc-c5b45dda3f9c
+    traits:
+      location:
+        world: world
+        x: '-203.4764'
+        y: '65.0'
+        z: '104.5258'
+        yaw: '-22.231361389160156'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,owner,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '56':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTY5OTU1OTk1MDc0NCwKICAicHJvZmlsZUlkIiA6ICI3N2FlNDJlNGE4ODU0MzRjODViYjNiZmRjMjgzZDBiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwd3ljayIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMDBhNTdlNGNkMWU2MDc4OTJhMTZiY2U3MmZiMjlkODliYjExMWI4ZDQ4N2RjODZlZGExM2Q0NWRkNDgzMzU5IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: chipwyck
+      cached-skin-uuid: 77ae42e4-a885-434c-85bb-3bfdc283d0be
+      player-skin-signature: KwQ8uwxONU0g7vvZnYBsoxUy91Djb1HUWpefvJ312a2Zh14BT1WP/gDq62Nr0ehSWm3uyBjqNGftJOv2F/3cvUQMWtneyxzS/3Z32jch8GCI/AvlrNn5jpniPTbjxhH//SNZvfZSkXB4Th27TbJ/CNR605pfmMBNpeEaKH3Ntl7hjXKKeH14MhJ7Ks8T9DFUcZ+r/ARx3p6PBUbX0dvmchVF6RbRG4M0d3ij3hthG5ZFayH/ZOXxCo11mZ6bMpQt+4iC+PMFiTXaDw95YiUcPmHIPEmf3F/lJtdvwYVOCE3rGnSXMEUYyGZAi4a+UuuazkZsaL/IsbH2M0U4P+wTWiQRD1nib3tfn0ODkyDsul/T7c07sV1W40Rkf5Exr257jjNixxi7McCLl7/iApvQyvWRJQDC4urAZoQ9aDeLtLnEaGUNUsBG/cG8m1FKFyONBG8rRO1D9y4WAPe70dZiUpfPlxPUHYylQ68n6kCtYKSfgPq++O5LdjAbXBIgP1Wg3J7I7Kr5Ir6T4qI15jeahS+kOpoFp8BxOQVmfzGUXptBwBqKz7jghDXit29YEFvK8zP+m3bWrt7q9Y1LGFMcYQYYKLceBzGkz42XW+uCC5uH2VRrsDEvZhmKrGFF0STNU/ZTfmOyOT4ODrcGG6fxxrfLc/TfOBgJldlGS1Jujeg=
+    name: chipwyck
+    uuid: d976a545-3a53-425a-9f2b-68ecbc181078
+    traits:
+      location:
+        world: world
+        x: '-208.514'
+        y: '65.0'
+        z: '125.7429'
+        yaw: '-92.3001480102539'
+        pitch: '0.0'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      spawned: true
+      gravity:
+        enabled: false
+      type: PLAYER
+      owner:
+        owner: NdngMehmet60
+        uuid: b70ee121-ae4c-4801-88ed-e6ef7cbedee3
+    traitnames: mounttrait,lookclose,location,gravity,type,equipment,owner,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

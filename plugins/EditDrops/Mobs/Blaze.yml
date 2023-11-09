@@ -1,0 +1,641 @@
+inventory:
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: TRIPWIRE_HOOK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §1L§2u§3c§4k§5y§6C§7h§8e§9s§at §b§lClés
+      lore:
+      - ''
+      enchants:
+        LUCK: 1
+      ItemFlags:
+      - HIDE_ENCHANTS
+  - ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    damage: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lNatural Drops§a True
+      lore:
+      - §7Keep natural mob drops ?
+  - ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §a§lSave

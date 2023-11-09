@@ -1,0 +1,5 @@
+on rightclick with diamond_hoe:
+    if tool's display name is "Pringles":
+        send "Pringles Yedin."
+        add 2 to player's hunger bar
+        remove 1 diamond_hoe named "Pringles" from player

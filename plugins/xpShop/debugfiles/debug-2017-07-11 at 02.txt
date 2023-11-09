@@ -1,0 +1,41 @@
+[Tue Jul 11 02:00:02 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 02:00:10 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 02:00:14 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 02:00:16 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 02:02:39 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 02:02:39 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 02:02:39 CEST 2017] disabled in 43 ms
+[Tue Jul 11 02:16:14 CEST 2017] Debug: Config file found!
+[Tue Jul 11 02:16:14 CEST 2017] Debug: check-for-updates: true!
+[Tue Jul 11 02:16:14 CEST 2017] Debug: Version: 12.2
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Creaeting table!
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Table created!
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Created in 37 ms!
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 02:16:15 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 02:16:15 CEST 2017] Enabled in 1443ms
+[Tue Jul 11 02:16:34 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 02:16:43 CEST 2017] Debug: Searching update for xpShop!
+[Tue Jul 11 02:17:25 CEST 2017] Debug: Player 39 XP: 39 Level: 3
+[Tue Jul 11 02:31:40 CEST 2017] Debug: Player 42 XP: 42 Level: 4
+[Tue Jul 11 02:31:40 CEST 2017] Debug: Player 42 XP: 42 Level: 4
+[Tue Jul 11 02:31:40 CEST 2017] Debug: Player 45 XP: 45 Level: 4
+[Tue Jul 11 02:52:04 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 02:52:04 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 02:52:04 CEST 2017] disabled in 41 ms
+[Tue Jul 11 02:52:59 CEST 2017] Debug: Config file found!
+[Tue Jul 11 02:52:59 CEST 2017] Debug: check-for-updates: true!
+[Tue Jul 11 02:52:59 CEST 2017] Debug: Version: 12.2
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Creaeting table!
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Table created!
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Created in 19 ms!
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 02:53:00 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 02:53:00 CEST 2017] Enabled in 630ms
+[Tue Jul 11 02:53:15 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 02:53:25 CEST 2017] Debug: Searching update for xpShop!
+[Tue Jul 11 02:53:59 CEST 2017] Debug: Player 45 XP: 45 Level: 4

@@ -1,0 +1,67 @@
+[Tue Jul 11 01:34:56 CEST 2017] Debug: Config file found!
+[Tue Jul 11 01:34:56 CEST 2017] Debug: check-for-updates: true!
+[Tue Jul 11 01:34:56 CEST 2017] Debug: Version: 12.2
+[Tue Jul 11 01:35:03 CEST 2017] Debug: Creaeting table!
+[Tue Jul 11 01:35:03 CEST 2017] Debug: Table created!
+[Tue Jul 11 01:35:03 CEST 2017] Debug: Created in 44 ms!
+[Tue Jul 11 01:35:04 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:35:04 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 01:35:04 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 01:35:04 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 01:35:04 CEST 2017] Enabled in 8144ms
+[Tue Jul 11 01:35:31 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:35:41 CEST 2017] Debug: Searching update for xpShop!
+[Tue Jul 11 01:37:06 CEST 2017] Debug: Player 39 XP: 39 Level: 3
+[Tue Jul 11 01:38:17 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:38:17 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 01:38:17 CEST 2017] disabled in 58 ms
+[Tue Jul 11 01:46:38 CEST 2017] Debug: Config file found!
+[Tue Jul 11 01:46:38 CEST 2017] Debug: check-for-updates: true!
+[Tue Jul 11 01:46:38 CEST 2017] Debug: Version: 12.2
+[Tue Jul 11 01:46:39 CEST 2017] Debug: Creaeting table!
+[Tue Jul 11 01:46:39 CEST 2017] Debug: Table created!
+[Tue Jul 11 01:46:39 CEST 2017] Debug: Created in 47 ms!
+[Tue Jul 11 01:46:40 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:46:40 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 01:46:40 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 01:46:40 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 01:46:40 CEST 2017] Enabled in 1454ms
+[Tue Jul 11 01:46:55 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:47:05 CEST 2017] Debug: Searching update for xpShop!
+[Tue Jul 11 01:49:10 CEST 2017] Debug: Player 39 XP: 39 Level: 3
+[Tue Jul 11 01:51:31 CEST 2017] Debug: Line 0: §cNdngMehmet60
+[Tue Jul 11 01:52:14 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:52:14 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 01:52:14 CEST 2017] disabled in 64 ms
+[Tue Jul 11 01:53:01 CEST 2017] Debug: Config file found!
+[Tue Jul 11 01:53:01 CEST 2017] Debug: check-for-updates: true!
+[Tue Jul 11 01:53:01 CEST 2017] Debug: Version: 12.2
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Creaeting table!
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Table created!
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Created in 13 ms!
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Safe stats file contains 0 values!
+[Tue Jul 11 01:53:02 CEST 2017] Debug: Stats loaded!
+[Tue Jul 11 01:53:02 CEST 2017] Enabled in 474ms
+[Tue Jul 11 01:53:17 CEST 2017] Debug: Shops stats file contains 0 values!
+[Tue Jul 11 01:53:27 CEST 2017] Debug: Searching update for xpShop!
+[Tue Jul 11 01:53:51 CEST 2017] Debug: Player 39 XP: 39 Level: 3
+[Tue Jul 11 01:55:24 CEST 2017] Debug: Line 0: §cNdngMehmet60
+[Tue Jul 11 01:56:07 CEST 2017] Debug: Checking if block is valid!
+[Tue Jul 11 01:56:21 CEST 2017] Debug: Checking if block is valid!
+[Tue Jul 11 01:58:10 CEST 2017] Debug: Checking if block is valid!
+[Tue Jul 11 01:59:11 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:12 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:12 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:13 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:13 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:13 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:13 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:14 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:27 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:30 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:35 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:38 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:44 CEST 2017] Debug: Line 0: §cAdminShop
+[Tue Jul 11 01:59:54 CEST 2017] Debug: Line 0: §cAdminShop

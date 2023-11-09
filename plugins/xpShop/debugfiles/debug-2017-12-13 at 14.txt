@@ -1,0 +1,6 @@
+[Wed Dec 13 14:07:05 CET 2017] Debug: Player 1 XP: 1 Level: 0
+[Wed Dec 13 14:10:09 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 14:10:19 CET 2017] Debug: Searching update for xpShop!
+[Wed Dec 13 14:19:16 CET 2017] Debug: Shops stats file contains 0 values!
+[Wed Dec 13 14:19:16 CET 2017] Debug: Safe stats file contains 0 values!
+[Wed Dec 13 14:19:16 CET 2017] disabled in 22 ms

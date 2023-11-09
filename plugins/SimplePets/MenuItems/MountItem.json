@@ -1,0 +1,15 @@
+{
+  "CustomSkull": {
+    "TextureURL": "",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [],
+  "DisplayLoreEnabled": "false",
+  "DisplayName": "&e&lToggle Pet Riding",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "DIAMOND_BARDING",
+  "Slot-Number": "49"
+}

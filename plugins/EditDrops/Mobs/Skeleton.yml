@@ -1,0 +1,249 @@
+inventory:
+  content:
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: CHEST
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: §f§b LuckyChest §b
+      lore:
+      - ''
+      - §7§4 Bonne Chance :) §4
+      - §b48§7x §b?-_-?
+      blockMaterial: CHEST
+  - ==: org.bukkit.inventory.ItemStack
+    type: STAINED_GLASS
+    damage: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §e§lNatural Drops§a True
+      lore:
+      - §7Keep natural mob drops ?
+  - ==: org.bukkit.inventory.ItemStack
+    type: EMERALD_BLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §a§lSave

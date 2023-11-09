@@ -1,0 +1,15 @@
+{
+  "CustomSkull": {
+    "TextureURL": "",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [],
+  "DisplayLoreEnabled": "false",
+  "DisplayName": "&a&lName Pet",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "NAME_TAG",
+  "Slot-Number": "5"
+}

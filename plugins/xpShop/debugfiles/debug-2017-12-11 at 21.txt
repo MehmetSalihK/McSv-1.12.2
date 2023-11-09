@@ -1,0 +1,33 @@
+[Mon Dec 11 21:39:43 CET 2017] Debug: Config file found!
+[Mon Dec 11 21:39:43 CET 2017] Debug: check-for-updates: true!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Version: 12.2
+[Mon Dec 11 21:39:43 CET 2017] Debug: Creaeting table!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Table created!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Created in 7 ms!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 21:39:43 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 21:39:43 CET 2017] Enabled in 349ms
+[Mon Dec 11 21:40:00 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 21:40:10 CET 2017] Debug: Searching update for xpShop!
+[Mon Dec 11 21:40:32 CET 2017] Debug: Player 187 XP: 187 Level: 11
+[Mon Dec 11 21:40:51 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 21:40:51 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 21:40:51 CET 2017] disabled in 223 ms
+[Mon Dec 11 21:41:08 CET 2017] Debug: Config file found!
+[Mon Dec 11 21:41:08 CET 2017] Debug: check-for-updates: true!
+[Mon Dec 11 21:41:08 CET 2017] Debug: Version: 12.2
+[Mon Dec 11 21:41:08 CET 2017] Debug: Creaeting table!
+[Mon Dec 11 21:41:08 CET 2017] Debug: Table created!
+[Mon Dec 11 21:41:08 CET 2017] Debug: Created in 6 ms!
+[Mon Dec 11 21:41:08 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 21:41:08 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 21:41:09 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 21:41:09 CET 2017] Debug: Stats loaded!
+[Mon Dec 11 21:41:09 CET 2017] Enabled in 691ms
+[Mon Dec 11 21:41:26 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 21:41:30 CET 2017] Debug: Searching update for xpShop!
+[Mon Dec 11 21:45:50 CET 2017] Debug: Shops stats file contains 0 values!
+[Mon Dec 11 21:45:50 CET 2017] Debug: Safe stats file contains 0 values!
+[Mon Dec 11 21:45:50 CET 2017] disabled in 20 ms

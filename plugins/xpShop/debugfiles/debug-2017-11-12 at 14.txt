@@ -1,0 +1,36 @@
+[Sun Nov 12 14:06:44 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:06:54 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 14:27:20 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:27:20 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 14:27:20 CET 2017] disabled in 20 ms
+[Sun Nov 12 14:27:31 CET 2017] Debug: Config file found!
+[Sun Nov 12 14:27:31 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 14:27:31 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Table created!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Created in 7 ms!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 14:27:31 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 14:27:31 CET 2017] Enabled in 214ms
+[Sun Nov 12 14:27:44 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:27:54 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 14:50:10 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:50:10 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 14:50:10 CET 2017] disabled in 15 ms
+[Sun Nov 12 14:51:26 CET 2017] Debug: Config file found!
+[Sun Nov 12 14:51:26 CET 2017] Debug: check-for-updates: true!
+[Sun Nov 12 14:51:26 CET 2017] Debug: Version: 12.2
+[Sun Nov 12 14:51:27 CET 2017] Debug: Creaeting table!
+[Sun Nov 12 14:51:27 CET 2017] Debug: Table created!
+[Sun Nov 12 14:51:27 CET 2017] Debug: Created in 6 ms!
+[Sun Nov 12 14:51:27 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:51:27 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 14:51:27 CET 2017] Debug: Safe stats file contains 0 values!
+[Sun Nov 12 14:51:27 CET 2017] Debug: Stats loaded!
+[Sun Nov 12 14:51:27 CET 2017] Enabled in 211ms
+[Sun Nov 12 14:51:39 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Nov 12 14:51:45 CET 2017] Debug: Player 212 XP: 212 Level: 11
+[Sun Nov 12 14:51:49 CET 2017] Debug: Searching update for xpShop!
+[Sun Nov 12 14:59:24 CET 2017] Debug: Player 7 XP: 7 Level: 1

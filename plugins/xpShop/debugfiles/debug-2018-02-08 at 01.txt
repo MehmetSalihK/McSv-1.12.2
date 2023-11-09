@@ -1,0 +1,4 @@
+[Thu Feb 08 01:12:31 CET 2018] Debug: Shops stats file contains 0 values!
+[Thu Feb 08 01:12:41 CET 2018] Debug: Searching update for xpShop!
+[Thu Feb 08 01:54:12 CET 2018] Debug: Shops stats file contains 0 values!
+[Thu Feb 08 01:54:22 CET 2018] Debug: Searching update for xpShop!

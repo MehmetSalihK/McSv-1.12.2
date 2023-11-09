@@ -1,0 +1,5 @@
+on death of zombie:
+	attacker is a player
+	victim is a zombie
+	chance of 100%
+	give a minecraft:ender_chest named "Basic" to attacker

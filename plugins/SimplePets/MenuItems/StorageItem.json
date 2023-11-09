@@ -1,0 +1,16 @@
+{
+  "CustomSkull": {
+    "TextureURL": "",
+    "SkullOwner": "SimpleAPI",
+    "Enabled": "false"
+  },
+  "DisplayLore": [],
+  "DisplayLoreEnabled": "false",
+  "DisplayName": "&e&lItem Storage",
+  "FakeEnchanted": "false",
+  "MaterialAmount": "1",
+  "MaterialData": "0",
+  "MaterialName": "CHEST",
+  "Slot-Number": "1",
+  "_IMPORTANT COMMENT_": "This only shows up in the PetData Menu"
+}

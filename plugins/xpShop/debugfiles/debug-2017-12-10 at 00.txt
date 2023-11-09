@@ -1,0 +1,3 @@
+[Sun Dec 10 00:04:11 CET 2017] Debug: Checking if block is valid!
+[Sun Dec 10 00:35:14 CET 2017] Debug: Shops stats file contains 0 values!
+[Sun Dec 10 00:35:24 CET 2017] Debug: Searching update for xpShop!

@@ -1,0 +1,12 @@
+[Mon Aug 21 03:59:43 CEST 2017] Debug: Config file found!
+[Mon Aug 21 03:59:43 CEST 2017] Debug: check-for-updates: true!
+[Mon Aug 21 03:59:43 CEST 2017] Debug: Version: 12.2
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Creaeting table!
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Table created!
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Created in 4 ms!
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Shops stats file contains 0 values!
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Stats loaded!
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Safe stats file contains 0 values!
+[Mon Aug 21 03:59:44 CEST 2017] Debug: Stats loaded!
+[Mon Aug 21 03:59:44 CEST 2017] Enabled in 1152ms
+[Mon Aug 21 03:59:59 CEST 2017] Debug: Shops stats file contains 0 values!

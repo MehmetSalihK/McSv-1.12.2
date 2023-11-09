@@ -1,0 +1,10 @@
+
+
+# Chat format
+# Available options:
+# [rank] rank name
+# %player% player name
+# %msg% message player typed
+chat:
+    enabled: true
+    format: '[rank] %player%: %msg%'
